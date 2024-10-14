@@ -115,10 +115,10 @@ def updateChannelUrlsM3U(channels, template_channels):
             if announcement['name'] is None:
                 announcement['name'] = current_date
                 
-    with open("mytv.m3u", "w", encoding="utf-8") as f_m3u:
+    with open("Live.m3u", "w", encoding="utf-8") as f_m3u:
         f_m3u.write(f"""#EXTM3U x-tvg-url={",".join(f'"{epg_url}"' for epg_url in config.epg_urls)}\n""")
 
-        with open("mytv.txt", "w", encoding="utf-8") as f_txt:
+        with open("Live.txt", "w", encoding="utf-8") as f_txt:
             for group in config.announcements:
                 f_txt.write(f"{group['channel']},#genre#\n")
                 for announcement in group['entries']:
@@ -151,7 +151,7 @@ def updateChannelUrlsM3U(channels, template_channels):
 
                                 new_url = f"{base_url}{url_suffix}"
 
-                                f_m3u.write(f"#EXTINF:-1 tvg-id=\"{index}\" tvg-name=\"{channel_name}\" tvg-logo=\"https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/mytv/main/tv/{channel_name}.png\" group-title=\"{category}\",{channel_name}\n")
+                                f_m3u.write(f"#EXTINF:-1 tvg-id=\"{index}\" tvg-name=\"{channel_name}\" tvg-logo=\"https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/{channel_name}.png\" group-title=\"{category}\",{channel_name}\n")
                                 f_m3u.write(new_url + "\n")
                                 f_txt.write(f"{channel_name},{new_url}\n")
 
