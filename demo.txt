@@ -453,6 +453,16 @@ iHOT频道,#genre#
 爱幼教,#6000000006000180630.m3u8?cdn=wasusyt
 爱院线,#6000000006000030630.m3u8?cdn=wasusyt
 
+CIBN影院,#genre#
+CIBN情感影院,
+CIBN动作影院,
+CIBN古装剧场,
+CIBN经典剧场,
+CIBN精品影院,
+CIBN流金岁月,
+CIBN院线大片,
+
+
 香港频道,#genre#
 
 凤凰中文台,#d897c583969747fc8a362653e01faf4f
@@ -464,7 +474,7 @@ iHOT频道,#genre#
 港台电视32,#8ef4a2b7bac54aba8b17dfd2071df91f
 HOY TV,#532d47eca340456a814ba21cc5e68a52
 翡翠台(备),#66430d4f000d5d62b0b20b3f5bac56f2
-TVB Plus,#faf51cf453a84400be019b14939e49f6
+TVB plus,#faf51cf453a84400be019b14939e49f6
 无线新闻台(备),#66141a3d000c7a12f94c49ad085f4fe9
 TVB娱乐新闻台,#e77d39049c07479ab0ff57800c6e5b06
 无线新闻台,#665fe3b70003d98a2157b5c1769244d0
@@ -486,8 +496,10 @@ now财经台,#f0dd1f92af2845c2abd2ff29aff2b8ca
 HOY资讯台,#f40dc92cdc224868b83be4156ec315dc
 Hands Up,#7c21e515d5264c9fa21035456fd5024a
 粤语片台,#3d6644cc478648c2952a8c69cb9fccf5
+Now 爆谷,
 美亚电影台HD,
 龙华电影,
+龍華經典台,
 天映频道,
 亚洲剧台,#08cc25f383fd45e8b063efb2b2708dbc
 功夫台,#85398bbb5112406b95c5780d36d3a173
