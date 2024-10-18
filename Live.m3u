@@ -16219,6 +16219,20 @@ http://1.14.19.228:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
 http://wouu.net:9977/udp/239.93.42.11:5140 
 #EXTINF:-1 tvg-id="8" tvg-name="爱院线" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/爱院线.png" group-title="iHOT频道",爱院线
 http://vl15191373.imwork.net:8880/udp/239.93.42.11:5140 
+#EXTINF:-1 tvg-id="1" tvg-name="CIBN情感影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CIBN情感影院.png" group-title="CIBN影院",CIBN情感影院
+http://zby.xjqxz.top/zh09/live.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="CIBN动作影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CIBN动作影院.png" group-title="CIBN影院",CIBN动作影院
+http://zby.xjqxz.top/zh04/live.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="CIBN古装剧场" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CIBN古装剧场.png" group-title="CIBN影院",CIBN古装剧场
+http://zby.xjqxz.top/gzwxj/live.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="CIBN经典剧场" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CIBN经典剧场.png" group-title="CIBN影院",CIBN经典剧场
+http://zby.xjqxz.top/gzdsj2/live.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="CIBN精品影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CIBN精品影院.png" group-title="CIBN影院",CIBN精品影院
+http://zby.xjqxz.top/zh13/live.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="CIBN流金岁月" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CIBN流金岁月.png" group-title="CIBN影院",CIBN流金岁月
+http://zby.xjqxz.top/hkdy1/live.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="CIBN院线大片" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CIBN院线大片.png" group-title="CIBN影院",CIBN院线大片
+http://zby.xjqxz.top/zh06/live.m3u8 
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰资讯台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/凤凰资讯台.png" group-title="香港频道",凤凰资讯台
 http://e1.woc.iiiya.cn:8888/rtp/239.61.2.183:9086 
 #EXTINF:-1 tvg-id="2" tvg-name="凤凰资讯台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/凤凰资讯台.png" group-title="香港频道",凤凰资讯台
@@ -16243,28 +16257,10 @@ http://113.83.152.56:8181/bysid/77.m3u8
 http://php.jdshipin.com:8880/xsj.php?id=hoytv 
 #EXTINF:-1 tvg-id="1" tvg-name="翡翠台(备)" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/翡翠台(备).png" group-title="香港频道",翡翠台(备)
 P2p://147.135.39.171:9906/66430d4f000d5d62b0b20b3f5bac56f2 
-#EXTINF:-1 tvg-id="1" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
-http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8 
-#EXTINF:-1 tvg-id="2" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
+#EXTINF:-1 tvg-id="1" tvg-name="TVB plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB plus.png" group-title="香港频道",TVB plus
+http://223.244.26.190:8082/j2.盗源者死全家/易發TV/hls.m3u8 
+#EXTINF:-1 tvg-id="2" tvg-name="TVB plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB plus.png" group-title="香港频道",TVB plus
 http://php.jdshipin.com:8880/smt.php?id=j2_twn 
-#EXTINF:-1 tvg-id="3" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
-http://free.xiptv.x10.bz/kudou.php?id=7 
-#EXTINF:-1 tvg-id="4" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
-http://beishan008.asuscomm.com:8890/bysid/82.m3u8 
-#EXTINF:-1 tvg-id="5" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
-http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8 
-#EXTINF:-1 tvg-id="6" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
-http://nz171l122.bb60246.ctm.net:8892/bysid/82.m3u8 
-#EXTINF:-1 tvg-id="7" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
-http://m.glx008.com:8000/bysid/82.m3u8 
-#EXTINF:-1 tvg-id="8" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
-http://124.244.149.194:65531/bysid/82.m3u8 
-#EXTINF:-1 tvg-id="9" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp 
-#EXTINF:-1 tvg-id="10" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
-http://113.83.152.61:1935/bysid/82.m3u8 
-#EXTINF:-1 tvg-id="11" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
-http://124.244.149.194:65531/bysid/82 
 #EXTINF:-1 tvg-id="1" tvg-name="无线新闻台(备)" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线新闻台(备).png" group-title="香港频道",无线新闻台(备)
 mitv://147.135.39.171:9906/657c8f940000cdb0a955b82762a73640 
 #EXTINF:-1 tvg-id="1" tvg-name="TVB娱乐新闻台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB娱乐新闻台.png" group-title="香港频道",TVB娱乐新闻台
@@ -16345,6 +16341,8 @@ http://free.xiptv.x10.bz/kudou.php?id=28
 https://www.zhixun.com.mp/zx.php?id=hkc18 
 #EXTINF:-1 tvg-id="1" tvg-name="HOY资讯台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/HOY资讯台.png" group-title="香港频道",HOY资讯台
 https://www.zhixun.com.mp/zx.php?id=hoy78 
+#EXTINF:-1 tvg-id="1" tvg-name="Now 爆谷" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Now 爆谷.png" group-title="香港频道",Now 爆谷
+http://223.244.26.190:8082/now包谷.盗源者死全家/易發TV/hls.m3u8 
 #EXTINF:-1 tvg-id="1" tvg-name="美亚电影台HD" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/美亚电影台HD.png" group-title="香港频道",美亚电影台HD
 mitv://135.148.104.228:19806/a850e570b868424c94319a2652ca7c62 
 #EXTINF:-1 tvg-id="1" tvg-name="龙华电影" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/龙华电影.png" group-title="香港频道",龙华电影
@@ -16363,6 +16361,8 @@ http://220.134.74.149:2399/udp/224.1.4.251:11111
 http://220.134.74.149:2399/udp/224.1.4.36:11111 
 #EXTINF:-1 tvg-id="8" tvg-name="龙华电影" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/龙华电影.png" group-title="香港频道",龙华电影
 https://www.zhixun.com.mp/zx.php?id=atvmov 
+#EXTINF:-1 tvg-id="1" tvg-name="龍華經典台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/龍華經典台.png" group-title="香港频道",龍華經典台
+http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8 
 #EXTINF:-1 tvg-id="1" tvg-name="天映频道" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/天映频道.png" group-title="香港频道",天映频道
 http://ali.hlspull.yximgs.com/live/tboxproqeqcxlvofbqbvnqqsfqvbhfhcvxcvqsqbcvqfdvqsfcbqbnqtypq.flv 
 #EXTINF:-1 tvg-id="2" tvg-name="天映频道" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/天映频道.png" group-title="香港频道",天映频道
@@ -16379,6 +16379,26 @@ https://www.zhixun.com.mp/zx.php?id=smccm
 P2p://generationnexxxt.com:19806/1444d681fb1b44d4a20ff001c2bb2f7c 
 #EXTINF:-1 tvg-id="2" tvg-name="黄金翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/黄金翡翠台.png" group-title="香港频道",黄金翡翠台
 http://php.jdshipin.com:8880/xsj.php?id=golden-jade 
+#EXTINF:-1 tvg-id="1" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8 
+#EXTINF:-1 tvg-id="2" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
+http://free.xiptv.x10.bz/kudou.php?id=7 
+#EXTINF:-1 tvg-id="3" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
+http://beishan008.asuscomm.com:8890/bysid/82.m3u8 
+#EXTINF:-1 tvg-id="4" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
+http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8 
+#EXTINF:-1 tvg-id="5" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
+http://nz171l122.bb60246.ctm.net:8892/bysid/82.m3u8 
+#EXTINF:-1 tvg-id="6" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
+http://m.glx008.com:8000/bysid/82.m3u8 
+#EXTINF:-1 tvg-id="7" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
+http://124.244.149.194:65531/bysid/82.m3u8 
+#EXTINF:-1 tvg-id="8" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp 
+#EXTINF:-1 tvg-id="9" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
+http://113.83.152.61:1935/bysid/82.m3u8 
+#EXTINF:-1 tvg-id="10" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
+http://124.244.149.194:65531/bysid/82 
 #EXTINF:-1 tvg-id="1" tvg-name="AMC电影台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/AMC电影台.png" group-title="4GTV",AMC电影台
 http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv017 
 #EXTINF:-1 tvg-id="2" tvg-name="AMC电影台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/AMC电影台.png" group-title="4GTV",AMC电影台

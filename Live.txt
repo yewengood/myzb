@@ -8117,6 +8117,14 @@ iHOT频道,#genre#
 爱院线,http://1.14.19.228:35455/itv/6000000006000030630.m3u8?cdn=wasusyt 
 爱院线,http://wouu.net:9977/udp/239.93.42.11:5140 
 爱院线,http://vl15191373.imwork.net:8880/udp/239.93.42.11:5140 
+CIBN影院,#genre#
+CIBN情感影院,http://zby.xjqxz.top/zh09/live.m3u8 
+CIBN动作影院,http://zby.xjqxz.top/zh04/live.m3u8 
+CIBN古装剧场,http://zby.xjqxz.top/gzwxj/live.m3u8 
+CIBN经典剧场,http://zby.xjqxz.top/gzdsj2/live.m3u8 
+CIBN精品影院,http://zby.xjqxz.top/zh13/live.m3u8 
+CIBN流金岁月,http://zby.xjqxz.top/hkdy1/live.m3u8 
+CIBN院线大片,http://zby.xjqxz.top/zh06/live.m3u8 
 香港频道,#genre#
 凤凰资讯台,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.183:9086 
 凤凰资讯台,http://110.42.45.20:810/xgpd/xxx.php?id=2 
@@ -8130,17 +8138,8 @@ HOY TV,http://113.83.152.56:8554/bysid/77.m3u8
 HOY TV,http://113.83.152.56:8181/bysid/77.m3u8 
 HOY TV,http://php.jdshipin.com:8880/xsj.php?id=hoytv 
 翡翠台(备),P2p://147.135.39.171:9906/66430d4f000d5d62b0b20b3f5bac56f2 
-TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8 
-TVB Plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn 
-TVB Plus,http://free.xiptv.x10.bz/kudou.php?id=7 
-TVB Plus,http://beishan008.asuscomm.com:8890/bysid/82.m3u8 
-TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8 
-TVB Plus,http://nz171l122.bb60246.ctm.net:8892/bysid/82.m3u8 
-TVB Plus,http://m.glx008.com:8000/bysid/82.m3u8 
-TVB Plus,http://124.244.149.194:65531/bysid/82.m3u8 
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp 
-TVB Plus,http://113.83.152.61:1935/bysid/82.m3u8 
-TVB Plus,http://124.244.149.194:65531/bysid/82 
+TVB plus,http://223.244.26.190:8082/j2.盗源者死全家/易發TV/hls.m3u8 
+TVB plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn 
 无线新闻台(备),mitv://147.135.39.171:9906/657c8f940000cdb0a955b82762a73640 
 TVB娱乐新闻台,http://free.xiptv.x10.bz/kudou.php?id=20 
 无线新闻台,p3p://108.181.32.169:22204/6533fd5600043bdb2d1c8c0729c35d0c 
@@ -8181,6 +8180,7 @@ Thrill,http://php.jdshipin.com:8880/xsj.php?id=thrill
 now财经台,http://free.xiptv.x10.bz/kudou.php?id=28 
 18台,https://www.zhixun.com.mp/zx.php?id=hkc18 
 HOY资讯台,https://www.zhixun.com.mp/zx.php?id=hoy78 
+Now 爆谷,http://223.244.26.190:8082/now包谷.盗源者死全家/易發TV/hls.m3u8 
 美亚电影台HD,mitv://135.148.104.228:19806/a850e570b868424c94319a2652ca7c62 
 龙华电影,http://211.72.65.236:8556/.m3u8 
 龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03 
@@ -8190,6 +8190,7 @@ HOY资讯台,https://www.zhixun.com.mp/zx.php?id=hoy78
 龙华电影,http://220.134.74.149:2399/udp/224.1.4.251:11111 
 龙华电影,http://220.134.74.149:2399/udp/224.1.4.36:11111 
 龙华电影,https://www.zhixun.com.mp/zx.php?id=atvmov 
+龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8 
 天映频道,http://ali.hlspull.yximgs.com/live/tboxproqeqcxlvofbqbvnqqsfqvbhfhcvxcvqsqbcvqfdvqsfcbqbnqtypq.flv 
 天映频道,https://histar-proxy.isus.cc/celestial 
 天映频道,https://edge1.laotv.la:443/live/CHCA/index.m3u8 
@@ -8198,6 +8199,16 @@ HOY资讯台,https://www.zhixun.com.mp/zx.php?id=hoy78
 天映频道,https://www.zhixun.com.mp/zx.php?id=smccm 
 黄金翡翠台,P2p://generationnexxxt.com:19806/1444d681fb1b44d4a20ff001c2bb2f7c 
 黄金翡翠台,http://php.jdshipin.com:8880/xsj.php?id=golden-jade 
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8 
+TVB Plus,http://free.xiptv.x10.bz/kudou.php?id=7 
+TVB Plus,http://beishan008.asuscomm.com:8890/bysid/82.m3u8 
+TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8 
+TVB Plus,http://nz171l122.bb60246.ctm.net:8892/bysid/82.m3u8 
+TVB Plus,http://m.glx008.com:8000/bysid/82.m3u8 
+TVB Plus,http://124.244.149.194:65531/bysid/82.m3u8 
+TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp 
+TVB Plus,http://113.83.152.61:1935/bysid/82.m3u8 
+TVB Plus,http://124.244.149.194:65531/bysid/82 
 4GTV,#genre#
 AMC电影台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv017 
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8 
