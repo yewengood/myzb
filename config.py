@@ -5,7 +5,7 @@ source_urls = [
     "https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt",
     "https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt",
     "https://raw.githubusercontent.com/yewengood/-/main/888.txt",
-    "http://我不是.摸鱼儿.top/live.php",
+    "http://我不是.摸鱼儿.com/live.php",
     "https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt",
     "http://free.xiptv.x10.bz/p3p.php",
     "https://raw.githubusercontent.com/yewengood/kzb/main/zhtv.txt"
