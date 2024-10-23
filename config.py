@@ -1,7 +1,6 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-    "https://www.huanghuadi.com.cn/live.txt",
     "https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt",
     "https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt",
     "https://raw.githubusercontent.com/yewengood/-/main/888.txt",
@@ -9,6 +8,7 @@ source_urls = [
     "https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt",
     "http://free.xiptv.x10.bz/p3p.php",
     "https://raw.githubusercontent.com/yewengood/kzb/main/zhtv.txt"
+    "https://www.huanghuadi.com.cn/live.txt",
     #"https://gitcode.net/ygbh66/666/raw/master/x.txt",
     #"https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
    # "https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt",
