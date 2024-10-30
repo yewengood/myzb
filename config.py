@@ -10,8 +10,8 @@ source_urls = [
     "http://free.xiptv.x10.bz/p3p.php",
     "https://raw.githubusercontent.com/yewengood/kzb/main/zhtv.txt",
     "https://www.huanghuadi.com.cn/live.txt",
-    "http://aktv.top/live.m3u"
-    #"https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+    "http://aktv.top/live.m3u",
+    "http://kxrj.site:567/gggg.nzk"
    # "https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt",
    # "http://120.79.4.185/new/mdlive.txt",
    # "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt",
