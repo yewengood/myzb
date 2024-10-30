@@ -464,62 +464,81 @@ CIBN院线大片,
 
 
 香港频道,#genre#
-
-凤凰中文台,#d897c583969747fc8a362653e01faf4f
-凤凰资讯台,#d207c4a98e784d1299a9aa63268f21c6
-凤凰中文台,#64e1ab2a000417167359b3ca0417008f
-凤凰资讯台,#3f7b6ed02526445e89ce536992d04ef5
-凤凰香港台,#51ed8623722a469f8caa15a0e12a6761
-港台电视31,#c7cd517a9e5b44a9b6037c90f998627f
-港台电视32,#8ef4a2b7bac54aba8b17dfd2071df91f
-HOY TV,#532d47eca340456a814ba21cc5e68a52
-翡翠台(备),#66430d4f000d5d62b0b20b3f5bac56f2
-TVB plus,#faf51cf453a84400be019b14939e49f6
-无线新闻台(备),#66141a3d000c7a12f94c49ad085f4fe9
-TVB娱乐新闻台,#e77d39049c07479ab0ff57800c6e5b06
-无线新闻台,#665fe3b70003d98a2157b5c1769244d0
-PopC,#3ae0f859370b4f17baec42495be6f043
-ViuTVsix,#b6f920891ad9473ca6f839df7616f580
-ViuTV,#956aa1340cd5439689da84cff7a5eaae
-TVB星河,#e94f4c244af8464fb06eff4c9da250a6
-澳门-MACAU,#b08e564af8cf49e2a0fadaf4978a04cf
-澳门莲花,#cd6e7bcddc7c4e6ea2e6d7b6dfa03ae8
-HKC 18,#e38b0ea6a9174a92bf7f30a36d4e0fe9
-戏曲台,#131a3f2bbae740fc982903c576a97920
-翡翠台,#66430d4f000a06ccb0b20a650b4b5d65
-千禧经典台,#b3069418cdff4c69bb544e4b1ff04d56
-Thrill,#d20fff7aa7d64ab19d2a39da2970734a
-明珠台,#066930b0d2764f05a9b8a0019efe82fe
-now财经台,#f0dd1f92af2845c2abd2ff29aff2b8ca
-美亚电影台(粤语),#81ea49b841454e1c901ac507f231a581
-18台,#2cd619b81446414fb605daa1e86bebd6
-HOY资讯台,#f40dc92cdc224868b83be4156ec315dc
-Hands Up,#7c21e515d5264c9fa21035456fd5024a
-粤语片台,#3d6644cc478648c2952a8c69cb9fccf5
-Now 爆谷,
-美亚电影台HD,
-龙华电影,
+28 AI 智慧賽馬,#aktv/28ai/AKTV.m3u8
+28 AI 智慧賽馬,
+Hoy 78,#aktv/hoy78/AKTV.m3u8
+Hoy 78,
+myTV SUPER 18台,#aktv/mytvsuper18/AKTV.m3u8
+myTV SUPER 18台,
+Now星影台,#aktv/now/AKTV.m3u8
+Now星影台,
+PopC,#aktv/popc/AKTV.m3u8
+PopC,
+ROCK Action,#aktv/rockaction/AKTV.m3u8
+ROCK Action,
+TVB Plus,#aktv/tvbplus/AKTV.m3u8
+TVB Plus,
+TVB 星河台,#aktv/tvb/AKTV.m3u8
+TVB 星河台,
+TVBS,#aktv/tvbs/AKTV.m3u8
+TVBS,
+TVBS-新聞台,#aktv/tvbs-1/AKTV.m3u8
+TVBS-新聞台,
+tvN,#aktv/tvn/AKTV.m3u8
+tvN,
+中天亞洲台,#aktv/null-12/AKTV.m3u8
+中天亞洲台,
+中天新聞台,#aktv/null-8/AKTV.m3u8
+中天新聞台,
+中視,#aktv/null-10/AKTV.m3u8
+中視,
+千禧經典台,#aktv/null-15/AKTV.m3u8
+千禧經典台,
+娛樂新聞台(HK),#aktv/hk/AKTV.m3u8
+娛樂新聞台(HK),
+寰宇新聞台,#aktv/null-9/AKTV.m3u8
+寰宇新聞台,
+无线新闻台(北美),#aktv/null-20/AKTV.m3u8
+无线新闻台(北美),
+日本全天新聞,#aktv/null-13/AKTV.m3u8
+日本全天新聞,
+明珠剧集台(北美),#aktv/null-19/AKTV.m3u8
+明珠剧集台(北美),
+明珠台,#aktv/null-2/AKTV.m3u8
+明珠台,
+無線新聞台,#aktv/null-1/AKTV.m3u8
+無線新聞台,
+爆谷台,#aktv/null-14/AKTV.m3u8
+爆谷台,
+美亞電影台(HK),#aktv/hk-1/AKTV.m3u8
+美亞電影台(HK),
+翡翠剧集台(北美),#aktv/null-18/AKTV.m3u8
+翡翠剧集台(北美),
+翡翠台,#aktv/null/AKTV.m3u8
+翡翠台,
+翡翠台(泰国),#aktv/null-16/AKTV.m3u8
+翡翠台(泰国),
+翡翠综合台(北美),#aktv/null-17/AKTV.m3u8
+翡翠综合台(北美),
+華視,#aktv/null-11/AKTV.m3u8
+華視,
+靖天電影台,#aktv/null-6/AKTV.m3u8
+靖天電影台,
+鳳凰中文,#aktv/null-3/AKTV.m3u8
+鳳凰中文,
+鳳凰資訊,#aktv/null-4/AKTV.m3u8
+鳳凰資訊,
+鳳凰香港,#aktv/null-5/AKTV.m3u8
+鳳凰香港,
+黃金翡翠台,#aktv/null-21/AKTV.m3u8
+黃金翡翠台,
+龍華日韓台,#aktv/null-22/AKTV.m3u8
+龍華日韓台,
+龍華經典台,#aktv/null-7/AKTV.m3u8
 龍華經典台,
-天映频道,
-亚洲剧台,#08cc25f383fd45e8b063efb2b2708dbc
-功夫台,#85398bbb5112406b95c5780d36d3a173
-now新闻台,#86a69c6de155405ba916819e2634aa74
-香港国际财经台,#bddf0c6b88474142a2cab7219a93af54
-黄金翡翠台,#1444d681fb1b44d4a20ff001c2bb2f7c
-PopC,#63cdb28090d949ed824376fab51fdd12
-翡翠台,#2c1ef45c2c174f5c8df4d049e1cbccfd
-无线新闻台,#132be793de424970abd09ef9fe09db07
-now财经台,#415e15f33f8b4b5b95a400a406abd534
-TVB娱乐新闻台,#05e767dba8fa48e9ba386ed231c94318
-明珠台,#6ea5ab8d22f04024b3fac9bfb2b243aa
-香港国际财经台,#b6594fa379204fc5b11ba4bc3fe7d932
-TVB星河,#afcbb73766d64754bd8d35fc330aae1c
-澳门莲花,#f7ac1f0fdbe64fcc82cee29e0b590242
-澳门-MACAU,#a2bbc4a4feec4168804624c67fdea801
-黄金翡翠台,#99b70f5afa114465aa463db0cfed6569
-ViuTVsix,#ea75ceca822f454bb858845559d5fc55
-now新闻台,#b9ba3f0b06b14fe69ac2cbf51c77d816
-TVB Plus,#65fd6048000be8b2a085bc4d061c504d
+龍華電影台,#aktv/null-23/AKTV.m3u8
+
+
 
 
 4GTV,#genre#
