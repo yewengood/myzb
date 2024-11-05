@@ -1,23 +1,23 @@
-2024-11-06 00:42:46,703 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt 获取成功，判断为txt格式
-2024-11-06 00:42:46,705 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt 爬取成功✅，包含频道分类: 📡  电信广电
-2024-11-06 00:42:47,167 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 获取成功，判断为txt格式
-2024-11-06 00:42:47,168 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 爬取成功✅，包含频道分类: 📡  电信频道
-2024-11-06 00:42:47,393 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 获取成功，判断为txt格式
-2024-11-06 00:42:47,394 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 爬取成功✅，包含频道分类: 📡  四川频道, 📡  北京联通
-2024-11-06 00:42:47,636 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 获取成功，判断为txt格式
-2024-11-06 00:42:47,639 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 爬取成功✅，包含频道分类: 广东频道, 台湾频道, NewTV频道, iHOT频道, 数字高清, 4GTV, YY精选, 斗鱼精选, 虎牙-精选, 四川电信, 电影在线, 不失效源
-2024-11-06 00:42:48,271 - INFO - url: http://我不是.摸鱼儿.com/live.php 获取成功，判断为txt格式
-2024-11-06 00:42:48,272 - INFO - url: http://我不是.摸鱼儿.com/live.php 爬取成功✅，包含频道分类: 摸鱼公告, 央视频道, 卫视频道, 其他频道
-2024-11-06 00:42:48,554 - INFO - url: https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt 获取成功，判断为txt格式
-2024-11-06 00:42:48,554 - INFO - url: https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt 爬取成功✅，包含频道分类: 📡  电信广电
-2024-11-06 00:42:49,109 - INFO - url: https://raw.githubusercontent.com/yewengood/kzb/main/zhtv.txt 获取成功，判断为txt格式
-2024-11-06 00:42:49,213 - INFO - url: https://raw.githubusercontent.com/yewengood/kzb/main/zhtv.txt 爬取成功✅，包含频道分类: 📡  综合
-2024-11-06 00:42:54,842 - INFO - url: https://www.huanghuadi.com.cn/live.txt 获取成功，判断为txt格式
-2024-11-06 00:42:54,844 - INFO - url: https://www.huanghuadi.com.cn/live.txt 爬取成功✅，包含频道分类: 📡  广东频道
-2024-11-06 00:42:55,498 - INFO - url: http://aktv.top/live.m3u 获取成功，判断为m3u格式
-2024-11-06 00:42:58,630 - INFO - url: http://kxrj.site:567/gggg.nzk 获取成功，判断为txt格式
-2024-11-06 00:42:58,644 - INFO - url: http://kxrj.site:567/gggg.nzk 爬取成功✅，包含频道分类: NBA咪咕, 欣赏频道, 央卫频道, 闽南频道, 港闽AKtv, 粤港澳闽, 粤桂频道, 央卫斯特, 特区斯特, 闽南斯特, 央卫肆贰, 特区肆贰, 闽南肆贰, 央卫频陆, 特区频陆, 闽南频陆, 童年频道, 抖音电台, 粤潮汕深, 广东频道, 足球粤评, 篮球粤评, 央卫频晴, 特区频晴, 闽南频晴, 大地恩情, 粤经典剧, 射雕英雄, 神雕侠侣, 视觉效果, 动感舞曲, 红歌音乐, 龙年电影, 梅州移动, 北京联通, 北京电信, 山东移动, 天津联通, 绍兴联通, 重庆联通, 湖南联通, 上海电信, 安徽电信, 陕西电信, 浙江电信, 山东电信, 福建电信, 广西电信, 山西电信, 河北电信, 湖北电信, 四川电信, 赤峰电信, 新闻频陆, 跑马频陆, 体育频陆, 电影频陆, 儿童频陆, 知识频陆, 新坡频陆, 马亚频陆, 印度频陆, 加大频陆, 日本频陆, 韩国频陆, 美国频陆
-2024-11-06 00:43:01,938 - INFO - url: http://rihou.cc:567/gggg.nzk 获取成功，判断为txt格式
-2024-11-06 00:43:01,956 - INFO - url: http://rihou.cc:567/gggg.nzk 爬取成功✅，包含频道分类: NBA咪咕, 欣赏频道, 央卫频道, 闽南频道, 港闽AKtv, 粤港澳闽, 粤桂频道, 央卫斯特, 特区斯特, 闽南斯特, 央卫肆贰, 特区肆贰, 闽南肆贰, 央卫频陆, 特区频陆, 闽南频陆, 童年频道, 抖音电台, 粤潮汕深, 广东频道, 足球粤评, 篮球粤评, 央卫频晴, 特区频晴, 闽南频晴, 大地恩情, 粤经典剧, 射雕英雄, 神雕侠侣, 视觉效果, 动感舞曲, 红歌音乐, 龙年电影, 梅州移动, 北京联通, 北京电信, 山东移动, 天津联通, 绍兴联通, 重庆联通, 湖南联通, 上海电信, 安徽电信, 陕西电信, 浙江电信, 山东电信, 福建电信, 广西电信, 山西电信, 河北电信, 湖北电信, 四川电信, 赤峰电信, 新闻频陆, 跑马频陆, 体育频陆, 电影频陆, 儿童频陆, 知识频陆, 新坡频陆, 马亚频陆, 印度频陆, 加大频陆, 日本频陆, 韩国频陆, 美国频陆
-2024-11-06 00:43:08,143 - INFO - url: http://free.xiptv.x10.bz/p3p.php 获取成功，判断为txt格式
-2024-11-06 00:43:08,160 - INFO - url: http://free.xiptv.x10.bz/p3p.php 爬取成功✅，包含频道分类: TG群, AKTV, 4GTV, 全国直播区, 松视秒播区, 网络电影区, 数码付费区, 网络港澳区, 虎牙直播区, YYY直播区, 台语闽南直区, 歌星串烧区, CIBN影院, ガチんん, 人妻斩刀, jpn4610, 天然むす, ガチん娘, 顶级, 四虎, 台湾SW01, 理论中心, 🌸车载🌸, 🌸抖音🌸, 🌸打碟🌸, 🌸戏曲🌸, 🌸小品🌸, 🌸央乐🌸, 🌸依婷🌸, 🌸电影🌸, 🌸广舞🌸, 🌸鬼片🌸, 🌸高清🌸, 🌸限级🌸, 🌸蜜桃🌸, 🌸精东🌸, 🌸果冻🌸, 🌸爱豆🌸, 🌸天美🌸, 🌸星空🌸, 🌸国际🌸, 🌸兔子🌸, 🌸性视🌸, 🌸SWA🌸, 🌸中文🌸, 🌸国产🌸, 🌸少女🌸, 🌸精品🌸, 🌸壹区🌸#genre#, 🌸日韩🌸, 🌸皇冠🌸, 🌸特色🌸, 18+Chinese
+2024-11-06 06:39:39,579 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt 获取成功，判断为txt格式
+2024-11-06 06:39:39,581 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt 爬取成功✅，包含频道分类: 📡  电信广电
+2024-11-06 06:39:39,721 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 获取成功，判断为txt格式
+2024-11-06 06:39:39,723 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 爬取成功✅，包含频道分类: 📡  电信频道
+2024-11-06 06:39:39,866 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 获取成功，判断为txt格式
+2024-11-06 06:39:39,867 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 爬取成功✅，包含频道分类: 📡  四川频道, 📡  北京联通
+2024-11-06 06:39:40,002 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 获取成功，判断为txt格式
+2024-11-06 06:39:40,005 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 爬取成功✅，包含频道分类: 广东频道, 台湾频道, NewTV频道, iHOT频道, 数字高清, 4GTV, YY精选, 斗鱼精选, 虎牙-精选, 四川电信, 电影在线, 不失效源
+2024-11-06 06:39:40,782 - INFO - url: http://我不是.摸鱼儿.com/live.php 获取成功，判断为txt格式
+2024-11-06 06:39:40,782 - INFO - url: http://我不是.摸鱼儿.com/live.php 爬取成功✅，包含频道分类: 摸鱼公告, 央视频道, 卫视频道, 其他频道
+2024-11-06 06:39:40,944 - INFO - url: https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt 获取成功，判断为txt格式
+2024-11-06 06:39:40,944 - INFO - url: https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt 爬取成功✅，包含频道分类: 📡  电信广电
+2024-11-06 06:39:41,356 - INFO - url: https://raw.githubusercontent.com/yewengood/kzb/main/zhtv.txt 获取成功，判断为txt格式
+2024-11-06 06:39:41,460 - INFO - url: https://raw.githubusercontent.com/yewengood/kzb/main/zhtv.txt 爬取成功✅，包含频道分类: 📡  综合
+2024-11-06 06:39:49,576 - INFO - url: https://www.huanghuadi.com.cn/live.txt 获取成功，判断为txt格式
+2024-11-06 06:39:49,578 - INFO - url: https://www.huanghuadi.com.cn/live.txt 爬取成功✅，包含频道分类: 📡  广东频道
+2024-11-06 06:39:50,190 - INFO - url: http://aktv.top/live.m3u 获取成功，判断为m3u格式
+2024-11-06 06:39:54,542 - INFO - url: http://kxrj.site:567/gggg.nzk 获取成功，判断为txt格式
+2024-11-06 06:39:54,554 - INFO - url: http://kxrj.site:567/gggg.nzk 爬取成功✅，包含频道分类: NBA咪咕, 欣赏频道, 咪咕频道, 央卫频道, iHot频道, 港闽AKtv, 粤港澳闽, 粤桂频道, 央卫肆贰, 特区肆贰, 闽南肆贰, 央卫频陆, 特区频陆, 闽南频陆, 童年频道, 抖音电台, 广东频道, 足球粤评, 篮球粤评, 大地恩情, 粤经典剧, 射雕英雄, 神雕侠侣, 视觉效果, 动感舞曲, 红歌音乐, 龙年电影, 梅州移动, 北京联通, 北京电信, 山东移动, 天津联通, 绍兴联通, 重庆联通, 湖南联通, 上海电信, 安徽电信, 陕西电信, 浙江电信, 山东电信, 福建电信, 广西电信, 山西电信, 河北电信, 湖北电信, 四川电信, 赤峰电信, 新闻频陆, 跑马频陆, 体育频陆, 电影频陆, 儿童频陆, 知识频陆, 新坡频陆, 马亚频陆, 印度频陆, 加大频陆, 日本频陆, 韩国频陆, 美国频陆
+2024-11-06 06:39:58,005 - INFO - url: http://rihou.cc:567/gggg.nzk 获取成功，判断为txt格式
+2024-11-06 06:39:58,022 - INFO - url: http://rihou.cc:567/gggg.nzk 爬取成功✅，包含频道分类: NBA咪咕, 欣赏频道, 咪咕频道, 央卫频道, iHot频道, 港闽AKtv, 粤港澳闽, 粤桂频道, 央卫肆贰, 特区肆贰, 闽南肆贰, 央卫频陆, 特区频陆, 闽南频陆, 童年频道, 抖音电台, 广东频道, 足球粤评, 篮球粤评, 大地恩情, 粤经典剧, 射雕英雄, 神雕侠侣, 视觉效果, 动感舞曲, 红歌音乐, 龙年电影, 梅州移动, 北京联通, 北京电信, 山东移动, 天津联通, 绍兴联通, 重庆联通, 湖南联通, 上海电信, 安徽电信, 陕西电信, 浙江电信, 山东电信, 福建电信, 广西电信, 山西电信, 河北电信, 湖北电信, 四川电信, 赤峰电信, 新闻频陆, 跑马频陆, 体育频陆, 电影频陆, 儿童频陆, 知识频陆, 新坡频陆, 马亚频陆, 印度频陆, 加大频陆, 日本频陆, 韩国频陆, 美国频陆
+2024-11-06 06:39:58,449 - INFO - url: http://free.xiptv.x10.bz/p3p.php 获取成功，判断为txt格式
+2024-11-06 06:39:58,465 - INFO - url: http://free.xiptv.x10.bz/p3p.php 爬取成功✅，包含频道分类: TG群, AKTV, 4GTV, 全国直播区, 松视秒播区, 网络电影区, 数码付费区, 网络港澳区, 虎牙直播区, YYY直播区, 台语闽南直区, 歌星串烧区, CIBN影院, ガチんん, 人妻斩刀, jpn4610, 天然むす, ガチん娘, 顶级, 四虎, 台湾SW01, 理论中心, 🌸车载🌸, 🌸抖音🌸, 🌸打碟🌸, 🌸戏曲🌸, 🌸小品🌸, 🌸央乐🌸, 🌸依婷🌸, 🌸电影🌸, 🌸广舞🌸, 🌸鬼片🌸, 🌸高清🌸, 🌸限级🌸, 🌸蜜桃🌸, 🌸精东🌸, 🌸果冻🌸, 🌸爱豆🌸, 🌸天美🌸, 🌸星空🌸, 🌸国际🌸, 🌸兔子🌸, 🌸性视🌸, 🌸SWA🌸, 🌸中文🌸, 🌸国产🌸, 🌸少女🌸, 🌸精品🌸, 🌸壹区🌸#genre#, 🌸日韩🌸, 🌸皇冠🌸, 🌸特色🌸, 18+Chinese
