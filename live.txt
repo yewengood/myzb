@@ -152,7 +152,6 @@
 广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8 
 广东珠江,http://120.238.84.44:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0 
 广东珠江,http://183.11.239.36:808/hls/83/index.m3u8 
-广东珠江,http://www.zzlag.top:9003/hls/31/index.m3u8 
 广东珠江,http://r.jdshipin.com/sE5vO 
 广东珠江,http://1b6467f415.iok.la:9931/tsfile/live/1011_1.m3u8 
 广东珠江,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3 
@@ -194,11 +193,13 @@
 广东珠江频道,http://219.159.194.172:8181/tsfile/live/1000_1.m3u8 
 广东珠江频道,http://113.102.83.24:4022/udp/239.77.0.1:5146 
 广东经济高清,http://1b6467f415.iok.la:9931/tsfile/live/1016_1.m3u8 
-广东体育,http://www.zzlag.top:9003/hls/30/index.m3u8 
 广东体育,http://120.238.84.44:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0 
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8 
 广东体育,http://www.zzlag.top:9087/tsfile/live/1036_1.m3u8?key=txiptv 
 广东体育,http://1b6467f415.iok.la:9931/tsfile/live/1014_1.m3u8 
+广东体育,http://222.218.158.76:8181/tsfile/live/1001_1.m3u8 
+广东体育,http://222.218.158.104:8181/tsfile/live/1001_1.m3u8 
+广东体育,http://219.159.194.172:8181/tsfile/live/1001_1.m3u8 
 广东体育,http://www.zzlag.top:9003/hls/30/index.m3u8 
 广东体育,http://1b6467f415.iok.la:9931/tsfile/live/1014_1.m3u8 
 广东体育,http://120.238.84.44:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0 
@@ -279,9 +280,11 @@
 广东新闻,http://119.32.12.13:2901/udp/224.1.100.5:11111 
 广东新闻,http://121.33.239.242:9901/tsfile/live/1008_1.m3u8 
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8 
-广东新闻,http://www.zzlag.top:9003/hls/36/index.m3u8 
 广东新闻,http://mom.coms.hk:9901/tsfile/live/1008_1.m3u8 
 广东新闻,http://1b6467f415.iok.la:9931/tsfile/live/1012_1.m3u8 
+广东新闻,http://219.159.194.172:8181/tsfile/live/1007_1.m3u8 
+广东新闻,http://222.218.158.104:8181/tsfile/live/1007_1.m3u8 
+广东新闻,http://222.218.158.76:8181/tsfile/live/1007_1.m3u8 
 广东新闻,http://121.33.239.242:9901/tsfile/live/1008_1.m3u8 
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8 
 广东新闻,http://mom.coms.hk:9901/tsfile/live/1008_1.m3u8 
@@ -543,6 +546,7 @@
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8 
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/master.m3u8 
 明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8 
+明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8 
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn 
 明珠台,http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8 
 明珠台,http://beishan008.asuscomm.com:8890/bysid/2.m3u8 
@@ -612,12 +616,13 @@ CHC动作电影,http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
 CHC动作电影,http://121.24.98.232:8090/hls/98/index.m3u8 
 CHC动作电影,http://ygbh666.cn/aikmigu.php?id=chcdz 
 CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy 
-CHC动作电影,http://112.234.23.81:9901/tsfile/live/1013_1.m3u8 
 CHC动作电影,http://117.72.68.25:9930/migu.php?id=chcdz 
 CHC动作电影,http://121.24.98.154:8090/hls/98/index.m3u8 
 CHC动作电影,http://58.48.5.186:1111/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0 
-CHC动作电影,http://tvbox6.icu/tv/migu.php?id=chcdzdy 
-CHC动作电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+ 
+CHC动作电影,http://zbdl.jsonjk.top/MGDL/ZBmgDL.php?id=chcdz 
+CHC动作电影,http://222.218.158.104:8181/tsfile/live/1019_1.m3u8 
+CHC动作电影,http://219.159.194.172:8181/tsfile/live/1019_1.m3u8 
+CHC动作电影,http://27.18.7.3:4022/rtp/239.69.1.242:11094 
 CHC动作电影,http://221.196.136.66:1/udp/225.1.1.215:5002 
 CHC动作电影,http://iptvcyp.top:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0 
 CHC动作电影,http://36.46.98.55:8010/rtp/239.112.205.207:5140 
@@ -640,7 +645,6 @@ CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy 
 CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8 
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8 
-CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy 
 CHC家庭影院,http://221.196.136.66:1/udp/225.1.1.213:5002 
 CHC家庭影院,http://iptvcyp.top:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0 
 CHC家庭影院,http://36.46.98.55:8010/rtp/239.112.205.205:5140 
@@ -656,6 +660,7 @@ CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-10.m3u8
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-14.m3u8 
 CHC高清电影,http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0 
 CHC高清电影,http://58.48.5.186:1111/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0 
+CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0 
 CHC高清电影,http://221.196.136.66:1/udp/225.1.1.214:5002 
 CHC高清电影,http://iptvcyp.top:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0 
 CHC高清电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D 
@@ -4998,10 +5003,10 @@ CGTN-记录,http://hwltc.tv.cdn.zj.chinamobi ... 21236205/index.m3u8
 新疆卫视,http://123.138.22.30:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0 
 新疆卫视,http://58.57.21.166:9901/tsfile/live/0110_1.m3u8 
 新疆卫视,http://39.98.201.151:9090/udp/225.1.8.161:8160 
-新疆卫视,http://106.124.91.222:9901/tsfile/live/21212_1.m3u8 
 新疆卫视,http://118.122.189.74:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0 
 新疆卫视,http://112.234.23.81:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0 
 新疆卫视,http://61.138.128.226:19901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0 
+新疆卫视,http://121.24.98.232:8090/hls/61/index.m3u8 
 新疆卫视,http://123.56.129.203:2604/rtp/225.1.8.161:8160 
 新疆卫视,http://139.196.151.191:6846/rtp/239.45.1.116:5140 
 新疆卫视,http://122.9.151.210:887/rtp/238.255.2.66:5999 
@@ -5534,6 +5539,9 @@ CCTV-17咪咕,http://rihou.cc:567/24716.php?id=cctv17
 经典电影,http://121.24.98.154:8090/hls/103/index.m3u8 
 经典电影,http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0 
 经典电影,http://litv.zapi.us.kg/?id=4gtv-live021 
+经典电影,http://zbdl.jsonjk.top/MGDL/ZBmgDL.php?id=jdxgdy 
+经典电影,http://222.218.158.104:8181/tsfile/live/1008_1.m3u8 
+经典电影,http://219.159.194.172:8181/tsfile/live/1008_1.m3u8 
 经典电影,http://123.145.66.45:8004/udp/225.0.4.48:7980 
 经典电影,http://124.226.29.151:4022/udp/239.81.0.84:4056 
 经典电影,http://121.24.98.154:8090/hls/103/index.m3u8 
@@ -5617,7 +5625,6 @@ CCTV-17咪咕,http://rihou.cc:567/24716.php?id=cctv17
 少儿动画,http://114.252.231.80:8000/rtp/239.3.1.199:9000 
 少儿动画,http://123.113.176.137:9000/rtp/239.3.1.199:9000 
 少儿动画,http://wouu.net:9977/udp/239.93.0.193:9000 
-少儿动画,http://123.113.106.229:4022/rtp/239.3.1.199:9000 
 少儿动画,http://124.226.29.151:4022/udp/239.81.0.82:4056 
 少儿动画,http://121.24.98.154:8090/hls/105/index.m3u8 
 少儿动画,http://123.122.162.7:19999/rtp/239.3.1.199:9000 
@@ -5974,6 +5981,7 @@ CHC影迷电影,http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
 快乐垂钓,http://220.249.114.102:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0 
 快乐垂钓,http://39.98.201.151:9090/udp/225.1.8.71:8002 
 快乐垂钓,http://110.177.146.152:888/udp/239.1.1.86:8086 
+快乐垂钓,http://58.19.38.162:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0 
 快乐垂钓,http://120.55.49.231:8617/rtp/233.50.201.109:5140 
 快乐垂钓,http://123.56.129.203:2604/rtp/225.1.8.71:8002 
 快乐垂钓,http://123.56.129.203:4310/rtp/225.1.8.71:8002 
@@ -5983,6 +5991,7 @@ CHC影迷电影,http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
 快乐垂钓,http://120.55.49.231:2693/rtp/233.50.201.109:5140 
 快乐垂钓,http://123.56.129.203:6573/rtp/225.1.8.71:8002 
 快乐垂钓,http://123.56.129.203:5431/rtp/225.1.8.71:8002 
+快乐垂钓,http://114.224.127.70:1459/rtp/239.49.1.225:6000 
 快乐垂钓,http://106.120.14.74:2333/udp/225.1.8.71:8002 
 快乐垂钓,http://221.196.136.66:1/udp/225.1.1.92:5002 
 快乐垂钓,http://60.189.165.36:5555/rtp/233.50.201.109:5140 
@@ -6107,16 +6116,21 @@ HD看电影,http://wouu.net:9977/udp/239.93.42.47:5140
 优漫卡通,http://122.9.151.210:3203/rtp/238.255.2.57:5999 
 优漫卡通,http://122.9.151.210:2597/rtp/238.255.2.57:5999 
 优漫卡通,http://122.9.151.210:2498/rtp/238.255.2.57:5999 
+优漫卡通,http://122.9.151.210:5987/rtp/238.255.2.57:5999 
 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8 
 优漫卡通,http://iptvcyp.top:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0 
 宝宝动画,http://125.70.237.63:8888/udp/239.93.0.147:5140 
 宝宝动画,http://171.221.81.238:8000/udp/239.93.0.147:5140 
 宝宝动画,http://182.138.86.133:8888/udp/239.93.0.147:5140 
 宝宝动画,http://wouu.net:9977/udp/239.93.0.147:5140 
+宝宝动画,http://114.224.127.70:1459/rtp/239.49.1.213:6000 
+宝宝动画,http://114.224.127.70:3241/rtp/239.49.1.213:6000 
 青春动漫,http://125.70.237.63:8888/udp/239.93.0.146:5140 
 青春动漫,http://171.221.81.238:8000/udp/239.93.0.146:5140 
 青春动漫,http://182.138.86.133:8888/udp/239.93.0.146:5140 
 青春动漫,http://wouu.net:9977/udp/239.93.0.146:5140 
+青春动漫,http://114.224.127.70:1459/rtp/239.49.1.212:6000 
+青春动漫,http://114.224.127.70:3241/rtp/239.49.1.212:6000 
 热门综艺,http://125.70.237.63:8888/udp/239.93.0.151:5140 
 热门综艺,http://171.221.81.238:8000/udp/239.93.0.151:5140 
 热门综艺,http://182.138.86.133:8888/udp/239.93.0.151:5140 
@@ -6159,6 +6173,7 @@ HD看电影,http://wouu.net:9977/udp/239.93.42.47:5140
 爱体育,http://49.234.186.50:35455/itv/6000000006000290630.m3u8?cdn=wasusyt 
 爱体育,http://1.14.19.228:35455/itv/6000000006000290630.m3u8?cdn=wasusyt 
 爱体育,http://wouu.net:9977/udp/239.93.0.135:9008 
+爱体育,http://14.135.72.70:2222/rtp/239.121.4.190:9124 
 爱体育,http://hwltc.tv.cdn.zj.chinamobi ... 21230103/index.m3u8 
 爱体育,http://115.60.241.249:2000/rtp/225.1.4.5:1034 
 爱体育,http://115.60.241.249:2000/rtp/225.1.4.168:1220 
@@ -6173,7 +6188,7 @@ HD看电影,http://wouu.net:9977/udp/239.93.42.47:5140
 游戏风云,http://182.138.86.133:8888/udp/239.93.0.136:5140 
 游戏风云,http://wouu.net:9977/udp/239.93.0.136:5140 
 游戏风云,http://110.177.146.152:888/udp/239.1.1.83:8083 
-游戏风云,http://223.12.185.161:8083/udp/239.1.1.83:8083 
+游戏风云,http://zbdl.jsonjk.top/MGDL/ZBmgDL.php?id=yxfy 
 游戏风云,http://120.55.49.231:8617/rtp/233.50.201.183:5140 
 游戏风云,http://139.196.151.191:6846/rtp/239.45.3.131:5140 
 游戏风云,http://122.9.151.210:887/rtp/238.255.2.197:5999 
@@ -6325,6 +6340,7 @@ HD看电影,http://wouu.net:9977/udp/239.93.42.47:5140
 天元围棋,http://122.9.151.210:3203/rtp/238.255.2.7:5999 
 天元围棋,http://122.9.151.210:2597/rtp/238.255.2.7:5999 
 天元围棋,http://122.9.151.210:2498/rtp/238.255.2.7:5999 
+天元围棋,http://122.9.151.210:5987/rtp/238.255.2.7:5999 
 天元围棋,http://iptvcyp.top:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0 
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8 
 天元围棋,http://123.180.177.20:16000/udp/239.253.93.211:6389 
@@ -7263,8 +7279,7 @@ YY粤语电影,http://43.136.119.99/yy.php?id=1356262523
 斗罗 斗破,http://43.136.119.99/yy.php?id=1353098382 
 笑傲江湖,http://43.136.119.99/yy.php?id=1354282410 
 笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8 
-笑傲江湖,http://cfss.cc/cdn/hy/23865142.flv 
-笑傲江湖,http://cfss.cc/cdn/hy/26355790.flv 
+笑傲江湖,https://live.metshop.top/yy/1354936128 
 笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8 
 笑傲江湖,https://live.metshop.top/yy/1354936128 
 笑傲江湖,https://lunbo.freetv.top/yy/1352833750 
