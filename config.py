@@ -7,12 +7,12 @@ source_urls = [
     "https://raw.githubusercontent.com/yewengood/-/main/888.txt",
     "http://我不是.摸鱼儿.com/live.php",
     "https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt",
-    #"http://free.xiptv.x10.bz/p3p.php",
     "https://raw.githubusercontent.com/yewengood/kzb/main/zhtv.txt",
     "https://www.huanghuadi.com.cn/live.txt",
     "http://aktv.top/live.m3u",
     "http://kxrj.site:567/gggg.nzk",
-   "http://rihou.cc:567/gggg.nzk"
+   "http://rihou.cc:567/gggg.nzk",
+       "http://free.xiptv.x10.bz/p3p.php"
    # "http://120.79.4.185/new/mdlive.txt",
    # "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt",
    # "https://live.zhoujie218.top/tv/iptv6.txt",
