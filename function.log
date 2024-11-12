@@ -1,25 +1,25 @@
-2024-11-12 14:27:47,163 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt 获取成功，判断为txt格式
-2024-11-12 14:27:47,165 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt 爬取成功✅，包含频道分类: 📡  电信广电
-2024-11-12 14:27:47,418 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 获取成功，判断为txt格式
-2024-11-12 14:27:47,422 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 爬取成功✅，包含频道分类: 📡  电信频道
-2024-11-12 14:27:47,549 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 获取成功，判断为txt格式
-2024-11-12 14:27:47,552 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 爬取成功✅，包含频道分类: 📡  四川频道, 📡  北京联通
-2024-11-12 14:27:47,753 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 获取成功，判断为txt格式
-2024-11-12 14:27:47,755 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 爬取成功✅，包含频道分类: 广东频道, 台湾频道, NewTV频道, iHOT频道, 数字高清, 4GTV, YY精选, 斗鱼精选, 虎牙-精选, 四川电信, 电影在线, 不失效源
-2024-11-12 14:27:49,084 - INFO - url: http://我不是.摸鱼儿.com/live.php 获取成功，判断为txt格式
-2024-11-12 14:27:49,093 - INFO - url: http://我不是.摸鱼儿.com/live.php 爬取成功✅，包含频道分类: 摸鱼公告, 央视, 卫视, 地方频道, 数字电视, 直播, 央视网, 国际电视, 广播电台, 歌手2018, 历年春晚, 更新时间, 📺央视频道, 💰央视付费频道, 📡卫视频道, 🏠广东频道, 🌊港·澳·台, 🎬电影频道, 🎥咪咕直播, 🏀体育频道, 🪁动画频道, 🎮游戏频道, 🎵音乐频道, 🏛经典剧场, 🈳无结果频道, 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 综艺频道, 纪录频道, 体育频道, 游戏频道, 戏曲频道
-2024-11-12 14:27:49,390 - INFO - url: https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt 获取成功，判断为txt格式
-2024-11-12 14:27:49,391 - INFO - url: https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt 爬取成功✅，包含频道分类: 📡  电信广电
-2024-11-12 14:27:49,922 - INFO - url: https://raw.githubusercontent.com/yewengood/kzb/main/zhtv.txt 获取成功，判断为txt格式
-2024-11-12 14:27:50,012 - INFO - url: https://raw.githubusercontent.com/yewengood/kzb/main/zhtv.txt 爬取成功✅，包含频道分类: 📡  综合
-2024-11-12 14:27:55,130 - INFO - url: https://www.huanghuadi.com.cn/live.txt 获取成功，判断为txt格式
-2024-11-12 14:27:55,131 - INFO - url: https://www.huanghuadi.com.cn/live.txt 爬取成功✅，包含频道分类: 📡  广东频道
-2024-11-12 14:27:55,788 - INFO - url: http://aktv.top/live.m3u 获取成功，判断为m3u格式
-2024-11-12 14:27:57,662 - INFO - url: http://kxrj.site:567/gggg.nzk 获取成功，判断为txt格式
-2024-11-12 14:27:57,673 - INFO - url: http://kxrj.site:567/gggg.nzk 爬取成功✅，包含频道分类: NBA咪咕, 欣赏频道, 央卫频道, 闽南频道, 港闽AKtv, 粤港澳闽, 童年频道, 抖音电台, 广东频道, 足球粤评, 篮球粤评, 大地恩情, 粤经典剧, 射雕英雄, 神雕侠侣, 视觉效果, 动感舞曲, 红歌音乐, 龙年电影, 梅州移动, 北京联通, 北京电信, 山东移动, 山东联通, 天津联通, 绍兴联通, 重庆联通, 山西联通, 上海电信, 安徽电信, 陕西电信, 浙江电信, 福建电信, 广西电信, 山西电信, 河北电信, 湖北电信, 四川电信, 赤峰电信
-2024-11-12 14:28:01,327 - INFO - url: http://rihou.cc:567/gggg.nzk 获取成功，判断为txt格式
-2024-11-12 14:28:01,337 - INFO - url: http://rihou.cc:567/gggg.nzk 爬取成功✅，包含频道分类: NBA咪咕, 欣赏频道, 央卫频道, 闽南频道, 港闽AKtv, 粤港澳闽, 童年频道, 抖音电台, 广东频道, 足球粤评, 篮球粤评, 大地恩情, 粤经典剧, 射雕英雄, 神雕侠侣, 视觉效果, 动感舞曲, 红歌音乐, 龙年电影, 梅州移动, 北京联通, 北京电信, 山东移动, 山东联通, 天津联通, 绍兴联通, 重庆联通, 山西联通, 上海电信, 安徽电信, 陕西电信, 浙江电信, 福建电信, 广西电信, 山西电信, 河北电信, 湖北电信, 四川电信, 赤峰电信
-2024-11-12 14:28:02,252 - INFO - url: http://14.145.151.123:35455/tv.m3u 获取成功，判断为m3u格式
-2024-11-12 14:28:02,253 - INFO - url: http://14.145.151.123:35455/tv.m3u 爬取成功✅，包含频道分类: 4K频道, 央视, 其他, 8K频道, 北京, 安徽, 卫视, 甘肃, 广东, 贵州, 海南, 河北, 河南, 黑龙江, 湖北, 湖南, 吉林, 江苏, 江西, 辽宁, 青海, 山东, 上海, 四川, 云南, 浙江, 重庆, NEWTV, IHOT, 咪咕体育
-2024-11-12 14:28:03,160 - INFO - url: http://114.55.133.210:35455/tv.m3u 获取成功，判断为m3u格式
-2024-11-12 14:28:03,161 - INFO - url: http://114.55.133.210:35455/tv.m3u 爬取成功✅，包含频道分类: 4K频道, 央视, 其他, 8K频道, 北京, 安徽, 卫视, 甘肃, 广东, 贵州, 海南, 河北, 河南, 黑龙江, 湖北, 湖南, 吉林, 江苏, 江西, 辽宁, 青海, 山东, 上海, 四川, 云南, 浙江, 重庆, NEWTV, IHOT, 咪咕体育
+2024-11-12 18:41:20,609 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt 获取成功，判断为txt格式
+2024-11-12 18:41:20,612 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt 爬取成功✅，包含频道分类: 📡  电信广电
+2024-11-12 18:41:20,753 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 获取成功，判断为txt格式
+2024-11-12 18:41:20,755 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 爬取成功✅，包含频道分类: 📡  电信频道
+2024-11-12 18:41:20,856 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 获取成功，判断为txt格式
+2024-11-12 18:41:20,857 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 爬取成功✅，包含频道分类: 📡  四川频道, 📡  北京联通
+2024-11-12 18:41:20,989 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 获取成功，判断为txt格式
+2024-11-12 18:41:20,992 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 爬取成功✅，包含频道分类: 广东频道, 台湾频道, NewTV频道, iHOT频道, 数字高清, 4GTV, YY精选, 斗鱼精选, 虎牙-精选, 四川电信, 电影在线, 不失效源
+2024-11-12 18:41:22,607 - INFO - url: http://我不是.摸鱼儿.com/live.php 获取成功，判断为txt格式
+2024-11-12 18:41:22,616 - INFO - url: http://我不是.摸鱼儿.com/live.php 爬取成功✅，包含频道分类: 摸鱼公告, 央视, 卫视, 地方频道, 数字电视, 直播, 央视网, 国际电视, 广播电台, 歌手2018, 历年春晚, 更新时间, 📺央视频道, 💰央视付费频道, 📡卫视频道, 🏠广东频道, 🌊港·澳·台, 🎬电影频道, 🎥咪咕直播, 🏀体育频道, 🪁动画频道, 🎮游戏频道, 🎵音乐频道, 🏛经典剧场, 🈳无结果频道, 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 综艺频道, 纪录频道, 体育频道, 游戏频道, 戏曲频道
+2024-11-12 18:41:22,742 - INFO - url: https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt 获取成功，判断为txt格式
+2024-11-12 18:41:22,743 - INFO - url: https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt 爬取成功✅，包含频道分类: 📡  电信广电
+2024-11-12 18:41:23,068 - INFO - url: https://raw.githubusercontent.com/yewengood/kzb/main/zhtv.txt 获取成功，判断为txt格式
+2024-11-12 18:41:23,157 - INFO - url: https://raw.githubusercontent.com/yewengood/kzb/main/zhtv.txt 爬取成功✅，包含频道分类: 📡  综合
+2024-11-12 18:41:28,234 - INFO - url: https://www.huanghuadi.com.cn/live.txt 获取成功，判断为txt格式
+2024-11-12 18:41:28,235 - INFO - url: https://www.huanghuadi.com.cn/live.txt 爬取成功✅，包含频道分类: 📡  广东频道
+2024-11-12 18:41:28,840 - INFO - url: http://aktv.top/live.m3u 获取成功，判断为m3u格式
+2024-11-12 18:41:31,071 - INFO - url: http://kxrj.site:567/gggg.nzk 获取成功，判断为txt格式
+2024-11-12 18:41:31,081 - INFO - url: http://kxrj.site:567/gggg.nzk 爬取成功✅，包含频道分类: 珠海航展, NBA咪咕, 欣赏频道, 央卫频道, 闽南频道, 港闽AKtv, 粤港澳闽, 童年频道, 抖音电台, 广东频道, 足球粤评, 篮球粤评, 大地恩情, 粤经典剧, 射雕英雄, 神雕侠侣, 视觉效果, 动感舞曲, 红歌音乐, 龙年电影, 梅州移动, 北京联通, 北京电信, 山东移动, 山东联通, 天津联通, 绍兴联通, 重庆联通, 山西联通, 上海电信, 安徽电信, 陕西电信, 浙江电信, 福建电信, 广西电信, 山西电信, 河北电信, 湖北电信, 四川电信, 赤峰电信
+2024-11-12 18:41:39,553 - INFO - url: http://rihou.cc:567/gggg.nzk 获取成功，判断为txt格式
+2024-11-12 18:41:39,563 - INFO - url: http://rihou.cc:567/gggg.nzk 爬取成功✅，包含频道分类: 珠海航展, NBA咪咕, 欣赏频道, 央卫频道, 闽南频道, 港闽AKtv, 粤港澳闽, 童年频道, 抖音电台, 广东频道, 足球粤评, 篮球粤评, 大地恩情, 粤经典剧, 射雕英雄, 神雕侠侣, 视觉效果, 动感舞曲, 红歌音乐, 龙年电影, 梅州移动, 北京联通, 北京电信, 山东移动, 山东联通, 天津联通, 绍兴联通, 重庆联通, 山西联通, 上海电信, 安徽电信, 陕西电信, 浙江电信, 福建电信, 广西电信, 山西电信, 河北电信, 湖北电信, 四川电信, 赤峰电信
+2024-11-12 18:41:40,530 - INFO - url: http://14.145.151.123:35455/tv.m3u 获取成功，判断为m3u格式
+2024-11-12 18:41:40,531 - INFO - url: http://14.145.151.123:35455/tv.m3u 爬取成功✅，包含频道分类: 4K频道, 央视, 其他, 8K频道, 北京, 安徽, 卫视, 甘肃, 广东, 贵州, 海南, 河北, 河南, 黑龙江, 湖北, 湖南, 吉林, 江苏, 江西, 辽宁, 青海, 山东, 上海, 四川, 云南, 浙江, 重庆, NEWTV, IHOT, 咪咕体育
+2024-11-12 18:41:41,524 - INFO - url: http://114.55.133.210:35455/tv.m3u 获取成功，判断为m3u格式
+2024-11-12 18:41:41,525 - INFO - url: http://114.55.133.210:35455/tv.m3u 爬取成功✅，包含频道分类: 4K频道, 央视, 其他, 8K频道, 北京, 安徽, 卫视, 甘肃, 广东, 贵州, 海南, 河北, 河南, 黑龙江, 湖北, 湖南, 吉林, 江苏, 江西, 辽宁, 青海, 山东, 上海, 四川, 云南, 浙江, 重庆, NEWTV, IHOT, 咪咕体育
