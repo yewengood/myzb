@@ -63,7 +63,7 @@ Astro-AOD,
 檬檬功夫频视,#://cfss.cc/cdn/dyu/9838414.m3u8
 经典频道频视,#://ali.hlspull.yximgs.com/live/asdfg6699388.flv
 经典功夫频视,#://ali.hlspull.yximgs.com/live/asdfg99338.flv
-经典都市频视,#://ali.hlspull.yximgs.com/live/asdfg32619.flv 
+经典都市频视,#://ali.hlspull.yximgs.com/live/asdfg32619.flv
 经典综艺频视,#://ali.hlspull.yximgs.com/live/asdfg171759930.flv
 经典少儿频视,#://ali.hlspull.yximgs.com/live/asdfg315962975.flv
 经典港片频视,#://ali.hlspull.yximgs.com/live/asdfg6899366.flv
@@ -218,8 +218,8 @@ CCTV8k_36m,
 爱上4K[超清],
 4K超清[超清],
 爱上4K,#239.93.0.97:5140
-爱上4K 17M2160,#239.93.1.113:5140
-爱上4K 17M2160,#239.93.1.251:8224
+爱上4K17M2160,#239.93.1.113:5140
+爱上4K17M2160,#239.93.1.251:8224
 绚影4K,#239.93.42.33:5140
 亲子趣学4K,#239.93.1.191:5140
 津津悦读4K,#239.93.1.197:5140
@@ -384,9 +384,9 @@ cctv8k_120m,#://114.55.133.210:35455/ysptp/cctv8k_120m.m3u8
 纯享-4K,#://114.55.133.210:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
 咪咕4K-1,#://114.55.133.210:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
 咪咕4K-2,#://114.55.133.210:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
-Love Nature 4K,#s://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Loupe 4K,#s://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-Fashion 4K,#s://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+LoveNature4K,#s://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Loupe4K,#s://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Fashion4K,#s://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 咪咕全民热练,#://114.55.133.210:35455/itv/3000000020000031315.m3u8?cdn=FifastbLive
 求索动物,#://114.55.133.210:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
 求索纪录,#://114.55.133.210:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
@@ -594,8 +594,8 @@ CHC家庭影院,#239.76.245.241:1234
 CHANNELV,#239.93.0.157:2194
 CHANNELV,#239.93.1.7:2194
 爱上4K,#239.93.0.97:5140
-爱上4K 17M2160,#239.93.1.113:5140
-爱上4K 17M2160,#239.93.1.251:8224
+爱上4K17M2160,#239.93.1.113:5140
+爱上4K17M2160,#239.93.1.251:8224
 熊猫频道,#239.93.0.211:9148
 金熊猫卡通,#239.93.1.172:5140
 炫动卡通,#239.93.0.173:5140
@@ -732,65 +732,64 @@ CIBN院线大片,
 
 
 香港频道,#genre#
-港台节目,#genre#
+
 翡翠台,#://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 明珠台,#://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-未分类节目,#genre#
- 28 AI 智慧賽馬,#://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
- Animax-HK,#://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
- C+台,#://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
- Channel 5 HD,#://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
- Channel 8 HD,#://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
- Channel U HD,#://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
- DW,#://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
- France 24,#://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
- Hoy 78,#://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
- KIX,#://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
- Love Nature HD,#://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
- NHK World-Japan,#://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
- Nick Jr,#://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
- Nickelodeon,#://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
- Now星影台,#://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
- PopC,#://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
- ROCK Action,#://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
- ROCK Action,#://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
- TVB Plus,#://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
- TVB 星河台,#://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
- TVBS,#://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
- TVBS-新聞台,#://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
- Thrill,#://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
- ZooMoo,#://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
- myTV SUPER 18台,#://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
- tvN,#://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
- viutv 99,#://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
- viutv6 96,#://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
- 中天亞洲台,#://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
- 中天新聞台,#://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
- 中視,#://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
- 亞洲新聞台,#://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
- 千禧經典台,#://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
- 娛樂新聞台(HK),#://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
- 寰宇新聞台,#://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
- 无线新闻台(北美),#://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
- 日本全天新聞,#://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
- 明珠剧集台(北美),#://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
- 東方衛視國際頻道,#://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
- 無線新聞台,#://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
- 無線衛星新聞台,#://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
- 爆谷台,#://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
- 神州新聞台,#://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
- 美亞電影台(HK),#://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
- 翡翠剧集台(北美),#://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
- 翡翠综合台(北美),#://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
- 華視,#://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
- 靖天電影台,#://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
- 鳳凰中文,#://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
- 鳳凰資訊,#://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
- 鳳凰香港,#://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
- 黃金翡翠台,#://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
- 龍華日韓台,#://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
- 龍華經典台,#://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
- 龍華電影台,#://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+28 AI 智慧賽馬,#://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+Animax-HK,#://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+C+台,#://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
+Channel 5 HD,#://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+Channel 8 HD,#://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+Channel U HD,#://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+DW,#://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+France 24,#://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+Hoy 78,#://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
+KIX,#://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+Love Nature HD,#://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+NHK World-Japan,#://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+Nick Jr,#://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+Nickelodeon,#://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+Now星影台,#://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+PopC,#://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+ROCK Action,#://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+ROCK Action,#://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
+TVB Plus,#://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+TVB星河台,#://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
+TVBS,#://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS-新聞台,#://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+Thrill,#://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+ZooMoo,#://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+myTV SUPER 18台,#://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+tvN,#://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+viutv 99,#://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+viutv6 96,#://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+中天亞洲台,#://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+中天新聞台,#://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中視,#://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+亞洲新聞台,#://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+千禧經典台,#://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+娛樂新聞台(HK),#://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+寰宇新聞台,#://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+无线新闻台(北美),#://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+日本全天新聞,#://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+明珠剧集台(北美),#://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+東方衛視國際頻道,#://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+無線新聞台,#://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+無線衛星新聞台,#://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+爆谷台,#://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+神州新聞台,#://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
+美亞電影台(HK),#://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+翡翠剧集台(北美),#://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+翡翠综合台(北美),#://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+華視,#://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+靖天電影台,#://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+鳳凰中文,#://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+鳳凰資訊,#://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+鳳凰香港,#://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+黃金翡翠台,#://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+龍華日韓台,#://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+龍華經典台,#://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+龍華電影台,#://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 
 
 粤港澳闽,#genre#
@@ -904,45 +903,45 @@ tvbs新闻台,#=4gtv-4gtv072
 台湾频道,#genre#
 美亚C+,
 天良,
-民视,#=43 
-台视,#=44 
-中视新闻,#=45 
-华视新闻,#=46 
-民视台湾台,#=49 
-民视第一台,#=50 
-三立台湾台,#=52 
+民视,#=43
+台视,#=44
+中视新闻,#=45
+华视新闻,#=46
+民视台湾台,#=49
+民视第一台,#=50
+三立台湾台,#=52
 靖洋戏剧台,#=53
-八大综合台,#=55 
-八大第一台,#=56 
-八大戏剧台,#=57 
-爱尔达影剧台,#=59 
-CN卡通,#=65 
-亚洲旅游台,#=71 
+八大综合台,#=55
+八大第一台,#=56
+八大戏剧台,#=57
+爱尔达影剧台,#=59
+CN卡通,#=65
+亚洲旅游台,#=71
 爱尔达体育4台,#=72
-探索频道,#=73 
-DMAX,#=74 
-东森LIVE,#=75 
-寰宇新闻,#=76 
-TVBS,#=77 
-TVBS新闻,#=78 
-中视新闻,#=80 
-台视新闻,#=81 
-民视新闻,#=84 
-龙祥时代,#=85 
-东森电影,#=86 
-东森洋片,#=87 
-好莱坞电影,#=88 
-龙华戏剧,#=90 
-龙华偶像,#=91 
-龙华洋片,#=92 
-龙华电影,#=93 
-美亚电影台(国),#=94 
-HBO,#=95 
-HBO HiTS,#=96 
-华纳电影台,#=100 
-MOVIES NOW,#=101 
-卫视电影,#=102 
-天映经典,#=103 
+探索频道,#=73
+DMAX,#=74
+东森LIVE,#=75
+寰宇新闻,#=76
+TVBS,#=77
+TVBS新闻,#=78
+中视新闻,#=80
+台视新闻,#=81
+民视新闻,#=84
+龙祥时代,#=85
+东森电影,#=86
+东森洋片,#=87
+好莱坞电影,#=88
+龙华戏剧,#=90
+龙华偶像,#=91
+龙华洋片,#=92
+龙华电影,#=93
+美亚电影台(国),#=94
+HBO,#=95
+HBOHiTS,#=96
+华纳电影台,#=100
+MOVIESNOW,#=101
+卫视电影,#=102
+天映经典,#=103
 AIWAN+,#tianhewan.top/ZIPP.php?url=#211.72.65.236:8538/.m3u8
 TVBS新闻台,#tianhewan.top/ZIPP.php?url=#211.72.65.236:8574/.m3u8
 年代新闻,#tianhewan.top/ZIPP.php?url=#211.72.65.236:8539/.m3u8
@@ -998,7 +997,7 @@ TLC,#tianhewan.top/ZIPP.php?url=#211.72.65.236:8511/.m3u8
 东风37,#tianhewan.top/ZIPP.php?url=#211.72.65.236:8528/.m3u8
 年代MUCH,#tianhewan.top/ZIPP.php?url=#211.72.65.236:8529/.m3u8
 TVBS欢乐台,#tianhewan.top/ZIPP.php?url=#211.72.65.236:8532/.m3u8
-TVBS HD,#tianhewan.top/ZIPP.php?url=#211.72.65.236:8575/.m3u8
+TVBSHD,#tianhewan.top/ZIPP.php?url=#211.72.65.236:8575/.m3u8
 凤凰资讯,#tianhewan.top/ZIPP.php?url=#211.72.65.236:8576/.m3u8
 凤凰中文,#tianhewan.top/ZIPP.php?url=#211.72.65.236:8577/.m3u8
 卫视电影台,#tianhewan.top/ZIPP.php?url=#211.72.65.236:8578/.m3u8
@@ -1014,8 +1013,8 @@ YY粤语电影,
 荒野求生德爷,#43.136.119.99/yy.php?id=36949900
 陪你看动漫,#43.136.119.99/yy.php?id=1352866135
 陪你看电影,#43.136.119.99/yy.php?id=1351186084
-港片 喜剧 动作,#43.136.119.99/yy.php?id=1355480591
-斗罗 斗破,#43.136.119.99/yy.php?id=1353098382
+港片喜剧动作,#43.136.119.99/yy.php?id=1355480591
+斗罗斗破,#43.136.119.99/yy.php?id=1353098382
 笑傲江湖,#43.136.119.99/yy.php?id=1354282410
 李连杰电影,#43.136.119.99/yy.php?id=74613175
 漫威电影,#43.136.119.99/yy.php?id=1354930233
@@ -1046,7 +1045,7 @@ YY電影-歐美動作電影,#43.136.119.99/yy.php?id=1382745089
 24小时播放,#43.136.119.99/yy.php?id=29067083
 星爷经典-百看不厌,#43.136.119.99/yy.php?id=1382736808
 林正英僵尸鬼片,#43.136.119.99/yy.php?id=1459714870
-经典港片 3000部,#43.136.119.99/yy.php?id=1353059120
+经典港片3000部,#43.136.119.99/yy.php?id=1353059120
 经典鬼片,#43.136.119.99/yy.php?id=1508828185
 吕小羊鬼片正在直播,#43.136.119.99/yy.php?id=1354792118
 绝版鬼片港片,#43.136.119.99/yy.php?id=1382743247
