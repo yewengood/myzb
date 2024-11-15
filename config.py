@@ -7,7 +7,7 @@ source_urls = [
     "https://raw.githubusercontent.com/yewengood/-/main/888.txt",
     "http://我不是.摸鱼儿.com/live.php",
     "https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt",
-    "https://www.huanghuadi.com.cn/live.txt",
+    "https://www.huanghuadi.com.cn/speedtest/live.txt",
     "http://aktv.top/live.m3u",
     "http://kxrj.site:567/gggg.nzk",
    "http://rihou.cc:567/gggg.nzk",
