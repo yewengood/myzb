@@ -1,7 +1,6 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-    "https://raw.githubusercontent.com/yewengood/yahu/refs/heads/main/speedtest/gddx_fofa.txt",
     "https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt",
      "https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt",
     "https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt",
@@ -9,6 +8,7 @@ source_urls = [
     "http://我不是.摸鱼儿.com/live.php",
     "https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt",
     "https://www.huanghuadi.com.cn/speedtest/live.txt",
+  "https://raw.githubusercontent.com/yewengood/yahu/refs/heads/main/speedtest/gddx_fofa.txt",
     "http://aktv.top/live.m3u",
     "http://kxrj.site:567/gggg.nzk",
    "http://rihou.cc:567/gggg.nzk",
