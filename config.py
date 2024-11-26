@@ -13,7 +13,7 @@ source_urls = [
     "http://kxrj.site:567/gggg.nzk",
    "http://rihou.cc:567/gggg.nzk",
        "http://58.214.170.30:35455/tv.m3u",
-    "http://114.55.133.210:35455/tv.m3u"
+    "http://114.245.172.9:35455/tv.m3u"
    # "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt",
    # "https://live.zhoujie218.top/tv/iptv6.txt",
    # "https://raw.githubusercontent.com/Guovin/TV/gd/result.txt",
