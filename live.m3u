@@ -626,16 +626,20 @@ http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="凤凰香港" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/凤凰香港.png" group-title="广东频道",凤凰香港
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hkphoenix_twn 
 #EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/翡翠台.png" group-title="广东频道",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct 
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8 
 #EXTINF:-1 tvg-id="2" tvg-name="翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/翡翠台.png" group-title="广东频道",翡翠台
-http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv 
+http://php.jdshipin.com/TVOD/iptv.php?id=fct 
 #EXTINF:-1 tvg-id="3" tvg-name="翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/翡翠台.png" group-title="广东频道",翡翠台
-http://122.152.202.33/s/81a8a44f/index.m3u8?id=53 
+http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv 
 #EXTINF:-1 tvg-id="4" tvg-name="翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/翡翠台.png" group-title="广东频道",翡翠台
+http://122.152.202.33/s/81a8a44f/index.m3u8?id=53 
+#EXTINF:-1 tvg-id="5" tvg-name="翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/翡翠台.png" group-title="广东频道",翡翠台
 http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah005-golive.flv 
 #EXTINF:-1 tvg-id="1" tvg-name="明珠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/明珠台.png" group-title="广东频道",明珠台
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt 
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8 
 #EXTINF:-1 tvg-id="2" tvg-name="明珠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/明珠台.png" group-title="广东频道",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt 
+#EXTINF:-1 tvg-id="3" tvg-name="明珠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/明珠台.png" group-title="广东频道",明珠台
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8 
 #EXTINF:-1 tvg-id="1" tvg-name="高清翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/高清翡翠台.png" group-title="广东频道",高清翡翠台
 http://119.32.12.17:2901/udp/224.1.100.121:11111 
@@ -5031,6 +5035,114 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/8230197131234717902/1.m3u8?chan
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000004/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000004&livemode=1&stbId=3 
 #EXTINF:-1 tvg-id="2" tvg-name="iHot风尚音乐" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/iHot风尚音乐.png" group-title="iHOT频道",iHot风尚音乐
 http://[2409:8087:5e08:24::11]:6610/000000001000/5529729098703832176/1.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3 
+#EXTINF:-1 tvg-id="1" tvg-name="28 AI 智慧賽馬" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/28 AI 智慧賽馬.png" group-title="香港频道",28 AI 智慧賽馬
+http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="Channel 5 HD" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Channel 5 HD.png" group-title="香港频道",Channel 5 HD
+http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="Channel 8 HD" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Channel 8 HD.png" group-title="香港频道",Channel 8 HD
+http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="Channel U HD" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Channel U HD.png" group-title="香港频道",Channel U HD
+http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="myTV SUPER 18台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/myTV SUPER 18台.png" group-title="香港频道",myTV SUPER 18台
+http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="PopC" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/PopC.png" group-title="香港频道",PopC
+http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="ROCK Action" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/ROCK Action.png" group-title="香港频道",ROCK Action
+http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="TVBS" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVBS.png" group-title="香港频道",TVBS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="TVBS-新聞台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVBS-新聞台.png" group-title="香港频道",TVBS-新聞台
+http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="tvN" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/tvN.png" group-title="香港频道",tvN
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="中天亞洲台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/中天亞洲台.png" group-title="香港频道",中天亞洲台
+http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="中天新聞台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/中天新聞台.png" group-title="香港频道",中天新聞台
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="中視" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/中視.png" group-title="香港频道",中視
+http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="千禧經典台(HK)" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/千禧經典台(HK).png" group-title="香港频道",千禧經典台(HK)
+http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="娛樂新聞台(HK)" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/娛樂新聞台(HK).png" group-title="香港频道",娛樂新聞台(HK)
+http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="寰宇新聞台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/寰宇新聞台.png" group-title="香港频道",寰宇新聞台
+http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="日本全天新聞" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/日本全天新聞.png" group-title="香港频道",日本全天新聞
+http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="明珠剧集台(北美)" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/明珠剧集台(北美).png" group-title="香港频道",明珠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="無線新聞台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/無線新聞台.png" group-title="香港频道",無線新聞台
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="美亞電影台(HK)" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/美亞電影台(HK).png" group-title="香港频道",美亞電影台(HK)
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="翡翠剧集台(北美)" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/翡翠剧集台(北美).png" group-title="香港频道",翡翠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="翡翠综合台(北美)" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/翡翠综合台(北美).png" group-title="香港频道",翡翠综合台(北美)
+http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="華視" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/華視.png" group-title="香港频道",華視
+http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="靖天電影台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/靖天電影台.png" group-title="香港频道",靖天電影台
+http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="鳳凰中文" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/鳳凰中文.png" group-title="香港频道",鳳凰中文
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="鳳凰資訊" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/鳳凰資訊.png" group-title="香港频道",鳳凰資訊
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="鳳凰香港" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/鳳凰香港.png" group-title="香港频道",鳳凰香港
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="黃金翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/黃金翡翠台.png" group-title="香港频道",黃金翡翠台
+http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="龍華日韓台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/龍華日韓台.png" group-title="香港频道",龍華日韓台
+http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="龍華經典台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/龍華經典台.png" group-title="香港频道",龍華經典台
+http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="龍華電影台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/龍華電影台.png" group-title="香港频道",龍華電影台
+http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="AXN" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/AXN.png" group-title="香港频道",AXN
+http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="i-Fun 動漫台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/i-Fun 動漫台.png" group-title="香港频道",i-Fun 動漫台
+http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="Now星影台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Now星影台.png" group-title="香港频道",Now星影台
+http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="Now爆谷台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Now爆谷台.png" group-title="香港频道",Now爆谷台
+http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="viutv 99" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/viutv 99.png" group-title="香港频道",viutv 99
+http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="viutv6 96" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/viutv6 96.png" group-title="香港频道",viutv6 96
+http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="无线新闻台(北美)" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线新闻台(北美).png" group-title="香港频道",无线新闻台(北美)
+http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="東森新聞" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/東森新聞.png" group-title="香港频道",東森新聞
+http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="Animax(HK)" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Animax(HK).png" group-title="香港频道",Animax(HK)
+http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="DW" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/DW.png" group-title="香港频道",DW
+http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="France 24" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/France 24.png" group-title="香港频道",France 24
+http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="KIX" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/KIX.png" group-title="香港频道",KIX
+http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="Love Nature HD" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Love Nature HD.png" group-title="香港频道",Love Nature HD
+http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="NHK World-Japan" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/NHK World-Japan.png" group-title="香港频道",NHK World-Japan
+http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="NHK東京総合" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/NHK東京総合.png" group-title="香港频道",NHK東京総合
+http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="Nick Jr" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Nick Jr.png" group-title="香港频道",Nick Jr
+http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="Nickelodeon" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Nickelodeon.png" group-title="香港频道",Nickelodeon
+http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="Thrill" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Thrill.png" group-title="香港频道",Thrill
+http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="ZooMoo" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/ZooMoo.png" group-title="香港频道",ZooMoo
+http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="亞洲新聞台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/亞洲新聞台.png" group-title="香港频道",亞洲新聞台
+http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="東方衛視國際頻道" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/東方衛視國際頻道.png" group-title="香港频道",東方衛視國際頻道
+http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="無線衛星新聞台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/無線衛星新聞台.png" group-title="香港频道",無線衛星新聞台
+http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8 
 #EXTINF:-1 tvg-id="1" tvg-name="AMC电影台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/AMC电影台.png" group-title="4GTV",AMC电影台
 http://litv.zapi.us.kg/?id=4gtv-4gtv017 
 #EXTINF:-1 tvg-id="1" tvg-name="CAT电影台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CAT电影台.png" group-title="4GTV",CAT电影台
