@@ -9,7 +9,7 @@ source_urls = [
     "http://我不是.摸鱼儿.com/live.php",
     "https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt",
     "https://www.huanghuadi.com.cn/speedtest/live.txt",
-    "http://aktv.top/live.m3u",
+    "http://aktv.top/live.txt",
    "http://rihou.cc:567/gggg.nzk",
        "http://58.214.170.30:35455/tv.m3u",
     "http://114.245.172.9:35455/tv.m3u"
