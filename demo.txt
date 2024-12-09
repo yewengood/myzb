@@ -578,104 +578,62 @@ iHot风尚音乐,#://[2409:8087:5e08:24::11]:6610/000000001000/55297290987038321
 
 
 香港频道,#genre#
-Plus综合AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=tvbplus
-pₒₚc电影AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=popc
-Now星影AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=now
-美亚电影AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=hk-1
-凤凰中文AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-3
-凤凰资讯AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-4
-凤凰香港AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5
-中天新闻AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-8
-有线新闻AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=hoy78 
-无线新闻AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-1
-无线翡翠AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null
-无线明珠AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-2
-无线赛马AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=mytvsuper18
-28ai赛马AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=28ai 
-黄金翡翠AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-21
-无线娱乐AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=hk
-无线经典AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-15
-无线亚剧AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-7
-无线翡剧AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-18
-无线明剧AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-19
-无线J1美AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-17
-无线新美AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-20
-tvbs新闻AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=tvbs-1
-tvbs闽南AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=tvbs
-寰宇新闻AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-9
-三立新闻AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-14
-中视闽南AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-10
-华视闽南AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-11
-中天亚洲AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-12
-靖天电影AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-6
-龙华电影AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-23
-龙华日韩AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-22
-channeluAKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=channeluhd
-channel5AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=channel5hd
-channel8AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=channel8hd
-TVN韩综AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=tvn
-rock影综AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=rockaction 
-日本新闻AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-13
-泰语购物AKtv,#://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-16
-Plus综合AKtv,#://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-pₒₚc电影AKtv,#://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-Now星影AKtv,#://aktv.top/AKTV/live/aktv/now/AKTV.m3u8
-Now爆谷AKtv,#://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-美亚电影AKtv,#://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-凤凰中文AKtv,#://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰资讯AKtv,#://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-凤凰香港AKtv,#://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-中天新闻AKtv,#://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-有线新闻AKtv,#://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
-无线新闻AKtv,#://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-无线翡翠AKtv,#://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-无线明珠AKtv,#://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-无线赛马AKtv,#://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-28ai赛马AKtv,#://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-黄金翡翠AKtv,#://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-无线娱乐AKtv,#://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-无线星河AKtv,#://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
-无线经典AKtv,#://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-无线亚剧AKtv,#://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-无线翡剧AKtv,#://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-无线明剧AKtv,#://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-无线J1美AKtv,#://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-无线新美AKtv,#://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
-VIUTV-粤AKtv,#://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-VIUTV-英AKtv,#://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-tvbs新闻AKtv,#://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-tvbs新闻AKtv,#://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-tvbs闽南AKtv,#://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-寰宇新闻AKtv,#://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-三立新闻AKtv,#://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
-中视闽南AKtv,#://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-华视闽南AKtv,#://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-中天亚洲AKtv,#://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-靖天电影AKtv,#://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-龙华电影AKtv,#://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-龙华日韩AKtv,#://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-神州新闻AKtv,#://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
-东方国际AKtv,#://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-国家地理AKtv,#://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-channeluAKtv,#://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-channel5AKtv,#://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-channel8AKtv,#://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-C+_香港AKtv,#://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
-ThrIll_影AKtv,#://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-Nhk新闻AKtv,#://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-CNa新闻AKtv,#://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-TVN韩综AKtv,#://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-KIX_韩综AKtv,#://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-DW_综合AKtv,#://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-france24AKtv,#://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-rock影综AKtv,#://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-Nick综合AKtv,#://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-Nick卡通AKtv,#://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-AniMAX_AKtv,#://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-ZooMoo-AKtv,#://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-日本新闻AKtv,#://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-泰语购物AKtv,#://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
-
+28 AI 智慧賽馬,#://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+Channel 5 HD,#://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+Channel 8 HD,#://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+Channel U HD,#://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+myTV SUPER 18台,#://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+PopC,#://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+ROCK Action,#://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+TVB Plus,#://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+TVBS,#://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS-新聞台,#://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+tvN,#://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+中天亞洲台,#://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+中天新聞台,#://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中視,#://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+千禧經典台(HK),#://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+娛樂新聞台(HK),#://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+寰宇新聞台,#://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+日本全天新聞,#://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+明珠剧集台(北美),#://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+明珠台,#://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+無線新聞台,#://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+美亞電影台(HK),#://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+翡翠剧集台(北美),#://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+翡翠台,#://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+翡翠综合台(北美),#://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+華視,#://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+靖天電影台,#://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+鳳凰中文,#://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+鳳凰資訊,#://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+鳳凰香港,#://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+黃金翡翠台,#://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+龍華日韓台,#://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+龍華經典台,#://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+龍華電影台,#://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+AXN,#://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+i-Fun 動漫台,#://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
+Now星影台,#://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+Now爆谷台,#://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
+viutv 99,#://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+viutv6 96,#://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+无线新闻台(北美),#://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+東森新聞,#://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+Animax(HK),#://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+DW,#://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+France 24,#://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+KIX,#://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+Love Nature HD,#://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+NHK World-Japan,#://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+NHK東京総合,#://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
+Nick Jr,#://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+Nickelodeon,#://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+Thrill,#://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+ZooMoo,#://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+亞洲新聞台,#://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+東方衛視國際頻道,#://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+無線衛星新聞台,#://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 
 
 
