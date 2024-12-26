@@ -578,63 +578,68 @@ iHot风尚音乐,#://[2409:8087:5e08:24::11]:6610/000000001000/55297290987038321
 
 
 香港频道,#genre#
-28 AI 智慧賽馬,#://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-Channel 5 HD,#://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,#://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-Channel U HD,#://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-myTV SUPER 18台,#://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-PopC,#://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-ROCK Action,#://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-TVB Plus,#://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-TVBS,#://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBS-新聞台,#://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-tvN,#://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-中天亞洲台,#://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-中天新聞台,#://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-中視,#://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-千禧經典台(HK),#://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-娛樂新聞台(HK),#://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-寰宇新聞台,#://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-日本全天新聞,#://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-明珠剧集台(北美),#://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-明珠台,#://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-無線新聞台,#://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-美亞電影台(HK),#://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-翡翠剧集台(北美),#://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-翡翠台,#://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-翡翠综合台(北美),#://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-華視,#://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-靖天電影台,#://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-鳳凰中文,#://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-鳳凰資訊,#://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-鳳凰香港,#://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-黃金翡翠台,#://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-龍華日韓台,#://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-龍華經典台,#://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-龍華電影台,#://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-AXN,#://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
-i-Fun 動漫台,#://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
-Now星影台,#://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-Now爆谷台,#://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
-viutv 99,#://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-viutv6 96,#://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-无线新闻台(北美),#://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-東森新聞,#://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-Animax(HK),#://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-DW,#://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-France 24,#://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-KIX,#://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-Love Nature HD,#://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-NHK World-Japan,#://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-NHK東京総合,#://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
-Nick Jr,#://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-Nickelodeon,#://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-Thrill,#://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-ZooMoo,#://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-亞洲新聞台,#://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-東方衛視國際頻道,#://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-無線衛星新聞台,#://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-
+28 AI 智慧賽馬,#/28ai/AKTV.m3u8
+Channel 5 HD,#/channel5hd/AKTV.m3u8
+Channel 8 HD,#/channel8hd/AKTV.m3u8
+Channel U HD,#/channeluhd/AKTV.m3u8
+myTV SUPER 18台,#/mytvsuper18/AKTV.m3u8
+PopC,#/popc/AKTV.m3u8
+ROCK Action,#/rockaction/AKTV.m3u8
+TVB Plus,#/tvbplus/AKTV.m3u8
+TVBS,#/tvbs/AKTV.m3u8
+TVBS-新聞台,#/tvbs-1/AKTV.m3u8
+tvN,#/tvn/AKTV.m3u8
+中天亞洲台,#/null-12/AKTV.m3u8
+中天新聞台,#/null-8/AKTV.m3u8
+中視,#/null-10/AKTV.m3u8
+千禧經典台(HK),#/null-15/AKTV.m3u8
+娛樂新聞台(HK),#/hk/AKTV.m3u8
+寰宇新聞台,#/null-9/AKTV.m3u8
+日本全天新聞,#/null-13/AKTV.m3u8
+明珠剧集台(北美),#/null-19/AKTV.m3u8
+明珠台,#/null-2/AKTV.m3u8
+無線新聞台,#/null-1/AKTV.m3u8
+美亞電影台(HK),#/hk-1/AKTV.m3u8
+翡翠剧集台(北美),#/null-18/AKTV.m3u8
+翡翠台,#/null/AKTV.m3u8
+翡翠综合台(北美),#/null-17/AKTV.m3u8
+華視,#/null-11/AKTV.m3u8
+靖天電影台,#/null-6/AKTV.m3u8
+鳳凰中文,#/null-3/AKTV.m3u8
+鳳凰資訊,#/null-4/AKTV.m3u8
+鳳凰香港,#/null-5/AKTV.m3u8
+黃金翡翠台,#/null-21/AKTV.m3u8
+龍華日韓台,#/null-22/AKTV.m3u8
+龍華經典台,#/null-7/AKTV.m3u8
+龍華電影台,#/null-23/AKTV.m3u8
+AXN,#2/axn/AKTV.m3u8
+i-Fun 動漫台,#2/ifun/AKTV.m3u8
+Love Nature HD,#2/lovenaturehd/AKTV.m3u8
+Now星影台,#2/now/AKTV.m3u8
+Now爆谷台,#2/now-1/AKTV.m3u8
+viutv 99,#2/viutv99/AKTV.m3u8
+viutv6 96,#2/viutv696/AKTV.m3u8
+无线新闻台(北美),#2/null-1/AKTV.m3u8
+東森新聞,#2/null/AKTV.m3u8
+Animax(HK),#3/animaxhk/AKTV.m3u8
+Astro AEC,#3/astroaec/AKTV.m3u8
+Astro iQIYI,#3/astroiqiyi/AKTV.m3u8
+Astro Xing He,#3/astroxinghe/AKTV.m3u8
+DW,#3/dw/AKTV.m3u8
+France 24,#3/france24/AKTV.m3u8
+KIX,#3/kix/AKTV.m3u8
+Love Nature HD,#3/lovenaturehd/AKTV.m3u8
+NHK World-Japan,#3/nhkworldjapan/AKTV.m3u8
+NHK東京総合,#3/nhk/AKTV.m3u8
+Nick Jr,#3/nickjr/AKTV.m3u8
+Nickelodeon,#3/nickelodeon/AKTV.m3u8
+Thrill,#3/thrill/AKTV.m3u8
+ZooMoo,#3/zoomoo/AKTV.m3u8
+亞洲新聞台,#3/null-3/AKTV.m3u8
+東方衛視國際頻道,#3/null/AKTV.m3u8
+無線衛星新聞台,#3/null-2/AKTV.m3u8
+纬来体育台,#3/null-1/AKTV.m3u8
+翡翠台4K,#3/4k/AKTV.m3u8
 
 
 粤港澳闽,#genre#
