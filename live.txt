@@ -322,12 +322,39 @@ CHC家庭影院,https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv
 1905环球经典,http://php.jdshipin.com/1905.php?id=1905dy2 
 广州南国都市,http://php.jdshipin.com/gztv.php?id=shenghuo 
 美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya 
-美亚电影台,p3p://108.181.32.169:28025/642525310003ad3cea72ca2155c734c3 
+美亚电影台,p3p://108.181.32.169:21311/642525310003ad3cea72ca2155c734c3 
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali 
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe 
 HOY-TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv 
 千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc 
 Astro-AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod 
+美亚电影台(台),https://iptv.vip-tptv.xyz/tv.php?id=1 
+天映频道,https://iptv.vip-tptv.xyz/tv.php?id=2 
+纬来电影台,https://iptv.vip-tptv.xyz/tv.php?id=3 
+东森电影台,https://iptv.vip-tptv.xyz/tv.php?id=4 
+东森电影台,p3p://108.181.32.169:21311/64253899000a078deabe99ff587050b0 
+东森洋片台,https://iptv.vip-tptv.xyz/tv.php?id=5 
+纬来日本台,https://iptv.vip-tptv.xyz/tv.php?id=6 
+纬来体育台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8 
+纬来体育台,https://iptv.vip-tptv.xyz/tv.php?id=7 
+东森幼幼台,https://iptv.vip-tptv.xyz/tv.php?id=8 
+爱尔达影剧台,https://iptv.vip-tptv.xyz/tv.php?id=9 
+i-Fun 動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8 
+i-Fun 動漫台,https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv15 
+Astro QJ,https://iptv.vip-tptv.xyz/tv.php?id=12 
+Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8 
+Astro AEC,https://iptv.vip-tptv.xyz/tv.php?id=17 
+Astro AOD 511 SG,https://iptv.vip-tptv.xyz/tv.php?id=22 
+Astro AOD HD SG,https://iptv.vip-tptv.xyz/tv.php?id=23 
+Astro Supersports 1,https://iptv.vip-tptv.xyz/tv.php?id=25 
+Astro Supersports 2,https://iptv.vip-tptv.xyz/tv.php?id=26 
+Astro Supersports 3,https://iptv.vip-tptv.xyz/tv.php?id=27 
+Astro Supersports 4,https://iptv.vip-tptv.xyz/tv.php?id=28 
+Astro Supersports 5,https://iptv.vip-tptv.xyz/tv.php?id=29 
+One SG,https://iptv.vip-tptv.xyz/tv.php?id=18 
+天映频道SG,https://iptv.vip-tptv.xyz/tv.php?id=11 
+TVB星河台 L-HL,https://iptv.vip-tptv.xyz/tv.php?id=14 
+TVB星河台 HK-HL,https://iptv.vip-tptv.xyz/tv.php?id=21 
 重温经典,http://tv.dlwmkj.com/php2021/bfy.php?id=635 
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8 
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv 
@@ -2759,7 +2786,6 @@ tvN,http://125.133.0.83:9003//hls/8/index.m3u8
 龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8 
 龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8 
 AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8 
-i-Fun 動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8 
 Love Nature HD,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8 
 Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8 
 Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8 
@@ -2769,7 +2795,6 @@ viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8 
 東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8 
 Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8 
-Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8 
 Astro iQIYI,http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8 
 Astro Xing He,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8 
 DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8 
@@ -2778,17 +2803,16 @@ KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
 NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8 
 NHK東京総合,http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8 
 Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8 
-Nick Jr,p3p://108.181.32.169:28025/642d449d000ac1ec0a2d5151582b3dea 
+Nick Jr,p3p://108.181.32.169:21311/642d449d000ac1ec0a2d5151582b3dea 
 Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8 
 Nickelodeon,http://143.244.60.30/NICKELODEON/index.m3u8 
-Nickelodeon,p3p://108.181.32.169:28025/642d44b90006faed0a2dbdba7c9816e4 
+Nickelodeon,p3p://108.181.32.169:21311/642d44b90006faed0a2dbdba7c9816e4 
 Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8 
-Thrill,p3p://108.181.32.169:28025/644a0879000272f67a89b6687af342ae 
+Thrill,p3p://108.181.32.169:21311/644a0879000272f67a89b6687af342ae 
 ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8 
 亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8 
 東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8 
 無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8 
-纬来体育台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8 
 翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8 
 粤港澳闽,#genre#
 Plus即时频道,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv 
@@ -2814,7 +2838,7 @@ Plus即时频道,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 凤凰香港频备,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk 
 香港卫视频道,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
 星空卫视频道,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0 
-星空卫视频道,http://182.138.237.24:4022/udp/239.93.0.156:2193 
+星空卫视频道,http://110.184.136.226:6868/udp/239.93.0.156:2193 
 中天新闻频道,https://stream1.freetv.fun/0efa038ef8b00da22a46c019893c5170b1b49731e8b26ede0655c7f76e5dbfa7.m3u8 
 无线新闻频道,https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.m3u8 
 无线新闻频道,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn 
@@ -2860,8 +2884,8 @@ Astr剧集频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 影迷电影频道,http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+ 
 影迷电影频道,http://118.249.22.148:8989/udp/239.76.252.242:9000 
 影迷电影频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy 
-RTHK-31频陆,p3p://108.181.32.169:28025/64101f330006ab429853d45f7940453b 
-RTHK-32频陆,p3p://108.181.32.169:28025/641020b00001b8599859a360613572d7 
+RTHK-31频陆,p3p://108.181.32.169:21311/64101f330006ab429853d45f7940453b 
+RTHK-32频陆,p3p://108.181.32.169:21311/641020b00001b8599859a360613572d7 
 RTHK-33频道,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8 
 RTHK-34频道,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8 
 RTHK-35频道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8 
@@ -2918,9 +2942,9 @@ Nick动画频壹,http://37.27.111.214:8080/live/12/hls.m3u8
 Nick动画频贰,http://37.27.111.214:8080/live/22/hls.m3u8 
 MoMo亲子国,http://37.27.111.214:8080/live/3/hls.m3u8 
 博斯高球频壹,http://37.27.111.214:8080/live/13/hls.m3u8 
-博斯高球频壹,p3p://108.181.32.169:28025/642d009f000f1f000923ba3b26b667e4 
+博斯高球频壹,p3p://108.181.32.169:21311/642d009f000f1f000923ba3b26b667e4 
 博斯运动频壹,http://37.27.111.214:8080/live/14/hls.m3u8 
-博斯运动频壹,p3p://108.181.32.169:28025/642d000d000525a509217d5a62e868e8 
+博斯运动频壹,p3p://108.181.32.169:21311/642d000d000525a509217d5a62e868e8 
 博斯无限频道,http://37.27.111.214:8080/live/15/hls.m3u8 
 mTV音乐频道,http://37.27.111.214:8080/live/25/hls.m3u8 
 HISTORY频道,http://37.27.111.214:8080/live/27/hls.m3u8 
@@ -2994,7 +3018,7 @@ tvbs闽南台,http://litv.zapi.us.kg/?id=4gtv-4gtv073
 tvbs新闻台,http://litv.zapi.us.kg/?id=4gtv-4gtv072 
 亚洲旅游台,http://211.72.65.236:8513/.m3u8 
 亚洲旅游台,http://litv.zapi.us.kg/?id=litv-longturn17 
-亚洲旅游台,p3p://108.181.32.169:28025/642520f70001a86dea62470d303d34d3 
+亚洲旅游台,p3p://108.181.32.169:21311/642520f70001a86dea62470d303d34d3 
 影迷数位台,http://litv.zapi.us.kg/?id=4gtv-4gtv011 
 中视菁采台,http://litv.zapi.us.kg/?id=4gtv-4gtv064 
 中视闽南台,http://litv.zapi.us.kg/?id=4gtv-4gtv040 
@@ -3008,12 +3032,12 @@ tvbs新闻台,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 八大第一台,http://211.72.65.236:8519/.m3u8 
 八大戏剧台,http://211.72.65.236:8531/.m3u8 
 探索频道,http://211.72.65.236:8510/.m3u8 
-东森洋片,p3p://108.181.32.169:28025/64251f8a0008854aea5cb6fe64e47b4e 
+东森洋片,p3p://108.181.32.169:21311/64251f8a0008854aea5cb6fe64e47b4e 
 龙华戏剧,http://211.72.65.236:8549/.m3u8 
 龙华偶像,http://211.72.65.236:8555/.m3u8 
 龙华电影,http://211.72.65.236:8556/.m3u8 
 HBO,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848 
-HBO,p3p://108.181.32.169:28025/645faf2100095cb2cf1c4442765c172b 
+HBO,p3p://108.181.32.169:21311/645faf2100095cb2cf1c4442765c172b 
 AIWAN+,http://211.72.65.236:8538/.m3u8 
 TVBS新闻台,http://211.72.65.236:8574/.m3u8 
 年代新闻,http://211.72.65.236:8539/.m3u8 
@@ -3030,7 +3054,7 @@ Bloomberg,http://211.72.65.236:8551/.m3u8
 NHK,http://211.72.65.236:8552/.m3u8 
 momo综合台,http://211.72.65.236:8553/.m3u8 
 好莱坞电影台,http://211.72.65.236:8554/.m3u8 
-好莱坞电影台,p3p://108.181.32.169:28025/6425244f0001184fea6f56a70aca63d2 
+好莱坞电影台,p3p://108.181.32.169:21311/6425244f0001184fea6f56a70aca63d2 
 CINEMAX,http://211.72.65.236:8559/.m3u8 
 卫视合家欢,http://211.72.65.236:8561/.m3u8 
 博斯运动1,http://211.72.65.236:8557/.m3u8 
@@ -3040,15 +3064,15 @@ ELEVEN2,http://211.72.65.236:8567/.m3u8
 华视,http://211.72.65.236:8503/.m3u8 
 公视,http://211.72.65.236:8505/.m3u8 
 人间卫视,http://211.72.65.236:8506/.m3u8 
-人间卫视,p3p://108.181.32.169:28025/6425224d00048156ea677fb9420534b4 
+人间卫视,p3p://108.181.32.169:21311/6425224d00048156ea677fb9420534b4 
 大爱,http://211.72.65.236:8507/.m3u8 
 好消息,http://211.72.65.236:8508/.m3u8 
 国家地理,http://211.72.65.236:8509/.m3u8 
 TLC,http://211.72.65.236:8511/.m3u8 
-TLC,p3p://108.181.32.169:28025/6463afd90007b7e9debed8772a126a6b 
+TLC,p3p://108.181.32.169:21311/6463afd90007b7e9debed8772a126a6b 
 动物星球,http://211.72.65.236:8512/.m3u8 
 东森幼幼,http://211.72.65.236:8515/.m3u8 
-东森幼幼,p3p://108.181.32.169:28025/6430b41c0001f3831798d72948126428 
+东森幼幼,p3p://108.181.32.169:21311/6430b41c0001f3831798d72948126428 
 龙华卡通,http://211.72.65.236:8516/.m3u8 
 纬来综合,http://211.72.65.236:8518/.m3u8 
 纬来戏剧,http://211.72.65.236:8533/.m3u8 
@@ -3159,7 +3183,7 @@ YY電影-歐美動作電影,http://43.136.119.99:35455/yy/1382745089
 吃米滴虫(粤语）,http://120.77.28.4:8648/douyu.php?id=5033502 
 粤语电影,http://120.77.28.4:8648/douyu.php?id=1226741#http://120.77.28.4:8648/douyu.php?id=1226741 
 神乐电影（粤语）,http://120.77.28.4:8648/douyu.php?id=6566671 
-粤语极清电影,https://pullhw.zhaoyangyang.cn/live/8748662.flv?auth_info=s7TvxOIRyLYEixkC9jcLNEOyzeBe1mCOaeGz4Q50Ng0%3D.524d4f73586a725064727577636c3343 
+粤语极清电影,https://pullhw.zhaoyangyang.cn/live/8749856.flv?auth_info=fsR71RUOSkFbWsi8D25u8AyHvBsZSLUgdF4QEfGJepE%3D.766d5a35705771684e6b515a5a634c61 
 周星驰电影,http://120.77.28.4:8648/douyu.php?id=3637778 
 麓山迷踪㊣版,http://120.77.28.4:8648/douyu.php?id=4505431 
 瑶瑶恐怖㊣版,http://120.77.28.4:8648/douyu.php?id=2935323 
