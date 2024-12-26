@@ -1,6 +1,6 @@
 公告,#genre#
-更新日期,https://liuliuliu.tv/api/channels/1997/stream
-2024-12-26,https://liuliuliu.tv/api/channels/233/stream
+更新日期,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+2024-12-26,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 广东频道,#genre#
 广东卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226248/index.m3u8 
 广东卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225701/2/index.m3u8 
