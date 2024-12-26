@@ -53,6 +53,29 @@ TVB星河,
 HOY-TV,
 千禧经典台,
 Astro-AOD,
+美亚电影台(台),#1
+天映频道,#2
+纬来电影台,#3
+东森电影台,#4
+东森洋片台,#5
+纬来日本台,#6
+纬来体育台,#7
+东森幼幼台,#8
+爱尔达影剧台,#9
+i-Fun 動漫台,
+Astro QJ,#12
+Astro AEC,#17
+Astro AOD 511 SG,#22
+Astro AOD HD SG,#23
+Astro Supersports 1,#25
+Astro Supersports 2,#26
+Astro Supersports 3,#27
+Astro Supersports 4,#28
+Astro Supersports 5,#29
+One SG,#18
+天映频道SG,#11
+TVB星河台 L-HL,#14
+TVB星河台 HK-HL,#21
 重温经典,
 星光视界,
 星光综合频视,#://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
