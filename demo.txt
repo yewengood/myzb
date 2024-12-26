@@ -57,7 +57,8 @@ Astro-AOD,
 星光视界,
 星光综合频视,#://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 熊猫功夫频视,#://data.3g.yy.com/live/hls/1507716299/150771629
-
+周星驰,
+刘德华,
 
 
 广东地方台,#genre#
