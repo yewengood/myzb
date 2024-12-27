@@ -1,18 +1,20 @@
-2024-12-27 12:41:04,926 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 获取成功，判断为txt格式
-2024-12-27 12:41:04,928 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 爬取成功✅，包含频道分类: 📡  电信频道
-2024-12-27 12:41:05,048 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt 获取成功，判断为txt格式
-2024-12-27 12:41:05,051 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt 爬取成功✅，包含频道分类: 📡  电信广电, 📡  四川频道, 📡  北京联通
-2024-12-27 12:41:05,491 - INFO - url: https://aktv.top/live.txt 获取成功，判断为txt格式
-2024-12-27 12:41:05,492 - INFO - url: https://aktv.top/live.txt 爬取成功✅，包含频道分类: AKTV
-2024-12-27 12:41:05,618 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 获取成功，判断为txt格式
-2024-12-27 12:41:05,622 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 爬取成功✅，包含频道分类: 央卫, 广东频道, 🐼IPV6专区, 数字频道ip6, 台湾频道, NewTV频道, iHOT频道, 数字高清, 4GTV, YY精选, 斗鱼精选, 虎牙-精选, 四川电信, 不失效源
-2024-12-27 12:41:07,184 - INFO - url: http://我不是.摸鱼儿.com/live.php 获取成功，判断为txt格式
-2024-12-27 12:41:07,192 - INFO - url: http://我不是.摸鱼儿.com/live.php 爬取成功✅，包含频道分类: 摸鱼公告, 央视, 卫视, 地方频道, 数字电视, 直播, 央视网, 国际电视, 广播电台, 歌手2018, 历年春晚, 🕘️更新时间, 📺央视频道, 💰央视付费频道, 📡卫视频道, ☘️广东频道, ☘️浙江频道, ☘️北京频道, ☘️上海频道, ☘️重庆频道, ☘️江苏频道, ☘️辽宁频道, ☘️湖南频道, ☘️湖北频道, ☘️广西频道, ☘️天津频道, ☘️四川频道, ☘️陕西频道, ☘️福建频道, ☘️海南频道, ☘️河南频道, ☘️河北频道, ☘️贵州频道, ☘️甘肃频道, ☘️新疆频道, ☘️山东频道, ☘️山西频道, ☘️安徽频道, ☘️宁夏频道, ☘️吉林频道, ☘️内蒙古频道, ☘️云南频道, ☘️青海频道, ☘️黑龙江频道, 🌊港·澳·台, 🎬电影频道, 🎥咪咕直播, 🏀体育频道, 🪁动画频道, 🎮游戏频道, 🎵音乐频道, 🏛经典剧场, 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 综艺频道, 纪录频道, 体育频道, 游戏频道, 更新时间
-2024-12-27 12:41:07,328 - INFO - url: https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt 获取成功，判断为txt格式
-2024-12-27 12:41:07,329 - INFO - url: https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt 爬取成功✅，包含频道分类: 📡  电信广电
-2024-12-27 12:41:07,543 - INFO - url: https://raw.githubusercontent.com/yewengood/iptv1/refs/heads/main/speedtest/live.txt 获取成功，判断为txt格式
-2024-12-27 12:43:21,796 - ERROR - url: http://rihou.cc:555 爬取失败❌, Error: HTTPConnectionPool(host='rihou.cc', port=555): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f6edd1b7940>, 'Connection to rihou.cc timed out. (connect timeout=None)'))
-2024-12-27 12:45:36,964 - ERROR - url: http://rihou.cc:567/gggg.nzk 爬取失败❌, Error: HTTPConnectionPool(host='rihou.cc', port=567): Max retries exceeded with url: /gggg.nzk (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f6edd1b6dd0>, 'Connection to rihou.cc timed out. (connect timeout=None)'))
-2024-12-27 12:47:52,132 - ERROR - url: http://14.145.159.67:35455/tv.m3u 爬取失败❌, Error: HTTPConnectionPool(host='14.145.159.67', port=35455): Max retries exceeded with url: /tv.m3u (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f6edd1b6fb0>, 'Connection to 14.145.159.67 timed out. (connect timeout=None)'))
-2024-12-27 12:47:53,245 - INFO - url: http://120.46.69.225:35455/tv.m3u 获取成功，判断为m3u格式
-2024-12-27 12:47:53,246 - INFO - url: http://120.46.69.225:35455/tv.m3u 爬取成功✅，包含频道分类: 4K频道, 央视, 其他, 8K频道, 北京, 安徽, 卫视, 甘肃, 广东, 贵州, 海南, 河北, 河南, 黑龙江, 湖北, 湖南, 吉林, 江苏, 江西, 辽宁, 青海, 山东, 上海, 四川, 云南, 浙江, 重庆, NEWTV, IHOT, 咪咕体育
+2024-12-27 18:39:53,332 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 获取成功，判断为txt格式
+2024-12-27 18:39:53,334 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 爬取成功✅，包含频道分类: 📡  电信频道
+2024-12-27 18:39:53,609 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt 获取成功，判断为txt格式
+2024-12-27 18:39:53,612 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt 爬取成功✅，包含频道分类: 📡  电信广电, 📡  四川频道, 📡  北京联通
+2024-12-27 18:39:53,717 - INFO - url: https://aktv.top/live.txt 获取成功，判断为txt格式
+2024-12-27 18:39:53,718 - INFO - url: https://aktv.top/live.txt 爬取成功✅，包含频道分类: AKTV
+2024-12-27 18:39:53,973 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 获取成功，判断为txt格式
+2024-12-27 18:39:53,977 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 爬取成功✅，包含频道分类: 央卫, 广东频道, 🐼IPV6专区, 数字频道ip6, 台湾频道, NewTV频道, iHOT频道, 数字高清, 4GTV, YY精选, 斗鱼精选, 虎牙-精选, 四川电信, 不失效源
+2024-12-27 18:39:55,237 - INFO - url: http://我不是.摸鱼儿.com/live.php 获取成功，判断为txt格式
+2024-12-27 18:39:55,245 - INFO - url: http://我不是.摸鱼儿.com/live.php 爬取成功✅，包含频道分类: 摸鱼公告, 央视, 卫视, 地方频道, 数字电视, 直播, 央视网, 国际电视, 广播电台, 歌手2018, 历年春晚, 🕘️更新时间, 📺央视频道, 💰央视付费频道, 📡卫视频道, ☘️广东频道, ☘️浙江频道, ☘️北京频道, ☘️上海频道, ☘️重庆频道, ☘️江苏频道, ☘️辽宁频道, ☘️湖南频道, ☘️湖北频道, ☘️广西频道, ☘️天津频道, ☘️四川频道, ☘️陕西频道, ☘️福建频道, ☘️海南频道, ☘️河南频道, ☘️河北频道, ☘️贵州频道, ☘️甘肃频道, ☘️新疆频道, ☘️山东频道, ☘️山西频道, ☘️安徽频道, ☘️宁夏频道, ☘️吉林频道, ☘️内蒙古频道, ☘️云南频道, ☘️青海频道, ☘️黑龙江频道, 🌊港·澳·台, 🎬电影频道, 🎥咪咕直播, 🏀体育频道, 🪁动画频道, 🎮游戏频道, 🎵音乐频道, 🏛经典剧场, 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 综艺频道, 纪录频道, 体育频道, 游戏频道, 更新时间
+2024-12-27 18:39:55,465 - INFO - url: https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt 获取成功，判断为txt格式
+2024-12-27 18:39:55,466 - INFO - url: https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt 爬取成功✅，包含频道分类: 📡  电信广电
+2024-12-27 18:39:55,691 - INFO - url: https://raw.githubusercontent.com/yewengood/iptv1/refs/heads/main/speedtest/live.txt 获取成功，判断为txt格式
+2024-12-27 18:39:59,421 - INFO - url: http://rihou.cc:555 获取成功，判断为txt格式
+2024-12-27 18:39:59,436 - INFO - url: http://rihou.cc:555 爬取成功✅，包含频道分类: 足球粤评, NBA咪咕, 欣赏频道, 央卫频道, 咪咕--iTV, 央卫--iTV, Newtv-itv, SiTV-ITV, IHOT-iTV, 港闽AKtv, 粤港澳闽, 韩国电信, 粤桂电信, 粤桂频道, 央卫频陆, 特区频陆, 闽南频陆, 童年频道, 抖音电台, 广东频道, 篮球粤评, 还珠格格, 大地恩情, 粤经典剧, 射雕英雄, 神雕侠侣, 视觉效果, 动感舞曲, 红歌音乐, 龙年电影, 梅州移动, 北京联通, 北京电信, 山东移动, 山东联通, 天津联通, 安徽联通, 绍兴联通, 岳阳联通, 重庆联通, 上海电信, 浙江电信, 广西电信, 河北电信, 湖北电信, 四川电信, 赤峰电信, 新闻频陆, 跑马频陆, 体育频陆, 电影频陆, 儿童频陆, 知识频陆, 新坡频陆, 马亚频陆, 印度频陆, 加大频陆, 日本频陆, 韩国频陆, 美国频陆
+2024-12-27 18:40:03,577 - INFO - url: http://rihou.cc:567/gggg.nzk 获取成功，判断为txt格式
+2024-12-27 18:40:03,590 - INFO - url: http://rihou.cc:567/gggg.nzk 爬取成功✅，包含频道分类: 足球粤评, NBA咪咕, 欣赏频道, 央卫频道, 咪咕--iTV, 央卫--iTV, Newtv-itv, SiTV-ITV, IHOT-iTV, 港闽AKtv, 粤港澳闽, 韩国电信, 粤桂电信, 粤桂频道, 央卫频陆, 特区频陆, 闽南频陆, 童年频道, 抖音电台, 广东频道, 篮球粤评, 还珠格格, 大地恩情, 粤经典剧, 射雕英雄, 神雕侠侣, 视觉效果, 动感舞曲, 红歌音乐, 龙年电影, 梅州移动, 北京联通, 北京电信, 山东移动, 山东联通, 天津联通, 安徽联通, 绍兴联通, 岳阳联通, 重庆联通, 上海电信, 浙江电信, 广西电信, 河北电信, 湖北电信, 四川电信, 赤峰电信, 新闻频陆, 跑马频陆, 体育频陆, 电影频陆, 儿童频陆, 知识频陆, 新坡频陆, 马亚频陆, 印度频陆, 加大频陆, 日本频陆, 韩国频陆, 美国频陆
+2024-12-27 18:42:18,044 - ERROR - url: http://14.145.159.67:35455/tv.m3u 爬取失败❌, Error: HTTPConnectionPool(host='14.145.159.67', port=35455): Max retries exceeded with url: /tv.m3u (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fda9c88ed10>, 'Connection to 14.145.159.67 timed out. (connect timeout=None)'))
+2024-12-27 18:42:18,860 - INFO - url: http://120.46.69.225:35455/tv.m3u 获取成功，判断为m3u格式
+2024-12-27 18:42:18,862 - INFO - url: http://120.46.69.225:35455/tv.m3u 爬取成功✅，包含频道分类: 4K频道, 央视, 其他, 8K频道, 北京, 安徽, 卫视, 甘肃, 广东, 贵州, 海南, 河北, 河南, 黑龙江, 湖北, 湖南, 吉林, 江苏, 江西, 辽宁, 青海, 山东, 上海, 四川, 云南, 浙江, 重庆, NEWTV, IHOT, 咪咕体育
