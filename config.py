@@ -12,7 +12,7 @@ source_urls = [
     "http://rihou.cc:555",
    "http://rihou.cc:567/gggg.nzk",
    "http://tv.kmhlzxs.top:35455/tv.m3u",
-   "http://b.zgjok.com:35455/tv.m3u",
+   "http://b.zgjok.com:35455/tv.m3u"
    # "https://raw.githubusercontent.com/Guovin/TV/gd/result.txt",
    # "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt",
    # "https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u",
