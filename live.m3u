@@ -605,8 +605,6 @@ http://119.32.12.31:2901/udp/224.1.100.132:11111
 http://eastscreen.tv/ooooo.php?id=chcdz 
 #EXTINF:-1 tvg-id="20" tvg-name="CHC动作电影" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CHC动作电影.png" group-title="广东频道",CHC动作电影
 http://117.190.144.101:1111/tsfile/live/1020_1.m3u8 
-#EXTINF:-1 tvg-id="21" tvg-name="CHC动作电影" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CHC动作电影.png" group-title="广东频道",CHC动作电影
-https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv 
 #EXTINF:-1 tvg-id="1" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2 
 #EXTINF:-1 tvg-id="2" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
@@ -622,7 +620,7 @@ http://117.190.144.101:1111/tsfile/live/1018_1.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
 http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8 
 #EXTINF:-1 tvg-id="8" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
-https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv 
+http://eastscreen.tv/ooooo.php?id=chcjt 
 #EXTINF:-1 tvg-id="1" tvg-name="1905极限反转" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/1905极限反转.png" group-title="广东频道",1905极限反转
 http://php.jdshipin.com/1905.php?id=1905dy 
 #EXTINF:-1 tvg-id="1" tvg-name="1905环球经典" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/1905环球经典.png" group-title="广东频道",1905环球经典
@@ -5316,7 +5314,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="SiTV七彩戏剧" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV七彩戏剧.png" group-title="iHOT频道",SiTV七彩戏剧
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031116/1.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3 
 #EXTINF:-1 tvg-id="2" tvg-name="SiTV七彩戏剧" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV七彩戏剧.png" group-title="iHOT频道",SiTV七彩戏剧
-http://www.terrykang.xyz:35455/itv/5000000011000031116.m3u8?cdn=bestzb 
+http://18.136.200.140:35455/itv/5000000011000031116.m3u8?cdn=bestzb 
 #EXTINF:-1 tvg-id="3" tvg-name="SiTV七彩戏剧" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV七彩戏剧.png" group-title="iHOT频道",SiTV七彩戏剧
 http://hhxhhy.top:35455/itv/5000000011000031116.m3u8?cdn=bestzb 
 #EXTINF:-1 tvg-id="4" tvg-name="SiTV七彩戏剧" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV七彩戏剧.png" group-title="iHOT频道",SiTV七彩戏剧
@@ -5328,7 +5326,7 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031112/1.m3u8?chan
 #EXTINF:-1 tvg-id="1" tvg-name="SiTV动漫秀场" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV动漫秀场.png" group-title="iHOT频道",SiTV动漫秀场
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031113/1.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3 
 #EXTINF:-1 tvg-id="2" tvg-name="SiTV动漫秀场" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV动漫秀场.png" group-title="iHOT频道",SiTV动漫秀场
-http://www.terrykang.xyz:35455/itv/5000000011000031113.m3u8?cdn=bestzb 
+http://18.136.200.140:35455/itv/5000000011000031113.m3u8?cdn=bestzb 
 #EXTINF:-1 tvg-id="3" tvg-name="SiTV动漫秀场" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV动漫秀场.png" group-title="iHOT频道",SiTV动漫秀场
 http://hhxhhy.top:35455/itv/5000000011000031113.m3u8?cdn=bestzb 
 #EXTINF:-1 tvg-id="4" tvg-name="SiTV动漫秀场" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV动漫秀场.png" group-title="iHOT频道",SiTV动漫秀场
@@ -5338,7 +5336,7 @@ http://49.74.145.161:35455/itv/5000000011000031113.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="1" tvg-name="SiTV劲爆体育" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV劲爆体育.png" group-title="iHOT频道",SiTV劲爆体育
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3 
 #EXTINF:-1 tvg-id="2" tvg-name="SiTV劲爆体育" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV劲爆体育.png" group-title="iHOT频道",SiTV劲爆体育
-http://www.terrykang.xyz:35455/itv/5000000002000029972.m3u8?cdn=bestzb 
+http://18.136.200.140:35455/itv/5000000002000029972.m3u8?cdn=bestzb 
 #EXTINF:-1 tvg-id="3" tvg-name="SiTV劲爆体育" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV劲爆体育.png" group-title="iHOT频道",SiTV劲爆体育
 http://hhxhhy.top:35455/itv/5000000002000029972.m3u8?cdn=bestzb 
 #EXTINF:-1 tvg-id="4" tvg-name="SiTV劲爆体育" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV劲爆体育.png" group-title="iHOT频道",SiTV劲爆体育
@@ -5350,7 +5348,7 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/5000000002000009455/1.m3u8?chan
 #EXTINF:-1 tvg-id="2" tvg-name="SiTV欢笑剧场" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV欢笑剧场.png" group-title="iHOT频道",SiTV欢笑剧场
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000007000010001/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3 
 #EXTINF:-1 tvg-id="3" tvg-name="SiTV欢笑剧场" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV欢笑剧场.png" group-title="iHOT频道",SiTV欢笑剧场
-http://www.terrykang.xyz:35455/itv/5000000002000009455.m3u8?cdn=bestzb 
+http://18.136.200.140:35455/itv/5000000002000009455.m3u8?cdn=bestzb 
 #EXTINF:-1 tvg-id="4" tvg-name="SiTV欢笑剧场" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV欢笑剧场.png" group-title="iHOT频道",SiTV欢笑剧场
 http://hhxhhy.top:35455/itv/5000000002000009455.m3u8?cdn=bestzb 
 #EXTINF:-1 tvg-id="5" tvg-name="SiTV欢笑剧场" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV欢笑剧场.png" group-title="iHOT频道",SiTV欢笑剧场
@@ -5360,7 +5358,7 @@ http://49.74.145.161:35455/itv/5000000002000009455.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="1" tvg-name="SiTV法治天地" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV法治天地.png" group-title="iHOT频道",SiTV法治天地
 http://[2409:8087:5e08:24::11]:6610/000000001000/9001547084732463424/1.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3 
 #EXTINF:-1 tvg-id="2" tvg-name="SiTV法治天地" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV法治天地.png" group-title="iHOT频道",SiTV法治天地
-http://www.terrykang.xyz:35455/itv/9001547084732463424.m3u8?cdn=bestzb 
+http://18.136.200.140:35455/itv/9001547084732463424.m3u8?cdn=bestzb 
 #EXTINF:-1 tvg-id="3" tvg-name="SiTV法治天地" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV法治天地.png" group-title="iHOT频道",SiTV法治天地
 http://hhxhhy.top:35455/itv/9001547084732463424.m3u8?cdn=bestzb 
 #EXTINF:-1 tvg-id="4" tvg-name="SiTV法治天地" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV法治天地.png" group-title="iHOT频道",SiTV法治天地
@@ -5370,7 +5368,7 @@ http://49.74.145.161:35455/itv/9001547084732463424.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="1" tvg-name="SiTV游戏风云" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV游戏风云.png" group-title="iHOT频道",SiTV游戏风云
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031114/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3 
 #EXTINF:-1 tvg-id="2" tvg-name="SiTV游戏风云" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV游戏风云.png" group-title="iHOT频道",SiTV游戏风云
-http://www.terrykang.xyz:35455/itv/5000000011000031114.m3u8?cdn=bestzb 
+http://18.136.200.140:35455/itv/5000000011000031114.m3u8?cdn=bestzb 
 #EXTINF:-1 tvg-id="3" tvg-name="SiTV游戏风云" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV游戏风云.png" group-title="iHOT频道",SiTV游戏风云
 http://hhxhhy.top:35455/itv/5000000011000031114.m3u8?cdn=bestzb 
 #EXTINF:-1 tvg-id="4" tvg-name="SiTV游戏风云" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV游戏风云.png" group-title="iHOT频道",SiTV游戏风云
@@ -5380,7 +5378,7 @@ http://49.74.145.161:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="1" tvg-name="SiTV生活时尚" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV生活时尚.png" group-title="iHOT频道",SiTV生活时尚
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000002000019634/1.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3 
 #EXTINF:-1 tvg-id="2" tvg-name="SiTV生活时尚" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV生活时尚.png" group-title="iHOT频道",SiTV生活时尚
-http://www.terrykang.xyz:35455/itv/5000000002000019634.m3u8?cdn=bestzb 
+http://18.136.200.140:35455/itv/5000000002000019634.m3u8?cdn=bestzb 
 #EXTINF:-1 tvg-id="3" tvg-name="SiTV生活时尚" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV生活时尚.png" group-title="iHOT频道",SiTV生活时尚
 http://hhxhhy.top:35455/itv/5000000002000019634.m3u8?cdn=bestzb 
 #EXTINF:-1 tvg-id="4" tvg-name="SiTV生活时尚" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV生活时尚.png" group-title="iHOT频道",SiTV生活时尚
@@ -5390,7 +5388,7 @@ http://49.74.145.161:35455/itv/5000000002000019634.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="1" tvg-name="SiTV都市剧场" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV都市剧场.png" group-title="iHOT频道",SiTV都市剧场
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031111/1.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3 
 #EXTINF:-1 tvg-id="2" tvg-name="SiTV都市剧场" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV都市剧场.png" group-title="iHOT频道",SiTV都市剧场
-http://www.terrykang.xyz:35455/itv/5000000011000031111.m3u8?cdn=bestzb 
+http://18.136.200.140:35455/itv/5000000011000031111.m3u8?cdn=bestzb 
 #EXTINF:-1 tvg-id="3" tvg-name="SiTV都市剧场" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV都市剧场.png" group-title="iHOT频道",SiTV都市剧场
 http://hhxhhy.top:35455/itv/5000000011000031111.m3u8?cdn=bestzb 
 #EXTINF:-1 tvg-id="4" tvg-name="SiTV都市剧场" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV都市剧场.png" group-title="iHOT频道",SiTV都市剧场
@@ -5400,7 +5398,7 @@ http://49.74.145.161:35455/itv/5000000011000031111.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="1" tvg-name="SiTV金色学堂" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV金色学堂.png" group-title="iHOT频道",SiTV金色学堂
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000010000026105/1.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3 
 #EXTINF:-1 tvg-id="2" tvg-name="SiTV金色学堂" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV金色学堂.png" group-title="iHOT频道",SiTV金色学堂
-http://www.terrykang.xyz:35455/itv/5000000010000026105.m3u8?cdn=bestzb 
+http://18.136.200.140:35455/itv/5000000010000026105.m3u8?cdn=bestzb 
 #EXTINF:-1 tvg-id="3" tvg-name="SiTV金色学堂" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV金色学堂.png" group-title="iHOT频道",SiTV金色学堂
 http://hhxhhy.top:35455/itv/5000000010000026105.m3u8?cdn=bestzb 
 #EXTINF:-1 tvg-id="4" tvg-name="SiTV金色学堂" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV金色学堂.png" group-title="iHOT频道",SiTV金色学堂
@@ -5410,7 +5408,7 @@ http://49.74.145.161:35455/itv/5000000010000026105.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="1" tvg-name="SiTV魅力足球" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV魅力足球.png" group-title="iHOT频道",SiTV魅力足球
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3 
 #EXTINF:-1 tvg-id="2" tvg-name="SiTV魅力足球" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV魅力足球.png" group-title="iHOT频道",SiTV魅力足球
-http://www.terrykang.xyz:35455/itv/5000000011000031207.m3u8?cdn=bestzb 
+http://18.136.200.140:35455/itv/5000000011000031207.m3u8?cdn=bestzb 
 #EXTINF:-1 tvg-id="3" tvg-name="SiTV魅力足球" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV魅力足球.png" group-title="iHOT频道",SiTV魅力足球
 http://hhxhhy.top:35455/itv/5000000011000031207.m3u8?cdn=bestzb 
 #EXTINF:-1 tvg-id="4" tvg-name="SiTV魅力足球" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/SiTV魅力足球.png" group-title="iHOT频道",SiTV魅力足球
@@ -5859,202 +5857,146 @@ http://37.27.111.214:8080/live/46/hls.m3u8
 http://37.27.111.214:8080/live/102/hls.m3u8 
 #EXTINF:-1 tvg-id="1" tvg-name="互动英語频道" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/互动英語频道.png" group-title="粤港澳闽",互动英語频道
 http://37.27.111.214:8080/live/54/hls.m3u8 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-01频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CCTV-01频晴.png" group-title="晴天影视",CCTV-01频晴
-P2p://starvod.xyz:19806/9ceaa547a0a940f9b4525825ccc94d17 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-02频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CCTV-02频晴.png" group-title="晴天影视",CCTV-02频晴
-P2p://starvod.xyz:19806/4e77234901bf4800b387710bac2a9da6 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-03频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CCTV-03频晴.png" group-title="晴天影视",CCTV-03频晴
-P2p://starvod.xyz:19806/63d134b8dd5e4e1c856d612cf58b9d00 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-04频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CCTV-04频晴.png" group-title="晴天影视",CCTV-04频晴
-P2p://starvod.xyz:19806/7dc071c6b7e4494b8f396aeb47392763 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-05频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CCTV-05频晴.png" group-title="晴天影视",CCTV-05频晴
-P2p://starvod.xyz:19806/75ea87ba60d44befa39571a56cb7c759 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-5+频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CCTV-5+频晴.png" group-title="晴天影视",CCTV-5+频晴
-P2p://starvod.xyz:19806/0287cdee4ad24d9f8ded436cce0b0e0b 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-06频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CCTV-06频晴.png" group-title="晴天影视",CCTV-06频晴
-P2p://starvod.xyz:19806/312db12514924cde944294871e5a7cf0 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-07频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CCTV-07频晴.png" group-title="晴天影视",CCTV-07频晴
-P2p://starvod.xyz:19806/84ba2a3bd64f4d00854dc9eb06ab791b 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-08频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CCTV-08频晴.png" group-title="晴天影视",CCTV-08频晴
-P2p://starvod.xyz:19806/4777cd73565743f4865090cde3769013 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-09频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CCTV-09频晴.png" group-title="晴天影视",CCTV-09频晴
-P2p://starvod.xyz:19806/f739319fda194167867fdfce3f5bc0c0 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-10频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CCTV-10频晴.png" group-title="晴天影视",CCTV-10频晴
-P2p://starvod.xyz:19806/b0b19b905c9e4e079856754ce7607eb9 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-11频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CCTV-11频晴.png" group-title="晴天影视",CCTV-11频晴
-P2p://starvod.xyz:19806/b2a6121c23264b3b902a86311451f14a 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-12频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CCTV-12频晴.png" group-title="晴天影视",CCTV-12频晴
-P2p://starvod.xyz:19806/00ed762e9d6f49248b605aa75820ec04 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-13频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CCTV-13频晴.png" group-title="晴天影视",CCTV-13频晴
-P2p://starvod.xyz:19806/63fe10e97134413486f02e407839a647 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-14频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CCTV-14频晴.png" group-title="晴天影视",CCTV-14频晴
-P2p://starvod.xyz:19806/78ca5fe33cbd44b6853f6ecb15b7b9e9 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-15频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CCTV-15频晴.png" group-title="晴天影视",CCTV-15频晴
-P2p://starvod.xyz:19806/95e3d3ac1c3341b5be12d9602035ac3b 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-16频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CCTV-16频晴.png" group-title="晴天影视",CCTV-16频晴
-P2p://starvod.xyz:19806/e8166678ff764d84a9ef288956e0b541 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-17频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CCTV-17频晴.png" group-title="晴天影视",CCTV-17频晴
-P2p://starvod.xyz:19806/f251d017879545038ac4d2fc2caa4b4d 
-#EXTINF:-1 tvg-id="1" tvg-name="北京卫视频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/北京卫视频晴.png" group-title="晴天影视",北京卫视频晴
-P2p://starvod.xyz:19806/fbdf3e15cbb8417ca7563d2c838a4e2a 
-#EXTINF:-1 tvg-id="1" tvg-name="东方卫视频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/东方卫视频晴.png" group-title="晴天影视",东方卫视频晴
-P2p://starvod.xyz:19806/f368263ec2ea4c6cbbf010f3956192ef 
-#EXTINF:-1 tvg-id="1" tvg-name="浙江卫视频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/浙江卫视频晴.png" group-title="晴天影视",浙江卫视频晴
-P2p://starvod.xyz:19806/0afbcf21e62442f2a94f312409a3195c 
-#EXTINF:-1 tvg-id="1" tvg-name="江苏卫视频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/江苏卫视频晴.png" group-title="晴天影视",江苏卫视频晴
-P2p://starvod.xyz:19806/672a23d10003c2dcccdfb146480b660a 
-#EXTINF:-1 tvg-id="1" tvg-name="湖南卫视频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/湖南卫视频晴.png" group-title="晴天影视",湖南卫视频晴
-P2p://starvod.xyz:19806/0a573c0d4bd74d249f16441c9f7716e0 
-#EXTINF:-1 tvg-id="1" tvg-name="广东卫视频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/广东卫视频晴.png" group-title="晴天影视",广东卫视频晴
-P2p://starvod.xyz:19806/200112957e7944769dd5f3b8df0dd014 
-#EXTINF:-1 tvg-id="1" tvg-name="深圳卫视频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/深圳卫视频晴.png" group-title="晴天影视",深圳卫视频晴
-P2p://starvod.xyz:19806/44ba12b0797b4b1683314574906f8179 
-#EXTINF:-1 tvg-id="1" tvg-name="天津卫视频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/天津卫视频晴.png" group-title="晴天影视",天津卫视频晴
-P2p://starvod.xyz:19806/68128f688d8c47ce83d0aebce06f41ae 
-#EXTINF:-1 tvg-id="1" tvg-name="河北卫视频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/河北卫视频晴.png" group-title="晴天影视",河北卫视频晴
-P2p://starvod.xyz:19806/1118bbdc4c424501a24c76b5c754ae3e 
-#EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/辽宁卫视频晴.png" group-title="晴天影视",辽宁卫视频晴
-P2p://starvod.xyz:19806/e4be6b865bf44113bfde93506fa8b8e6 
-#EXTINF:-1 tvg-id="1" tvg-name="江西卫视频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/江西卫视频晴.png" group-title="晴天影视",江西卫视频晴
-P2p://starvod.xyz:19806/dded7059146b4b1e8ec7e9769350076a 
-#EXTINF:-1 tvg-id="1" tvg-name="山东卫视频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/山东卫视频晴.png" group-title="晴天影视",山东卫视频晴
-P2p://starvod.xyz:19806/5fe5206252964bfc9fdb316183bc8707 
-#EXTINF:-1 tvg-id="1" tvg-name="厦门卫视频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/厦门卫视频晴.png" group-title="晴天影视",厦门卫视频晴
-P2p://starvod.xyz:19806/12d74cdf62234e92b2c799d7f8c4f3d1 
-#EXTINF:-1 tvg-id="1" tvg-name="湖北卫视频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/湖北卫视频晴.png" group-title="晴天影视",湖北卫视频晴
-P2p://starvod.xyz:19806/277622ba85884bc0acf1bf921b867192 
-#EXTINF:-1 tvg-id="1" tvg-name="广西卫视频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/广西卫视频晴.png" group-title="晴天影视",广西卫视频晴
-P2p://starvod.xyz:19806/1cf5b21d6de54c14aa80dc3c32d16197 
-#EXTINF:-1 tvg-id="1" tvg-name="重庆卫视频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/重庆卫视频晴.png" group-title="晴天影视",重庆卫视频晴
-P2p://starvod.xyz:19806/7a7b8112b2f34da6842b7c1cd3afcf0f 
-#EXTINF:-1 tvg-id="1" tvg-name="云南卫视频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/云南卫视频晴.png" group-title="晴天影视",云南卫视频晴
-P2p://starvod.xyz:19806/dba7f874ca3f470ea247b32336166781 
-#EXTINF:-1 tvg-id="1" tvg-name="星空卫视频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/星空卫视频晴.png" group-title="晴天影视",星空卫视频晴
-P2p://starvod.xyz:19806/9dfa4962760b47fa8be31e485e95a3bb 
-#EXTINF:-1 tvg-id="1" tvg-name="湾区卫视频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/湾区卫视频晴.png" group-title="晴天影视",湾区卫视频晴
-P2p://starvod.xyz:19806/54dc89e3cb80450ba9ec6432af9bb8a8 
-#EXTINF:-1 tvg-id="1" tvg-name="黑龙江视频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/黑龙江视频晴.png" group-title="晴天影视",黑龙江视频晴
-P2p://starvod.xyz:19806/463e078f0ca94c5e84fbbd38502fd295 
-#EXTINF:-1 tvg-id="1" tvg-name="广东珠江频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/广东珠江频晴.png" group-title="晴天影视",广东珠江频晴
-P2p://starvod.xyz:19806/9948514cd9b54740907358241b8ff64e 
-#EXTINF:-1 tvg-id="1" tvg-name="广东体育频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/广东体育频晴.png" group-title="晴天影视",广东体育频晴
-P2p://starvod.xyz:19806/a65b1740e49747d6ac675765eb4ee0d2 
-#EXTINF:-1 tvg-id="1" tvg-name="广东民生频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/广东民生频晴.png" group-title="晴天影视",广东民生频晴
-P2p://starvod.xyz:19806/209f0a9e29ca457db4bab644191160a8 
-#EXTINF:-1 tvg-id="1" tvg-name="广东影视频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/广东影视频晴.png" group-title="晴天影视",广东影视频晴
-P2p://starvod.xyz:19806/4277b6beae57445388c33a0d1999fb68 
-#EXTINF:-1 tvg-id="1" tvg-name="广州综合频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/广州综合频晴.png" group-title="晴天影视",广州综合频晴
-p2p://starvod.xyz:19806/67210bab000ce3b2a9595f2751324544 
-#EXTINF:-1 tvg-id="1" tvg-name="广州新闻频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/广州新闻频晴.png" group-title="晴天影视",广州新闻频晴
-p2p://starvod.xyz:19806/fa252ca3e738423ca06f9d13315a759d 
-#EXTINF:-1 tvg-id="1" tvg-name="深圳都市频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/深圳都市频晴.png" group-title="晴天影视",深圳都市频晴
-p2p://starvod.xyz:19806/143f596db0fb452dbd7f6785a69e8d4f 
-#EXTINF:-1 tvg-id="1" tvg-name="深圳电视剧晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/深圳电视剧晴.png" group-title="晴天影视",深圳电视剧晴
-p2p://starvod.xyz:19806/23fd527ab5484a22b456efeb613defd1 
-#EXTINF:-1 tvg-id="1" tvg-name="快乐垂钓频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/快乐垂钓频晴.png" group-title="晴天影视",快乐垂钓频晴
-P2p://starvod.xyz:19806/a7e27ad037af4ed0a424de1fe4c7bbaa 
-#EXTINF:-1 tvg-id="1" tvg-name="五星体育频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/五星体育频晴.png" group-title="晴天影视",五星体育频晴
-P2p://starvod.xyz:19806/34f5c73f6f4649249cb608ab704d7b1f 
-#EXTINF:-1 tvg-id="1" tvg-name="魅力足球频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/魅力足球频晴.png" group-title="晴天影视",魅力足球频晴
-P2p://starvod.xyz:19806/50e970cc587c4cb5bb910b1d255bb1d0 
-#EXTINF:-1 tvg-id="1" tvg-name="风云足球频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/风云足球频晴.png" group-title="晴天影视",风云足球频晴
-p2p://starvod.xyz:19806/5a2bb8458dbb4f5aaa5af0e1d2c4018e 
-#EXTINF:-1 tvg-id="1" tvg-name="新视觉hd频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/新视觉hd频晴.png" group-title="晴天影视",新视觉hd频晴
-P2p://starvod.xyz:19806/556b6ade571940f9a5f0f824d93a3b57 
-#EXTINF:-1 tvg-id="1" tvg-name="动作电影频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/动作电影频晴.png" group-title="晴天影视",动作电影频晴
-P2p://starvod.xyz:19806/f26cea79629640ab93ea728d6fbcf383 
-#EXTINF:-1 tvg-id="1" tvg-name="家庭影院频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/家庭影院频晴.png" group-title="晴天影视",家庭影院频晴
-P2p://starvod.xyz:19806/fa9f578c3c094a1b9a17102f1889fadf 
-#EXTINF:-1 tvg-id="1" tvg-name="影迷电影频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/影迷电影频晴.png" group-title="晴天影视",影迷电影频晴
-P2p://starvod.xyz:19806/78bcfd70e99742caa9cbe9a5d0068a30 
-#EXTINF:-1 tvg-id="1" tvg-name="私人影院频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/私人影院频晴.png" group-title="晴天影视",私人影院频晴
-P2p://starvod.xyz:19806/3c441307542940208f361c935501e643 
-#EXTINF:-1 tvg-id="1" tvg-name="ChanneV频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/ChanneV频晴.png" group-title="晴天影视",ChanneV频晴
-P2p://starvod.xyz:19806/edc83685418a4e4ead0484f13f6439fa 
-#EXTINF:-1 tvg-id="1" tvg-name="重温经典频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/重温经典频晴.png" group-title="晴天影视",重温经典频晴
-P2p://starvod.xyz:19806/81b5be9e62d74f3fb1c20a3907c5de05 
-#EXTINF:-1 tvg-id="1" tvg-name="Plus综合频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Plus综合频晴.png" group-title="晴天影视",Plus综合频晴
-P2p://starvod.xyz:19806/8f060c3767f744b1a1625bd8be76fdac 
-#EXTINF:-1 tvg-id="1" tvg-name="pₒₚc电影频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/pₒₚc电影频晴.png" group-title="晴天影视",pₒₚc电影频晴
-P2p://starvod.xyz:19806/d5d2d5fff90e4463aa0d286259a37964 
-#EXTINF:-1 tvg-id="1" tvg-name="中天新闻频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/中天新闻频晴.png" group-title="晴天影视",中天新闻频晴
-P2p://starvod.xyz:19806/a21795c0b83b47c08ad10a518d1613bc 
-#EXTINF:-1 tvg-id="2" tvg-name="中天新闻频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/中天新闻频晴.png" group-title="晴天影视",中天新闻频晴
-P2p://starvod.xyz:19806/3d9a34e6a2fc40e994d6c4866d380804 
-#EXTINF:-1 tvg-id="3" tvg-name="中天新闻频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/中天新闻频晴.png" group-title="晴天影视",中天新闻频晴
-P2p://starvod.xyz:19806/e938ce7207b94725920970b72d1db8a5 
-#EXTINF:-1 tvg-id="1" tvg-name="有线新闻频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/有线新闻频晴.png" group-title="晴天影视",有线新闻频晴
-P2p://starvod.xyz:19806/ff5db7e3185044e1b29273ef7d7e14ea 
-#EXTINF:-1 tvg-id="1" tvg-name="无线新闻频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线新闻频晴.png" group-title="晴天影视",无线新闻频晴
-P2p://starvod.xyz:19806/311b4f8e7844463f9f16cc5e530a6dd4 
-#EXTINF:-1 tvg-id="1" tvg-name="无线新闻备晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线新闻备晴.png" group-title="晴天影视",无线新闻备晴
-P2p://starvod.xyz:19806/73007555d75d4f7d86952f03ca2a30ef 
-#EXTINF:-1 tvg-id="1" tvg-name="Now新闻频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Now新闻频晴.png" group-title="晴天影视",Now新闻频晴
-P2p://starvod.xyz:19806/6933a4a4e6514a89abaeb70d02b1a712 
-#EXTINF:-1 tvg-id="1" tvg-name="无线翡翠频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线翡翠频晴.png" group-title="晴天影视",无线翡翠频晴
-P2p://147.135.39.171:9906/6763d686000bd4b39dc7adf53eb36f55 
-#EXTINF:-1 tvg-id="1" tvg-name="﻿无线翡翠备晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/﻿无线翡翠备晴.png" group-title="晴天影视",﻿无线翡翠备晴
-P2p://starvod.xyz:19806/2289698d8b964c2eac53ad129142557d 
-#EXTINF:-1 tvg-id="1" tvg-name="有线综合频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/有线综合频晴.png" group-title="晴天影视",有线综合频晴
-P2p://starvod.xyz:19806/2797104ecb0b42cebec200291753e812 
-#EXTINF:-1 tvg-id="1" tvg-name="有线赛马频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/有线赛马频晴.png" group-title="晴天影视",有线赛马频晴
-P2p://starvod.xyz:19806/35cf3456625848e28bf00522601e88ba 
-#EXTINF:-1 tvg-id="1" tvg-name="无线赛马频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线赛马频晴.png" group-title="晴天影视",无线赛马频晴
-P2p://starvod.xyz:19806/0a213b4dceb541c7933317b6a217af77 
-#EXTINF:-1 tvg-id="1" tvg-name="无线明珠频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线明珠频晴.png" group-title="晴天影视",无线明珠频晴
-P2p://starvod.xyz:19806/79c356dc01f849ca8d4b713a2b5af6f4 
-#EXTINF:-1 tvg-id="1" tvg-name="无线娱乐频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线娱乐频晴.png" group-title="晴天影视",无线娱乐频晴
-P2p://starvod.xyz:19806/84c1353eaf9a41b7b19368cd615ff684 
-#EXTINF:-1 tvg-id="1" tvg-name="无线粤片频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线粤片频晴.png" group-title="晴天影视",无线粤片频晴
-P2p://starvod.xyz:19806/7bb0c0e33d8445e886d8eb8a014cfbd6 
-#EXTINF:-1 tvg-id="1" tvg-name="无线戏曲频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线戏曲频晴.png" group-title="晴天影视",无线戏曲频晴
-P2p://starvod.xyz:19806/36ab88ff3b3f49abbcc63989d7b938c9 
-#EXTINF:-1 tvg-id="1" tvg-name="无线星河频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线星河频晴.png" group-title="晴天影视",无线星河频晴
-P2p://starvod.xyz:19806/cf159dce09d742c19e0549c8918f2435 
-#EXTINF:-1 tvg-id="1" tvg-name="无线亚剧频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线亚剧频晴.png" group-title="晴天影视",无线亚剧频晴
-P2p://starvod.xyz:19806/623350e53f034ed28ff3cf504379d104 
-#EXTINF:-1 tvg-id="1" tvg-name="无线功夫频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线功夫频晴.png" group-title="晴天影视",无线功夫频晴
-P2p://starvod.xyz:19806/14aa8e9678bd41ebad713c916ca30acf 
-#EXTINF:-1 tvg-id="1" tvg-name="无线少儿频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线少儿频晴.png" group-title="晴天影视",无线少儿频晴
-P2p://starvod.xyz:19806/d4c220d6cdf140678603378ca48cf050 
-#EXTINF:-1 tvg-id="1" tvg-name="无线千禧频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线千禧频晴.png" group-title="晴天影视",无线千禧频晴
-P2p://starvod.xyz:19806/e0a923a3dfec43499b09f9a0a3a002cf 
-#EXTINF:-1 tvg-id="1" tvg-name="无线黄金频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线黄金频晴.png" group-title="晴天影视",无线黄金频晴
-P2p://starvod.xyz:19806/1ce6cad822f54b5ba5a6bad081157d9b 
-#EXTINF:-1 tvg-id="1" tvg-name="天映经典频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/天映经典频晴.png" group-title="晴天影视",天映经典频晴
-P2p://starvod.xyz:19806/103e7ffb39794fc0b2b15f6bb2b0051d 
-#EXTINF:-1 tvg-id="1" tvg-name="天映频道频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/天映频道频晴.png" group-title="晴天影视",天映频道频晴
-P2p://starvod.xyz:19806/d42eb59a701444d8b0d804f475682092 
-#EXTINF:-1 tvg-id="1" tvg-name="美亚电影国晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/美亚电影国晴.png" group-title="晴天影视",美亚电影国晴
-p2p://starvod.xyz:19806/c160feecc40d442b8ab7d78e36fa32bd 
-#EXTINF:-1 tvg-id="1" tvg-name="美亚电影粤晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/美亚电影粤晴.png" group-title="晴天影视",美亚电影粤晴
-P2p://starvod.xyz:19806/96d0682c8ff847729b749930385aa521 
-#EXTINF:-1 tvg-id="1" tvg-name="ViuTV-粤频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/ViuTV-粤频晴.png" group-title="晴天影视",ViuTV-粤频晴
-P2p://starvod.xyz:19806/bc65f28f9f54425382767232fb0cce78 
-#EXTINF:-1 tvg-id="1" tvg-name="ViuTV-英频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/ViuTV-英频晴.png" group-title="晴天影视",ViuTV-英频晴
-P2p://starvod.xyz:19806/232795435b7346239225690ebe74a50a 
-#EXTINF:-1 tvg-id="1" tvg-name="Now财经频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Now财经频晴.png" group-title="晴天影视",Now财经频晴
-P2p://starvod.xyz:19806/1c0918a85001487cb0c2b0214e5560dd 
-#EXTINF:-1 tvg-id="1" tvg-name="香港财经频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/香港财经频晴.png" group-title="晴天影视",香港财经频晴
-P2p://starvod.xyz:19806/7a523ec459fd4f6db5f5b16ad3c26666 
-#EXTINF:-1 tvg-id="1" tvg-name="港台电视31晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/港台电视31晴.png" group-title="晴天影视",港台电视31晴
-P2p://starvod.xyz:19806/3d4038002c1648318f52b3e9bf1a2fa9 
-#EXTINF:-1 tvg-id="1" tvg-name="港台电视32晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/港台电视32晴.png" group-title="晴天影视",港台电视32晴
-P2p://starvod.xyz:19806/63a9d7aff27a4b7fb34e1c6b37831934 
-#EXTINF:-1 tvg-id="1" tvg-name="港台电视34晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/港台电视34晴.png" group-title="晴天影视",港台电视34晴
-p2p://starvod.xyz:19806/39ddff19452941feb9a61369d936ae3e 
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰中文频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/凤凰中文频晴.png" group-title="晴天影视",凤凰中文频晴
-P2p://starvod.xyz:19806/e639ee04ce064accb555465efda877dc 
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰信息频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/凤凰信息频晴.png" group-title="晴天影视",凤凰信息频晴
-P2p://starvod.xyz:19806/3fe1f50971824378ade442963fdfed61 
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰香港频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/凤凰香港频晴.png" group-title="晴天影视",凤凰香港频晴
-P2p://starvod.xyz:19806/783f37f450a54b219429dcaf1783f0b5 
-#EXTINF:-1 tvg-id="1" tvg-name="澳门macau晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/澳门macau晴.png" group-title="晴天影视",澳门macau晴
-P2p://starvod.xyz:19806/d0dc768217db45c48927733d2335e650 
-#EXTINF:-1 tvg-id="1" tvg-name="澳门莲花频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/澳门莲花频晴.png" group-title="晴天影视",澳门莲花频晴
-P2p://starvod.xyz:19806/3b31982da9184ad7923cab20ccaaab2a 
-#EXTINF:-1 tvg-id="1" tvg-name="thrill电影频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/thrill电影频晴.png" group-title="晴天影视",thrill电影频晴
-P2p://starvod.xyz:19806/223c78877367436a917585523b400765 
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰中文频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/凤凰中文频陆.png" group-title="特区频道",凤凰中文频陆
+p3p://108.181.32.169:41567/6410229e000655dd98612e41401e3e7d 
+#EXTINF:-1 tvg-id="2" tvg-name="凤凰中文频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/凤凰中文频陆.png" group-title="特区频道",凤凰中文频陆
+p3p://108.181.32.169:41567/641fd7b400080236d5bc536f5d82159c 
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰资讯频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/凤凰资讯频陆.png" group-title="特区频道",凤凰资讯频陆
+p3p://108.181.32.169:41567/641022be000e5cc69861ad4f5a025336 
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰香港频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/凤凰香港频陆.png" group-title="特区频道",凤凰香港频陆
+p3p://108.181.32.169:41567/67641d8000038fa1b90c9c78133d0607 
+#EXTINF:-1 tvg-id="2" tvg-name="凤凰香港频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/凤凰香港频陆.png" group-title="特区频道",凤凰香港频陆
+p3p://108.181.32.169:41567/641022da0005d3069862188000a64525 
+#EXTINF:-1 tvg-id="1" tvg-name="有线新闻频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/有线新闻频陆.png" group-title="特区频道",有线新闻频陆
+p3p://108.181.32.169:41567/676747550002dc76c568044f0ac04b1e 
+#EXTINF:-1 tvg-id="1" tvg-name="无线新闻频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线新闻频陆.png" group-title="特区频道",无线新闻频陆
+p3p://108.181.32.169:41567/66c413ed0002eb3047eaefcf31980454 
+#EXTINF:-1 tvg-id="2" tvg-name="无线新闻频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线新闻频陆.png" group-title="特区频道",无线新闻频陆
+p3p://108.181.32.169:41567/66c414110003f1f047eb7cb30cd84a38 
+#EXTINF:-1 tvg-id="3" tvg-name="无线新闻频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线新闻频陆.png" group-title="特区频道",无线新闻频陆
+p3p://108.181.32.169:41567/6533fd5600043bdb2d1c8c0729c35d0c 
+#EXTINF:-1 tvg-id="4" tvg-name="无线新闻频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线新闻频陆.png" group-title="特区频道",无线新闻频陆
+p3p://108.181.32.169:41567/6533f9fb00006d352d0f6f9235041f8d 
+#EXTINF:-1 tvg-id="1" tvg-name="now新闻频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/now新闻频陆.png" group-title="特区频道",now新闻频陆
+p3p://108.181.32.169:41567/676746e2000a6d2dc56645077f356b6b 
+#EXTINF:-1 tvg-id="2" tvg-name="now新闻频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/now新闻频陆.png" group-title="特区频道",now新闻频陆
+p3p://108.181.32.169:41567/6410254c0006df63986ba60f292a7500 
+#EXTINF:-1 tvg-id="1" tvg-name="Plus综合频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Plus综合频陆.png" group-title="特区频道",Plus综合频陆
+p3p://108.181.32.169:41567/641021800006a527985cd1244315142d 
+#EXTINF:-1 tvg-id="1" tvg-name="pₒₚc电影频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/pₒₚc电影频陆.png" group-title="特区频道",pₒₚc电影频陆
+p3p://108.181.32.169:41567/6425242d000d55adea6ed4fa37195f98 
+#EXTINF:-1 tvg-id="1" tvg-name="CM+电影频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CM+电影频陆.png" group-title="特区频道",CM+电影频陆
+p3p://108.181.32.169:41567/6410224e00097a01985ff68e53d22e70 
+#EXTINF:-1 tvg-id="1" tvg-name="无线翡翠频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线翡翠频陆.png" group-title="特区频道",无线翡翠频陆
+p3p://108.181.32.169:41567/6533f5c20003762b2cfef1ac322c6404 
+#EXTINF:-1 tvg-id="1" tvg-name="无线明珠频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线明珠频陆.png" group-title="特区频道",无线明珠频陆
+p3p://108.181.32.169:41567/6533f84d00047c732d08e0ea71ab4e92 
+#EXTINF:-1 tvg-id="1" tvg-name="无线星河粤陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线星河粤陆.png" group-title="特区频道",无线星河粤陆
+p3p://108.181.32.169:41567/641021c50003c5af985dddf037af353c 
+#EXTINF:-1 tvg-id="1" tvg-name="无线星河国陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线星河国陆.png" group-title="特区频道",无线星河国陆
+p3p://108.181.32.169:41567/641021e900026b0f985e6a374d7d56bb 
+#EXTINF:-1 tvg-id="1" tvg-name="无线功夫频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线功夫频陆.png" group-title="特区频道",无线功夫频陆
+p3p://108.181.32.169:41567/6411291b0004b01b9c62861646d00929 
+#EXTINF:-1 tvg-id="1" tvg-name="无线娱乐频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线娱乐频陆.png" group-title="特区频道",无线娱乐频陆
+p3p://108.181.32.169:41567/64102219000c6f74985f28485a5a5799 
+#EXTINF:-1 tvg-id="1" tvg-name="无线经典频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线经典频陆.png" group-title="特区频道",无线经典频陆
+p3p://108.181.32.169:41567/6410219e0000704b985d44bd2a501d47 
+#EXTINF:-1 tvg-id="1" tvg-name="无线粤片频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线粤片频陆.png" group-title="特区频道",无线粤片频陆
+p3p://108.181.32.169:41567/643361c7000d4bee220f05703b541d41 
+#EXTINF:-1 tvg-id="1" tvg-name="无线华剧频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线华剧频陆.png" group-title="特区频道",无线华剧频陆
+p3p://108.181.32.169:41567/643361e10003610a220f68773c0b4c78 
+#EXTINF:-1 tvg-id="1" tvg-name="无线戏曲频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线戏曲频陆.png" group-title="特区频道",无线戏曲频陆
+p3p://108.181.32.169:41567/64336236000b18a12210b67722665e99 
+#EXTINF:-1 tvg-id="1" tvg-name="黄金翡翠频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/黄金翡翠频陆.png" group-title="特区频道",黄金翡翠频陆
+p3p://108.181.32.169:41567/6533f6f8000f2ebd2d03af9d53e46544 
+#EXTINF:-1 tvg-id="1" tvg-name="黄金华剧频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/黄金华剧频陆.png" group-title="特区频道",黄金华剧频陆
+p3p://108.181.32.169:41567/64206c63000c3a90d801201c5fe2483a 
+#EXTINF:-1 tvg-id="1" tvg-name="有线资讯频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/有线资讯频陆.png" group-title="特区频道",有线资讯频陆
+p3p://108.181.32.169:41567/6427e50e0008e093f53042b347a45e2f 
+#EXTINF:-1 tvg-id="1" tvg-name="有线综讯频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/有线综讯频陆.png" group-title="特区频道",有线综讯频陆
+p3p://108.181.32.169:41567/641022340009a273985f91092cb6113d 
+#EXTINF:-1 tvg-id="1" tvg-name="有线赛讯频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/有线赛讯频陆.png" group-title="特区频道",有线赛讯频陆
+p3p://108.181.32.169:41567/6533f044000117a52ce97ce95ac54bb3 
+#EXTINF:-1 tvg-id="2" tvg-name="有线赛讯频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/有线赛讯频陆.png" group-title="特区频道",有线赛讯频陆
+p3p://108.181.32.169:41567/64100aec000c7bc59804a081537730cb 
+#EXTINF:-1 tvg-id="1" tvg-name="有线赛马频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/有线赛马频陆.png" group-title="特区频道",有线赛马频陆
+p3p://108.181.32.169:41567/6533f34d0002237a2cf5584a11195950 
+#EXTINF:-1 tvg-id="1" tvg-name="Astr剧集粤陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Astr剧集粤陆.png" group-title="特区频道",Astr剧集粤陆
+p3p://108.181.32.169:41567/6427ba150003a8b2f48864c0637f78d5 
+#EXTINF:-1 tvg-id="1" tvg-name="Astr综合频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Astr综合频陆.png" group-title="特区频道",Astr综合频陆
+p3p://108.181.32.169:41567/64124c2d0006c6eba0d384f41e28720a 
+#EXTINF:-1 tvg-id="1" tvg-name="Astr欢喜频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Astr欢喜频陆.png" group-title="特区频道",Astr欢喜频陆
+p3p://108.181.32.169:41567/64124caf0002a78fa0d57fb777596e7b 
+#EXTINF:-1 tvg-id="1" tvg-name="Astr爱奇艺陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Astr爱奇艺陆.png" group-title="特区频道",Astr爱奇艺陆
+p3p://108.181.32.169:41567/649672870005e0a5a5062d0e1384610b 
+#EXTINF:-1 tvg-id="1" tvg-name="Astr综艺频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Astr综艺频陆.png" group-title="特区频道",Astr综艺频陆
+p3p://108.181.32.169:41567/64124cfa00001c82a0d6a40858217ea4 
+#EXTINF:-1 tvg-id="1" tvg-name="now财经频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/now财经频陆.png" group-title="特区频道",now财经频陆
+p3p://108.181.32.169:41567/641020d00004bf91985a212731011c3c 
+#EXTINF:-1 tvg-id="1" tvg-name="now爆谷频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/now爆谷频陆.png" group-title="特区频道",now爆谷频陆
+p3p://108.181.32.169:41567/641af90c000328bac2b691f11db2274a 
+#EXTINF:-1 tvg-id="1" tvg-name="now星影粤陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/now星影粤陆.png" group-title="特区频道",now星影粤陆
+p3p://108.181.32.169:41567/641af926000cc2b9c2b6f9f75c8d2b97 
+#EXTINF:-1 tvg-id="1" tvg-name="now星影国陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/now星影国陆.png" group-title="特区频道",now星影国陆
+,p3p://108.181.32.169:41567/641af90c000328bac2b691f11db2274a 
+#EXTINF:-1 tvg-id="1" tvg-name="now英超粤陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/now英超粤陆.png" group-title="特区频道",now英超粤陆
+p3p://108.181.32.169:41567/64d74c1600083555223b68096e79387e 
+#EXTINF:-1 tvg-id="1" tvg-name="now体育英陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/now体育英陆.png" group-title="特区频道",now体育英陆
+p3p://108.181.32.169:41567/64b8f92b000089e02be334b114c32320 
+#EXTINF:-1 tvg-id="1" tvg-name="now体育频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/now体育频陆.png" group-title="特区频道",now体育频陆
+p3p://108.181.32.169:41567/64100a6b000527e19802a6b80be147fa 
+#EXTINF:-1 tvg-id="1" tvg-name="now体育备陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/now体育备陆.png" group-title="特区频道",now体育备陆
+p3p://108.181.32.169:41567/6410211d00048968985b4de16d6e5b6a 
+#EXTINF:-1 tvg-id="1" tvg-name="now直播频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/now直播频陆.png" group-title="特区频道",now直播频陆
+p3p://108.181.32.169:41567/6417e77b0007feb1b6b9f4ca25bc6e04 
+#EXTINF:-1 tvg-id="1" tvg-name="VIUTV台粤陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/VIUTV台粤陆.png" group-title="特区频道",VIUTV台粤陆
+p3p://108.181.32.169:41567/641021400008eb86985bd7b90b510a5b 
+#EXTINF:-1 tvg-id="1" tvg-name="VIUTV台英陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/VIUTV台英陆.png" group-title="特区频道",VIUTV台英陆
+p3p://108.181.32.169:41567/6410215d000ad4ca985c497e192b3552 
+#EXTINF:-1 tvg-id="1" tvg-name="天映频道粤陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/天映频道粤陆.png" group-title="特区频道",天映频道粤陆
+p3p://108.181.32.169:41567/64124e0f00045619a0dadf2552b73bf8 
+#EXTINF:-1 tvg-id="1" tvg-name="天映频道频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/天映频道频陆.png" group-title="特区频道",天映频道频陆
+p3p://108.181.32.169:41567/64124e2b000b454ba0db4e4b137c6137 
+#EXTINF:-1 tvg-id="1" tvg-name="纬来电影国陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/纬来电影国陆.png" group-title="特区频道",纬来电影国陆
+p3p://108.181.32.169:41567/64251eae0001bef7ea5959e100ae671e 
+#EXTINF:-1 tvg-id="1" tvg-name="龙翔电影国陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/龙翔电影国陆.png" group-title="特区频道",龙翔电影国陆
+p3p://108.181.32.169:41567/642d014b0009f96e092658cb4e1b23ff 
+#EXTINF:-1 tvg-id="1" tvg-name="好莱坞电影陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/好莱坞电影陆.png" group-title="特区频道",好莱坞电影陆
+p3p://108.181.32.169:41567/6425244f0001184fea6f56a70aca63d2 
+#EXTINF:-1 tvg-id="1" tvg-name="耀才财经频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/耀才财经频陆.png" group-title="特区频道",耀才财经频陆
+p3p://108.181.32.169:41567/64102268000ecb1f98605d7b0a602bf4 
+#EXTINF:-1 tvg-id="1" tvg-name="CH288赛马陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CH288赛马陆.png" group-title="特区频道",CH288赛马陆
+p3p://108.181.32.169:41567/6533f484000c2b3e2cfa19b55cab3b9b 
+#EXTINF:-1 tvg-id="1" tvg-name="CH289赛马陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/CH289赛马陆.png" group-title="特区频道",CH289赛马陆
+p3p://108.181.32.169:41567/6533f5040003559d2cfc0b7268db0ab8 
+#EXTINF:-1 tvg-id="1" tvg-name="now英超4k陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/now英超4k陆.png" group-title="特区频道",now英超4k陆
+p3p://108.181.32.169:41567/64d74cf7000556f0223ed6366e5f689a 
+#EXTINF:-1 tvg-id="1" tvg-name="now英超1e陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/now英超1e陆.png" group-title="特区频道",now英超1e陆
+p3p://108.181.32.169:41567/64d74cb1000cc276223dc6ac654a2299 
+#EXTINF:-1 tvg-id="1" tvg-name="now体育壹陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/now体育壹陆.png" group-title="特区频道",now体育壹陆
+p3p://108.181.32.169:41567/643361f20007b9a9220fabfc3001244e 
+#EXTINF:-1 tvg-id="1" tvg-name="now体育叁陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/now体育叁陆.png" group-title="特区频道",now体育叁陆
+p3p://108.181.32.169:41567/6433621d000d9c3522105573223958e1 
+#EXTINF:-1 tvg-id="1" tvg-name="now体育肆陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/now体育肆陆.png" group-title="特区频道",now体育肆陆
+p3p://108.181.32.169:41567/6437999f00025f983289265f38ef3722 
+#EXTINF:-1 tvg-id="1" tvg-name="now体育伍陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/now体育伍陆.png" group-title="特区频道",now体育伍陆
+p3p://108.181.32.169:41567/643799aa000e7bac3289547135e05a80 
+#EXTINF:-1 tvg-id="1" tvg-name="now体育陆陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/now体育陆陆.png" group-title="特区频道",now体育陆陆
+p3p://108.181.32.169:41567/643799bb00044f193289943e2e5f6ac1 
+#EXTINF:-1 tvg-id="1" tvg-name="now体育柒陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/now体育柒陆.png" group-title="特区频道",now体育柒陆
+p3p://108.181.32.169:41567/643799ca000a29a43289d0542d57262c 
+#EXTINF:-1 tvg-id="1" tvg-name="HBO-HD频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/HBO-HD频陆.png" group-title="特区频道",HBO-HD频陆
+p3p://108.181.32.169:41567/64137f0b0006a17fa58238155813216c 
+#EXTINF:-1 tvg-id="1" tvg-name="hbo家庭频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/hbo家庭频陆.png" group-title="特区频道",hbo家庭频陆
+p3p://108.181.32.169:41567/64137f3c000d4a86a582f93235111bc5 
+#EXTINF:-1 tvg-id="1" tvg-name="hbo原创频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/hbo原创频陆.png" group-title="特区频道",hbo原创频陆
+p3p://108.181.32.169:41567/64137f700008f329a583c3344ddf5dfc 
+#EXTINF:-1 tvg-id="1" tvg-name="hbo强档频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/hbo强档频陆.png" group-title="特区频道",hbo强档频陆
+p3p://108.181.32.169:41567/64137f970005246ea5845a9326ce6233 
+#EXTINF:-1 tvg-id="1" tvg-name="Discovery_陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Discovery_陆.png" group-title="特区频道",Discovery_陆
+p3p://108.181.32.169:41567/641383f300048101a59561c464b07293 
+#EXTINF:-1 tvg-id="1" tvg-name="KixHD频道陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/KixHD频道陆.png" group-title="特区频道",KixHD频道陆
+p3p://108.181.32.169:41567/6413854d000785b1a59aaa2924fa1aa7 
 #EXTINF:-1 tvg-id="1" tvg-name="老广的味道" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/老广的味道.png" group-title="YY精选",老广的味道
 http://43.136.119.99:35455/yy/1382735565 
 #EXTINF:-1 tvg-id="1" tvg-name="探秘中华美食" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/探秘中华美食.png" group-title="YY精选",探秘中华美食
