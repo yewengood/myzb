@@ -10,9 +10,9 @@ source_urls = [
     "https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt",
     "https://raw.githubusercontent.com/yewengood/iptv1/refs/heads/main/speedtest/live.txt",
     "http://rihou.cc:555",
-   "http://rihou.cc:567/gggg.nzk",
-   "http://tv.kmhlzxs.top:35455/tv.m3u",
-   "http://b.zgjok.com:35455/tv.m3u"
+   "http://rihou.cc:567/gggg.nzk"
+   #"http://tv.kmhlzxs.top:35455/tv.m3u",
+   #"http://b.zgjok.com:35455/tv.m3u"
    # "https://raw.githubusercontent.com/Guovin/TV/gd/result.txt",
    # "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt",
    # "https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u",
