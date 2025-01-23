@@ -2,11 +2,11 @@ ip_version_priority = "ipv6"
 
 source_urls = [
       # "https://raw.githubusercontent.com/yewengood/yahu/refs/heads/main/speedtest/gddx_fofa.txt",
+    "https://raw.githubusercontent.com/yewengood/-/main/888.txt",
      "https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt",
     "https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt",
     "https://aktv.top/live.txt",
-    "https://raw.githubusercontent.com/yewengood/-/main/888.txt",
-    "http://我不是.摸鱼儿.com/live.php",
+    #"http://我不是.摸鱼儿.com/live.php",
     "https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt",
     "https://raw.githubusercontent.com/yewengood/iptv1/refs/heads/main/speedtest/live.txt",
     "http://rihou.cc:555",
