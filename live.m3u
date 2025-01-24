@@ -101,12 +101,10 @@ http:///udp/239.77.0.114:5146
 http://113.64.197.35:6633/udp/239.77.0.114:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="广东珠江超清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/广东珠江超清.png" group-title="广东频道",广东珠江超清
 http://183.51.190.223:6633/udp/239.77.0.114:5146 
-#EXTINF:-1 tvg-id="1" tvg-name="广东珠江IPV6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/广东珠江IPV6.png" group-title="广东频道",广东珠江IPV6
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8 
-#EXTINF:-1 tvg-id="2" tvg-name="广东珠江IPV6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/广东珠江IPV6.png" group-title="广东频道",广东珠江IPV6
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8 
-#EXTINF:-1 tvg-id="3" tvg-name="广东珠江IPV6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/广东珠江IPV6.png" group-title="广东频道",广东珠江IPV6
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000033/index.m3u8?stbId=3&livemode=1&hlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000033&IASHttpSessionId=OTT19019320240419154124000281&yang-1989 
+#EXTINF:-1 tvg-id="1" tvg-name="广东珠江频陆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/广东珠江频陆.png" group-title="广东频道",广东珠江频陆
+p3p://108.181.32.169:53987/642610780008a811ee09d8b561021b45 
+#EXTINF:-1 tvg-id="1" tvg-name="广东珠江频晴" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/广东珠江频晴.png" group-title="广东频道",广东珠江频晴
+P2p://starvod.xyz:19806/9948514cd9b54740907358241b8ff64e 
 #EXTINF:-1 tvg-id="1" tvg-name="广东珠江抖" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/广东珠江抖.png" group-title="广东频道",广东珠江抖
 http://43.136.119.99/douyin.php?id=gdtvzjpd 
 #EXTINF:-1 tvg-id="2" tvg-name="广东珠江抖" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/广东珠江抖.png" group-title="广东频道",广东珠江抖
