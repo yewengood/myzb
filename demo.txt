@@ -252,15 +252,11 @@ CGTN-记录,
 延边卫视,
 
 4K频道,#genre#
-CCTV1-4K,
-CCTV3-4K,
-CCTV5-4K,
-CCTV8K-4K,
-CCTV4K-4K,
-CCTV16-4K,
 北京IPTV4K,
 广东综艺-4K,
 峨眉电影高清,
+峨眉电影
+4K超清电影
 南国都市4K,
 CCTV-4K,
 CCTV8k_36m,
