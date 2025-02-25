@@ -2799,6 +2799,9 @@ HOY资讯台,https://video.mytvsuper.xyz/live/a33aa92d9ebe2b317df57dabb01bcff503
 HOY TV,https://video.mytvsuper.xyz/live/ca6b477f9f5ea904c4c8e4893d52c31880586ba39467aa15ea0f4be4698a3956.php?token=549293861890468 
 龍祥時代,https://video.mytvsuper.xyz/live/e999515d261ff70595f8133dff7128a17c3606beec71c2945e572d133097c86b.m3u8?token=549293861890468 
 HollywoodMovies,https://video.mytvsuper.xyz/live/7e9e2c85f446a7059730820ddf48534b1fc29c421a8503ec54ed1784d028bdbf.php?token=549293861890468 
+美亞電影台(HK),https://video.mytvsuper.xyz/live/3e126407f2aa457bb9f860ecde7167bc6d8470a79a4ffade6bb7c0bac717d795.m3u8?token=549293861890468 
+PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8 
+PopC,https://video.mytvsuper.xyz/live/4eb466fc76cdb9b8f8e0676e954c55df313bd0d2077e7cf6529014e07ff1f59a.m3u8?token=549293861890468 
 纬来日本台(备),https://video.mytvsuper.xyz/live/cf2df25c7ffd41165c3a5353eafd5f17e08bc0b92f81a7a630ed96c24f0c1815.php?token=549293861890468 
 緯來綜合,https://video.mytvsuper.xyz/live/67388f2a006aea30dca4349210c16afa9a86e83db6ecf37c8a039e4b4deb7e05.m3u8?token=549293861890468 
 东森综合,http://211.72.65.236:8524/.m3u8 
