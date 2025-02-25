@@ -8,7 +8,7 @@ source_urls = [
     "https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt",
     "https://aktv.top/live.txt",
     "http://我不是.摸鱼儿.com/live.php",
-    "https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=549293861890468",
+    "http://103.45.68.47:668/gy/m3u-txt.php?url=https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=549293861890468",
     #"https://raw.githubusercontent.com/yewengood/iptv1/refs/heads/main/speedtest/live.txt",
     "http://rihou.cc:555",
    "http://rihou.cc:567/gggg.nzk"
