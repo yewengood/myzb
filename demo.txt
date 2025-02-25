@@ -710,6 +710,8 @@ HOY TV,#://video.mytvsuper.xyz/live/ca6b477f9f5ea904c4c8e4893d52c31880586ba39467
 龍祥時代,#://video.mytvsuper.xyz/live/e999515d261ff70595f8133dff7128a17c3606beec71c2945e572d133097c86b.m3u8?token=549293861890468
 HollywoodMovies,#://video.mytvsuper.xyz/live/7e9e2c85f446a7059730820ddf48534b1fc29c421a8503ec54ed1784d028bdbf.php?token=549293861890468
 美亚电影台,#://video.mytvsuper.xyz/live/72f203785d9baf225b0c3abfc768cf3a2a0b3a87962a338e2ca55bbaf66a4793.php?token=549293861890468
+美亞電影台(HK),
+PopC,
 天映频道,#://video.mytvsuper.xyz/live/054afb3169bde5df48c8ca55af5fbf0bcb0b5af6cf38d2a38e4822d003870c4b.php?token=549293861890468
 纬来电影台,#://video.mytvsuper.xyz/live/b358ad668bb86ec7cfecf9996ac2f1ba3b6b3e5a3f39fb19d079344115f0a5e9.php?token=549293861890468
 纬来日本台,#://video.mytvsuper.xyz/live/a65b3292fb5c0087722a9dbda5f6bdb0bd19fa0f233fdd489aa865195a63a8f8.php?token=549293861890468
