@@ -510,14 +510,12 @@ http://ttkx.cc:1380/公5558/fh.php?id=fhhk
 #EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/翡翠台.png" group-title="广东频道",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct 
 #EXTINF:-1 tvg-id="2" tvg-name="翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/翡翠台.png" group-title="广东频道",翡翠台
-http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8 
-#EXTINF:-1 tvg-id="3" tvg-name="翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/翡翠台.png" group-title="广东频道",翡翠台
 https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40 
-#EXTINF:-1 tvg-id="4" tvg-name="翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/翡翠台.png" group-title="广东频道",翡翠台
+#EXTINF:-1 tvg-id="3" tvg-name="翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/翡翠台.png" group-title="广东频道",翡翠台
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=53 
-#EXTINF:-1 tvg-id="5" tvg-name="翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/翡翠台.png" group-title="广东频道",翡翠台
+#EXTINF:-1 tvg-id="4" tvg-name="翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/翡翠台.png" group-title="广东频道",翡翠台
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS 
-#EXTINF:-1 tvg-id="6" tvg-name="翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/翡翠台.png" group-title="广东频道",翡翠台
+#EXTINF:-1 tvg-id="5" tvg-name="翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/翡翠台.png" group-title="广东频道",翡翠台
 https://video.mytvsuper.xyz/live/1fafdfab85bf627ac499a76603234b706cbc3dda06d3bfd010c17657a01b329f.m3u8?token=549293861890468 
 #EXTINF:-1 tvg-id="1" tvg-name="明珠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/明珠台.png" group-title="广东频道",明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt 
@@ -610,10 +608,8 @@ https://video.mytvsuper.xyz/live/a65b3292fb5c0087722a9dbda5f6bdb0bd19fa0f233fdd4
 #EXTINF:-1 tvg-id="1" tvg-name="纬来体育台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/纬来体育台.png" group-title="广东频道",纬来体育台
 https://iptv.vip-tptv.xyz/tv.php?id=7 
 #EXTINF:-1 tvg-id="2" tvg-name="纬来体育台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/纬来体育台.png" group-title="广东频道",纬来体育台
-http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8 
-#EXTINF:-1 tvg-id="3" tvg-name="纬来体育台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/纬来体育台.png" group-title="广东频道",纬来体育台
 https://video.mytvsuper.xyz/live/fccceef3ad1dde707c15ed4633367b27a1d8eb8c4929ebfd1cff0ae5e759b6f5.php?token=549293861890468 
-#EXTINF:-1 tvg-id="4" tvg-name="纬来体育台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/纬来体育台.png" group-title="广东频道",纬来体育台
+#EXTINF:-1 tvg-id="3" tvg-name="纬来体育台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/纬来体育台.png" group-title="广东频道",纬来体育台
 https://video.mytvsuper.xyz/live/d26a8202500e21cd76b79ba9c711767965b26c80090397222c5157a6d7d74516.m3u8?token=549293861890468 
 #EXTINF:-1 tvg-id="1" tvg-name="东森幼幼台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/东森幼幼台.png" group-title="广东频道",东森幼幼台
 https://iptv.vip-tptv.xyz/tv.php?id=8 
@@ -626,14 +622,12 @@ https://video.mytvsuper.xyz/live/add5a7bc8d0cd90e75e893fa078ade1d56855377727b9e7
 #EXTINF:-1 tvg-id="1" tvg-name="i-Fun 動漫台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/i-Fun 動漫台.png" group-title="广东频道",i-Fun 動漫台
 https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv15 
 #EXTINF:-1 tvg-id="2" tvg-name="i-Fun 動漫台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/i-Fun 動漫台.png" group-title="广东频道",i-Fun 動漫台
-http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8 
-#EXTINF:-1 tvg-id="3" tvg-name="i-Fun 動漫台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/i-Fun 動漫台.png" group-title="广东频道",i-Fun 動漫台
 https://video.mytvsuper.xyz/live/28088ba2bbcb7759813659c75a7e19adc6fd8ff1f792e19b63c0751bd24f864c.php?token=549293861890468 
-#EXTINF:-1 tvg-id="4" tvg-name="i-Fun 動漫台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/i-Fun 動漫台.png" group-title="广东频道",i-Fun 動漫台
+#EXTINF:-1 tvg-id="3" tvg-name="i-Fun 動漫台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/i-Fun 動漫台.png" group-title="广东频道",i-Fun 動漫台
 https://video.mytvsuper.xyz/live/b956262a1a9203ab69fd1315a9a1e3081762c90c575b04f1bb96b7d1bbca7cb8.m3u8?token=549293861890468 
-#EXTINF:-1 tvg-id="5" tvg-name="i-Fun 動漫台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/i-Fun 動漫台.png" group-title="广东频道",i-Fun 動漫台
+#EXTINF:-1 tvg-id="4" tvg-name="i-Fun 動漫台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/i-Fun 動漫台.png" group-title="广东频道",i-Fun 動漫台
 https://video.mytvsuper.xyz/live/7020bb283abca84c18ea259751712c1bf462df7d512ac6f5334a562a302983f6.m3u8?token=549293861890468 
-#EXTINF:-1 tvg-id="6" tvg-name="i-Fun 動漫台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/i-Fun 動漫台.png" group-title="广东频道",i-Fun 動漫台
+#EXTINF:-1 tvg-id="5" tvg-name="i-Fun 動漫台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/i-Fun 動漫台.png" group-title="广东频道",i-Fun 動漫台
 https://video.mytvsuper.xyz/live/f7c39302a8bda8def01337f3ac49ad9e9af0dc6a340c03773bd3febc8f3c200c.m3u8?token=549293861890468 
 #EXTINF:-1 tvg-id="1" tvg-name="Astro QJ" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Astro QJ.png" group-title="广东频道",Astro QJ
 https://iptv.vip-tptv.xyz/tv.php?id=12 
