@@ -691,70 +691,53 @@ i-HOT爱院线,#://c7wen.wicp.net:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
 
 
 香港频道,#genre#
-28 AI 智慧賽馬,#/28ai/AKTV.m3u8
-Channel 5 HD,#/channel5hd/AKTV.m3u8
-Channel 8 HD,#/channel8hd/AKTV.m3u8
-Channel U HD,#/channeluhd/AKTV.m3u8
-myTV SUPER 18台,#/mytvsuper18/AKTV.m3u8
-PopC,#/popc/AKTV.m3u8
-ROCK Action,#/rockaction/AKTV.m3u8
-TVB Plus,#/tvbplus/AKTV.m3u8
-TVBS,#/tvbs/AKTV.m3u8
-TVBS-新聞台,#/tvbs-1/AKTV.m3u8
-tvN,#/tvn/AKTV.m3u8
-中天亞洲台,#/null-12/AKTV.m3u8
-中天新聞台,#/null-8/AKTV.m3u8
-中視,#/null-10/AKTV.m3u8
-千禧經典台(HK),#/null-15/AKTV.m3u8
-娛樂新聞台(HK),#/hk/AKTV.m3u8
-寰宇新聞台,#/null-9/AKTV.m3u8
-日本全天新聞,#/null-13/AKTV.m3u8
-明珠剧集台(北美),#/null-19/AKTV.m3u8
-明珠台,#/null-2/AKTV.m3u8
-無線新聞台,#/null-1/AKTV.m3u8
-美亞電影台(HK),#/hk-1/AKTV.m3u8
-翡翠剧集台(北美),#/null-18/AKTV.m3u8
-翡翠台,#/null/AKTV.m3u8
-翡翠综合台(北美),#/null-17/AKTV.m3u8
-華視,#/null-11/AKTV.m3u8
-靖天電影台,#/null-6/AKTV.m3u8
-鳳凰中文,#/null-3/AKTV.m3u8
-鳳凰資訊,#/null-4/AKTV.m3u8
-鳳凰香港,#/null-5/AKTV.m3u8
-黃金翡翠台,#/null-21/AKTV.m3u8
-龍華日韓台,#/null-22/AKTV.m3u8
-龍華經典台,#/null-7/AKTV.m3u8
-龍華電影台,#/null-23/AKTV.m3u8
-AXN,#2/axn/AKTV.m3u8
-i-Fun 動漫台,#2/ifun/AKTV.m3u8
-Love Nature HD,#2/lovenaturehd/AKTV.m3u8
-Now星影台,#2/now/AKTV.m3u8
-Now爆谷台,#2/now-1/AKTV.m3u8
-viutv 99,#2/viutv99/AKTV.m3u8
-viutv6 96,#2/viutv696/AKTV.m3u8
-无线新闻台(北美),#2/null-1/AKTV.m3u8
-東森新聞,#2/null/AKTV.m3u8
-Animax(HK),#3/animaxhk/AKTV.m3u8
-Astro AEC,#3/astroaec/AKTV.m3u8
-Astro iQIYI,#3/astroiqiyi/AKTV.m3u8
-Astro Xing He,#3/astroxinghe/AKTV.m3u8
-DW,#3/dw/AKTV.m3u8
-France 24,#3/france24/AKTV.m3u8
-KIX,#3/kix/AKTV.m3u8
-Love Nature HD,#3/lovenaturehd/AKTV.m3u8
-NHK World-Japan,#3/nhkworldjapan/AKTV.m3u8
-NHK東京総合,#3/nhk/AKTV.m3u8
-Nick Jr,#3/nickjr/AKTV.m3u8
-Nickelodeon,#3/nickelodeon/AKTV.m3u8
-Thrill,#3/thrill/AKTV.m3u8
-ZooMoo,#3/zoomoo/AKTV.m3u8
-亞洲新聞台,#3/null-3/AKTV.m3u8
-東方衛視國際頻道,#3/null/AKTV.m3u8
-無線衛星新聞台,#3/null-2/AKTV.m3u8
-纬来体育台,#3/null-1/AKTV.m3u8
-翡翠台4K,#3/4k/AKTV.m3u8
-
-
+翡翠台4K,#://video.mytvsuper.xyz/live/6b6010bfabd40dccd46e3102458c28e47b154bd513b8c872237ae6666b3911c0.php?token=549293861890468
+鳳凰衛視中文台,#://video.mytvsuper.xyz/live/e56f60dcd84ba1f885c57318a70e881894fa739b767e8da66a3b61cc0748d0a9.m3u8?token=549293861890468
+鳳凰衛視資訊台,#://video.mytvsuper.xyz/live/2ec8dbe31665779046dbebcccff4fb91a84c2fbe11de8bb434c34e14d1a28633.m3u8?token=549293861890468
+鳳凰衛視香港台,#://video.mytvsuper.xyz/live/409439884913bb78a52f804fd7c79073787404c17a1c9162522e21e52cf62b8c.m3u8?token=549293861890468
+Now星影台,#://video.mytvsuper.xyz/live/3ad4824943e874308920c6cc51d8e77e22c2486360a9ac065fa710a29a1020b3.m3u8?token=549293861890468
+Now爆谷台,#://video.mytvsuper.xyz/live/26c32981e6bd777c85412fc0b0404f18adc561156805fea3e28ad4d6cfc8992e.m3u8?token=549293861890468
+Now sports 4K1,#://video.mytvsuper.xyz/live/8ae605a0c87e9184a38220bb9c4489dfa25fe709914bf86b76cad4a91deb9ae5.m3u8?token=549293861890468
+NOW直播台,#://video.mytvsuper.xyz/live/cdc517c4387e78926b31df8a62cbedc2fb96fd8f6c1fa4c7ab66d8faa630002f.php?token=549293861890468
+NOW新闻台,#://video.mytvsuper.xyz/live/30c9c5ba7882c593484f60c34e45deefb24f2700680ab0893741d9f297698a88.php?token=549293861890468
+NOW财经台,#://video.mytvsuper.xyz/live/ff5d16ea887207eccf73228ceef4202421168e9275c2a259f2deac716d6773ee.php?token=549293861890468
+ViuTV,#://video.mytvsuper.xyz/live/624259169d3d54442255f9f17d347ddd6324e6d5a5d1a1f748d1dea55798ceea.php?token=549293861890468
+ViuTV6,#://video.mytvsuper.xyz/live/5b0d8fb9109d3fcc0a1aa60b353aa5bfa81f1cfede277441a40398d98dd676fa.php?token=549293861890468
+HOY国际财经台,#://video.mytvsuper.xyz/live/21ccb853530fd215f28990718ac764b8d06df4bd32c1561a9cd17174512adc46.php?token=549293861890468
+HOY资讯台,#://video.mytvsuper.xyz/live/a33aa92d9ebe2b317df57dabb01bcff503be86cfd0789f84b28b4e2cb6ff7627.php?token=549293861890468
+HOY TV,#://video.mytvsuper.xyz/live/ca6b477f9f5ea904c4c8e4893d52c31880586ba39467aa15ea0f4be4698a3956.php?token=549293861890468
+广东体育,#://video.mytvsuper.xyz/live/7c67e185582e1bee64f7068a4072351df24a5df26ba63e5cf1b17f2881d89c7f.php?token=549293861890468
+龍祥時代,#://video.mytvsuper.xyz/live/e999515d261ff70595f8133dff7128a17c3606beec71c2945e572d133097c86b.m3u8?token=549293861890468
+HollywoodMovies,#://video.mytvsuper.xyz/live/7e9e2c85f446a7059730820ddf48534b1fc29c421a8503ec54ed1784d028bdbf.php?token=549293861890468
+美亚电影台,#://video.mytvsuper.xyz/live/72f203785d9baf225b0c3abfc768cf3a2a0b3a87962a338e2ca55bbaf66a4793.php?token=549293861890468
+天映频道,#://video.mytvsuper.xyz/live/054afb3169bde5df48c8ca55af5fbf0bcb0b5af6cf38d2a38e4822d003870c4b.php?token=549293861890468
+纬来电影台,#://video.mytvsuper.xyz/live/b358ad668bb86ec7cfecf9996ac2f1ba3b6b3e5a3f39fb19d079344115f0a5e9.php?token=549293861890468
+纬来日本台,#://video.mytvsuper.xyz/live/a65b3292fb5c0087722a9dbda5f6bdb0bd19fa0f233fdd489aa865195a63a8f8.php?token=549293861890468
+纬来日本台(备),#://video.mytvsuper.xyz/live/cf2df25c7ffd41165c3a5353eafd5f17e08bc0b92f81a7a630ed96c24f0c1815.php?token=549293861890468
+纬来体育台,#://video.mytvsuper.xyz/live/fccceef3ad1dde707c15ed4633367b27a1d8eb8c4929ebfd1cff0ae5e759b6f5.php?token=549293861890468
+緯來綜合,#://video.mytvsuper.xyz/live/67388f2a006aea30dca4349210c16afa9a86e83db6ecf37c8a039e4b4deb7e05.m3u8?token=549293861890468
+东森电影台,#://video.mytvsuper.xyz/live/3873bf0de7a1bc1573881151e401689f16f83005e1c8d0c568c6dc1c32937bf8.php?token=549293861890468
+东森洋片台,#://video.mytvsuper.xyz/live/ae2e773257c5eeda8dc623956837e0a1ce21abf16bde8a78b638c79a042051fe.php?token=549293861890468
+东森综合,#://video.mytvsuper.xyz/live/70969916e4127e8400b3b0fd2c14b129232e49c1b03db6deab64ba66e6efb238.php?token=549293861890468
+东森幼幼台,#://video.mytvsuper.xyz/live/b604ed854d08c3fed135ceb2711bd19fa6e9271d3c7360e3eb1ddc545c6972bc.php?token=549293861890468
+爱尔达影剧台,#://video.mytvsuper.xyz/live/add5a7bc8d0cd90e75e893fa078ade1d56855377727b9e7e81e5493a4113ef09.php?token=549293861890468
+i-Fun 動漫台,#://video.mytvsuper.xyz/live/28088ba2bbcb7759813659c75a7e19adc6fd8ff1f792e19b63c0751bd24f864c.php?token=549293861890468
+tvbs,#://video.mytvsuper.xyz/live/af626737cc042f23556fc37cb6101929c93b86896a2116ed7ff5abf5ede5ad38.php?token=549293861890468
+Astro QJ,#://video.mytvsuper.xyz/live/bff4a84170c5ad33b9e013b51e996fdb28800ce5eca8a4f1152ac2e7e75687c4.php?token=549293861890468
+Astro AEC,#://video.mytvsuper.xyz/live/69107d94a06cd28a376aef4929b0a915e8168019440fd2631da20f9fbc2c2304.php?token=549293861890468
+CNN HD,#://video.mytvsuper.xyz/live/684381d7d6d09ce9a05a0c21fed376f3042be4abd417aca7423a663a96106968.php?token=549293861890468
+Astro AOD HD SG,#://video.mytvsuper.xyz/live/b5bad8a44adbd10548bd38b2a29da2609c1313e7cf5c6fcaead82f5bb441d520.php?token=549293861890468
+ViuTV,#://video.mytvsuper.xyz/live/879994e598e62a4f00c4708b2a038044d05330a8e6bdc19f94c27979f4ad6390.php?token=549293861890468
+ViuTV6,#://video.mytvsuper.xyz/live/11dd7c7fef8da67d88f0c41a34074ccd0b01977e06ef8a3cfadaa714c6750b90.php?token=549293861890468
+Astro Supersports 1,#://video.mytvsuper.xyz/live/111ae314ad2fe4c4be186370c38742f9440fc8b84ac648d155adc3e2cf85f913.php?token=549293861890468
+Astro Supersports 2,#://video.mytvsuper.xyz/live/f160e90ded92b074409cd1dafbd196291ce02082a1dbcc0f92cf1a3737201efc.php?token=549293861890468
+Astro Supersports 3,#://video.mytvsuper.xyz/live/70d27dabd126677e9475e7ee3538a8e77a465cbd0d8e59ef66c6b2e2b74c1550.php?token=549293861890468
+Astro Supersports 4,#://video.mytvsuper.xyz/live/61d88a415cdedc2ef02a96c7355d424f5fad2b07516bc9272e02f61e8fba780d.php?token=549293861890468
+Astro Supersports 5,#://video.mytvsuper.xyz/live/ff829f52f95c76ca07950382c4dea90e16b5cd07e596b71240bac14f8a27dbec.php?token=549293861890468
+广东体育,#://video.mytvsuper.xyz/live/907a6023e766d0bce76520d0ecfef51692200af2f26dd1bc454c4fbbcbea1f86.m3u8?token=549293861890468
+TVB星河台 L-HL,#://video.mytvsuper.xyz/live/84f43c2413ed5a093155965109fb69bb06ae3e6ae730c073e1d13a04f2961239.php?token=549293861890468
+Astro千禧经典台,#://video.mytvsuper.xyz/live/d30fd62c72a254c7cf530df704a2a56f02640a5b2e1b480aaf1856a9c51cd1f8.m3u8?token=549293861890468
+Astro天映频道,#://video.mytvsuper.xyz/live/97732910e21583c2982c5f205e6c19908ed9a6d68959565e8b8bc3ab3ddb485c.m3u8?token=549293861890468
 粤港频道,#genre#
 凤凰中文频标,#://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰资讯频标,#://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
@@ -825,57 +808,6 @@ HBO强档频限,#://ali.hlspull.yximgs.com/live/huanqiuhktvtqcvsqgcqyhpvobqxclmv
 广东珠江'EXO,#://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476221.m3u8
 广东体育'EXO,#://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476951.m3u8
 广东湾区'EXO,#://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476989.m3u8
-
-特区频道,#genre#
-翡翠台4K,#://video.mytvsuper.xyz/live/6b6010bfabd40dccd46e3102458c28e47b154bd513b8c872237ae6666b3911c0.php?token=549293861890468
-鳳凰衛視中文台,#://video.mytvsuper.xyz/live/e56f60dcd84ba1f885c57318a70e881894fa739b767e8da66a3b61cc0748d0a9.m3u8?token=549293861890468
-鳳凰衛視資訊台,#://video.mytvsuper.xyz/live/2ec8dbe31665779046dbebcccff4fb91a84c2fbe11de8bb434c34e14d1a28633.m3u8?token=549293861890468
-鳳凰衛視香港台,#://video.mytvsuper.xyz/live/409439884913bb78a52f804fd7c79073787404c17a1c9162522e21e52cf62b8c.m3u8?token=549293861890468
-Now星影台,#://video.mytvsuper.xyz/live/3ad4824943e874308920c6cc51d8e77e22c2486360a9ac065fa710a29a1020b3.m3u8?token=549293861890468
-Now爆谷台,#://video.mytvsuper.xyz/live/26c32981e6bd777c85412fc0b0404f18adc561156805fea3e28ad4d6cfc8992e.m3u8?token=549293861890468
-Now sports 4K1,#://video.mytvsuper.xyz/live/8ae605a0c87e9184a38220bb9c4489dfa25fe709914bf86b76cad4a91deb9ae5.m3u8?token=549293861890468
-NOW直播台,#://video.mytvsuper.xyz/live/cdc517c4387e78926b31df8a62cbedc2fb96fd8f6c1fa4c7ab66d8faa630002f.php?token=549293861890468
-NOW新闻台,#://video.mytvsuper.xyz/live/30c9c5ba7882c593484f60c34e45deefb24f2700680ab0893741d9f297698a88.php?token=549293861890468
-NOW财经台,#://video.mytvsuper.xyz/live/ff5d16ea887207eccf73228ceef4202421168e9275c2a259f2deac716d6773ee.php?token=549293861890468
-ViuTV,#://video.mytvsuper.xyz/live/624259169d3d54442255f9f17d347ddd6324e6d5a5d1a1f748d1dea55798ceea.php?token=549293861890468
-ViuTV6,#://video.mytvsuper.xyz/live/5b0d8fb9109d3fcc0a1aa60b353aa5bfa81f1cfede277441a40398d98dd676fa.php?token=549293861890468
-HOY国际财经台,#://video.mytvsuper.xyz/live/21ccb853530fd215f28990718ac764b8d06df4bd32c1561a9cd17174512adc46.php?token=549293861890468
-HOY资讯台,#://video.mytvsuper.xyz/live/a33aa92d9ebe2b317df57dabb01bcff503be86cfd0789f84b28b4e2cb6ff7627.php?token=549293861890468
-HOY TV,#://video.mytvsuper.xyz/live/ca6b477f9f5ea904c4c8e4893d52c31880586ba39467aa15ea0f4be4698a3956.php?token=549293861890468
-广东体育,#://video.mytvsuper.xyz/live/7c67e185582e1bee64f7068a4072351df24a5df26ba63e5cf1b17f2881d89c7f.php?token=549293861890468
-龍祥時代,#://video.mytvsuper.xyz/live/e999515d261ff70595f8133dff7128a17c3606beec71c2945e572d133097c86b.m3u8?token=549293861890468
-HollywoodMovies,#://video.mytvsuper.xyz/live/7e9e2c85f446a7059730820ddf48534b1fc29c421a8503ec54ed1784d028bdbf.php?token=549293861890468
-美亚电影台,#://video.mytvsuper.xyz/live/72f203785d9baf225b0c3abfc768cf3a2a0b3a87962a338e2ca55bbaf66a4793.php?token=549293861890468
-天映频道,#://video.mytvsuper.xyz/live/054afb3169bde5df48c8ca55af5fbf0bcb0b5af6cf38d2a38e4822d003870c4b.php?token=549293861890468
-纬来电影台,#://video.mytvsuper.xyz/live/b358ad668bb86ec7cfecf9996ac2f1ba3b6b3e5a3f39fb19d079344115f0a5e9.php?token=549293861890468
-纬来日本台,#://video.mytvsuper.xyz/live/a65b3292fb5c0087722a9dbda5f6bdb0bd19fa0f233fdd489aa865195a63a8f8.php?token=549293861890468
-纬来日本台(备),#://video.mytvsuper.xyz/live/cf2df25c7ffd41165c3a5353eafd5f17e08bc0b92f81a7a630ed96c24f0c1815.php?token=549293861890468
-纬来体育台,#://video.mytvsuper.xyz/live/fccceef3ad1dde707c15ed4633367b27a1d8eb8c4929ebfd1cff0ae5e759b6f5.php?token=549293861890468
-緯來綜合,#://video.mytvsuper.xyz/live/67388f2a006aea30dca4349210c16afa9a86e83db6ecf37c8a039e4b4deb7e05.m3u8?token=549293861890468
-东森电影台,#://video.mytvsuper.xyz/live/3873bf0de7a1bc1573881151e401689f16f83005e1c8d0c568c6dc1c32937bf8.php?token=549293861890468
-东森洋片台,#://video.mytvsuper.xyz/live/ae2e773257c5eeda8dc623956837e0a1ce21abf16bde8a78b638c79a042051fe.php?token=549293861890468
-东森综合,#://video.mytvsuper.xyz/live/70969916e4127e8400b3b0fd2c14b129232e49c1b03db6deab64ba66e6efb238.php?token=549293861890468
-东森幼幼台,#://video.mytvsuper.xyz/live/b604ed854d08c3fed135ceb2711bd19fa6e9271d3c7360e3eb1ddc545c6972bc.php?token=549293861890468
-爱尔达影剧台,#://video.mytvsuper.xyz/live/add5a7bc8d0cd90e75e893fa078ade1d56855377727b9e7e81e5493a4113ef09.php?token=549293861890468
-i-Fun 動漫台,#://video.mytvsuper.xyz/live/28088ba2bbcb7759813659c75a7e19adc6fd8ff1f792e19b63c0751bd24f864c.php?token=549293861890468
-tvbs,#://video.mytvsuper.xyz/live/af626737cc042f23556fc37cb6101929c93b86896a2116ed7ff5abf5ede5ad38.php?token=549293861890468
-Astro QJ,#://video.mytvsuper.xyz/live/bff4a84170c5ad33b9e013b51e996fdb28800ce5eca8a4f1152ac2e7e75687c4.php?token=549293861890468
-Astro AEC,#://video.mytvsuper.xyz/live/69107d94a06cd28a376aef4929b0a915e8168019440fd2631da20f9fbc2c2304.php?token=549293861890468
-CNN HD,#://video.mytvsuper.xyz/live/684381d7d6d09ce9a05a0c21fed376f3042be4abd417aca7423a663a96106968.php?token=549293861890468
-Astro AOD HD SG,#://video.mytvsuper.xyz/live/b5bad8a44adbd10548bd38b2a29da2609c1313e7cf5c6fcaead82f5bb441d520.php?token=549293861890468
-ViuTV,#://video.mytvsuper.xyz/live/879994e598e62a4f00c4708b2a038044d05330a8e6bdc19f94c27979f4ad6390.php?token=549293861890468
-ViuTV6,#://video.mytvsuper.xyz/live/11dd7c7fef8da67d88f0c41a34074ccd0b01977e06ef8a3cfadaa714c6750b90.php?token=549293861890468
-Astro Supersports 1,#://video.mytvsuper.xyz/live/111ae314ad2fe4c4be186370c38742f9440fc8b84ac648d155adc3e2cf85f913.php?token=549293861890468
-Astro Supersports 2,#://video.mytvsuper.xyz/live/f160e90ded92b074409cd1dafbd196291ce02082a1dbcc0f92cf1a3737201efc.php?token=549293861890468
-Astro Supersports 3,#://video.mytvsuper.xyz/live/70d27dabd126677e9475e7ee3538a8e77a465cbd0d8e59ef66c6b2e2b74c1550.php?token=549293861890468
-Astro Supersports 4,#://video.mytvsuper.xyz/live/61d88a415cdedc2ef02a96c7355d424f5fad2b07516bc9272e02f61e8fba780d.php?token=549293861890468
-Astro Supersports 5,#://video.mytvsuper.xyz/live/ff829f52f95c76ca07950382c4dea90e16b5cd07e596b71240bac14f8a27dbec.php?token=549293861890468
-广东体育,#://video.mytvsuper.xyz/live/907a6023e766d0bce76520d0ecfef51692200af2f26dd1bc454c4fbbcbea1f86.m3u8?token=549293861890468
-TVB星河台 L-HL,#://video.mytvsuper.xyz/live/84f43c2413ed5a093155965109fb69bb06ae3e6ae730c073e1d13a04f2961239.php?token=549293861890468
-Astro千禧经典台,#://video.mytvsuper.xyz/live/d30fd62c72a254c7cf530df704a2a56f02640a5b2e1b480aaf1856a9c51cd1f8.m3u8?token=549293861890468
-Astro天映频道,#://video.mytvsuper.xyz/live/97732910e21583c2982c5f205e6c19908ed9a6d68959565e8b8bc3ab3ddb485c.m3u8?token=549293861890468
-
-
 
 YY精选,#genre#
 老广的味道,#43.136.119.99/yy.php?id=1382735565
