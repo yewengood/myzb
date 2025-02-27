@@ -279,7 +279,7 @@ CHC高清电影,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc
 广州南国都市,http://php.jdshipin.com/gztv.php?id=shenghuo 
 美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya 
 美亚电影台,https://video.mytvsuper.xyz/live/72f203785d9baf225b0c3abfc768cf3a2a0b3a87962a338e2ca55bbaf66a4793.php?token=549293861890468 
-美亚电影台,p3p://108.181.32.169:23213/642525310003ad3cea72ca2155c734c3 
+美亚电影台,p3p://108.181.32.169:27529/642525310003ad3cea72ca2155c734c3 
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali 
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe 
 HOY-TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv 
@@ -292,7 +292,7 @@ Astro-AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 纬来电影台,https://video.mytvsuper.xyz/live/b358ad668bb86ec7cfecf9996ac2f1ba3b6b3e5a3f39fb19d079344115f0a5e9.php?token=549293861890468 
 东森电影台,https://iptv.vip-tptv.xyz/tv.php?id=4 
 东森电影台,https://video.mytvsuper.xyz/live/3873bf0de7a1bc1573881151e401689f16f83005e1c8d0c568c6dc1c32937bf8.php?token=549293861890468 
-东森电影台,p3p://108.181.32.169:23213/64253899000a078deabe99ff587050b0 
+东森电影台,p3p://108.181.32.169:27529/64253899000a078deabe99ff587050b0 
 东森洋片台,https://iptv.vip-tptv.xyz/tv.php?id=5 
 东森洋片台,https://video.mytvsuper.xyz/live/ae2e773257c5eeda8dc623956837e0a1ce21abf16bde8a78b638c79a042051fe.php?token=549293861890468 
 纬来日本台,https://iptv.vip-tptv.xyz/tv.php?id=6 
@@ -2734,7 +2734,7 @@ Thrill,http://54.180.121.219/mytv.php?url=http://aktv.top/AKTV/live/aktv3/thrill
 Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8 
 Thrill,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5620&tk=e640d0a1bf70 
 Thrill,https://video.mytvsuper.xyz/live/ce95b9a5844b169ac30bf45f5d28e9a13d4f825a9a57c4729be289bdc463ba6f.m3u8?token=549293861890468 
-Thrill,p3p://108.181.32.169:23213/644a0879000272f67a89b6687af342ae 
+Thrill,p3p://108.181.32.169:27529/644a0879000272f67a89b6687af342ae 
 France 24,http://54.180.121.219/mytv.php?url=http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8 
 France 24,https://video.mytvsuper.xyz/live/4fd15058c3e71bf2bccf75218b3c317d0e1022f9c0a1b82b25d51bdb664a1678.m3u8?token=549293861890468 
 DW,http://54.180.121.219/mytv.php?url=http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8 
@@ -2750,12 +2750,12 @@ KIX,https://video.mytvsuper.xyz/live/99be2a368153909c8647a0a679c9e3522c0ae4928c5
 Nick Jr,http://54.180.121.219/mytv.php?url=http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8 
 Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8 
 Nick Jr,https://video.mytvsuper.xyz/live/ab4e7f1b77ce5669a25724b4dab5131f20dd604e7c34704bab4d704b91f8b08c.m3u8?token=549293861890468 
-Nick Jr,p3p://108.181.32.169:23213/642d449d000ac1ec0a2d5151582b3dea 
+Nick Jr,p3p://108.181.32.169:27529/642d449d000ac1ec0a2d5151582b3dea 
 Nickelodeon,http://54.180.121.219/mytv.php?url=http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8 
 Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8 
 Nickelodeon,https://video.mytvsuper.xyz/live/4bf1c3946330aee022d72a57a2b3a8aaca48d1aa0ce3ac138410ccc845f0f8e4.m3u8?token=549293861890468 
 Nickelodeon,https://video.mytvsuper.xyz/live/ad37bf1b21586b76f79440b025d94548348893b73950d3d9ba42465c0eff0243.m3u8?token=549293861890468 
-Nickelodeon,p3p://108.181.32.169:23213/642d44b90006faed0a2dbdba7c9816e4 
+Nickelodeon,p3p://108.181.32.169:27529/642d44b90006faed0a2dbdba7c9816e4 
 AXN,http://54.180.121.219/mytv.php?url=http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8 
 AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8 
 AXN,http://122.117.71.103:8557/http/61.222.53.250:8081/hls/71/813/ch43.m3u8 

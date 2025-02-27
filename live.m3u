@@ -558,7 +558,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-id="2" tvg-name="美亚电影台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/美亚电影台.png" group-title="广东频道",美亚电影台
 https://video.mytvsuper.xyz/live/72f203785d9baf225b0c3abfc768cf3a2a0b3a87962a338e2ca55bbaf66a4793.php?token=549293861890468 
 #EXTINF:-1 tvg-id="3" tvg-name="美亚电影台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/美亚电影台.png" group-title="广东频道",美亚电影台
-p3p://108.181.32.169:23213/642525310003ad3cea72ca2155c734c3 
+p3p://108.181.32.169:27529/642525310003ad3cea72ca2155c734c3 
 #EXTINF:-1 tvg-id="1" tvg-name="华丽翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/华丽翡翠台.png" group-title="广东频道",华丽翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali 
 #EXTINF:-1 tvg-id="1" tvg-name="TVB星河" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVB星河.png" group-title="广东频道",TVB星河
@@ -584,7 +584,7 @@ https://iptv.vip-tptv.xyz/tv.php?id=4
 #EXTINF:-1 tvg-id="2" tvg-name="东森电影台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/东森电影台.png" group-title="广东频道",东森电影台
 https://video.mytvsuper.xyz/live/3873bf0de7a1bc1573881151e401689f16f83005e1c8d0c568c6dc1c32937bf8.php?token=549293861890468 
 #EXTINF:-1 tvg-id="3" tvg-name="东森电影台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/东森电影台.png" group-title="广东频道",东森电影台
-p3p://108.181.32.169:23213/64253899000a078deabe99ff587050b0 
+p3p://108.181.32.169:27529/64253899000a078deabe99ff587050b0 
 #EXTINF:-1 tvg-id="1" tvg-name="东森洋片台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/东森洋片台.png" group-title="广东频道",东森洋片台
 https://iptv.vip-tptv.xyz/tv.php?id=5 
 #EXTINF:-1 tvg-id="2" tvg-name="东森洋片台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/东森洋片台.png" group-title="广东频道",东森洋片台
@@ -5446,7 +5446,7 @@ http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5620&tk=e640d0a1bf70
 #EXTINF:-1 tvg-id="4" tvg-name="Thrill" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Thrill.png" group-title="香港频道",Thrill
 https://video.mytvsuper.xyz/live/ce95b9a5844b169ac30bf45f5d28e9a13d4f825a9a57c4729be289bdc463ba6f.m3u8?token=549293861890468 
 #EXTINF:-1 tvg-id="5" tvg-name="Thrill" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Thrill.png" group-title="香港频道",Thrill
-p3p://108.181.32.169:23213/644a0879000272f67a89b6687af342ae 
+p3p://108.181.32.169:27529/644a0879000272f67a89b6687af342ae 
 #EXTINF:-1 tvg-id="1" tvg-name="France 24" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/France 24.png" group-title="香港频道",France 24
 http://54.180.121.219/mytv.php?url=http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8 
 #EXTINF:-1 tvg-id="2" tvg-name="France 24" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/France 24.png" group-title="香港频道",France 24
@@ -5478,7 +5478,7 @@ http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="Nick Jr" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Nick Jr.png" group-title="香港频道",Nick Jr
 https://video.mytvsuper.xyz/live/ab4e7f1b77ce5669a25724b4dab5131f20dd604e7c34704bab4d704b91f8b08c.m3u8?token=549293861890468 
 #EXTINF:-1 tvg-id="4" tvg-name="Nick Jr" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Nick Jr.png" group-title="香港频道",Nick Jr
-p3p://108.181.32.169:23213/642d449d000ac1ec0a2d5151582b3dea 
+p3p://108.181.32.169:27529/642d449d000ac1ec0a2d5151582b3dea 
 #EXTINF:-1 tvg-id="1" tvg-name="Nickelodeon" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Nickelodeon.png" group-title="香港频道",Nickelodeon
 http://54.180.121.219/mytv.php?url=http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8 
 #EXTINF:-1 tvg-id="2" tvg-name="Nickelodeon" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Nickelodeon.png" group-title="香港频道",Nickelodeon
@@ -5488,7 +5488,7 @@ https://video.mytvsuper.xyz/live/4bf1c3946330aee022d72a57a2b3a8aaca48d1aa0ce3ac1
 #EXTINF:-1 tvg-id="4" tvg-name="Nickelodeon" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Nickelodeon.png" group-title="香港频道",Nickelodeon
 https://video.mytvsuper.xyz/live/ad37bf1b21586b76f79440b025d94548348893b73950d3d9ba42465c0eff0243.m3u8?token=549293861890468 
 #EXTINF:-1 tvg-id="5" tvg-name="Nickelodeon" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/Nickelodeon.png" group-title="香港频道",Nickelodeon
-p3p://108.181.32.169:23213/642d44b90006faed0a2dbdba7c9816e4 
+p3p://108.181.32.169:27529/642d44b90006faed0a2dbdba7c9816e4 
 #EXTINF:-1 tvg-id="1" tvg-name="AXN" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/AXN.png" group-title="香港频道",AXN
 http://54.180.121.219/mytv.php?url=http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8 
 #EXTINF:-1 tvg-id="2" tvg-name="AXN" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/AXN.png" group-title="香港频道",AXN
