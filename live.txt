@@ -1,6 +1,6 @@
 公告,#genre#
 更新日期,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-2025-03-05,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
+2025-03-06,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 广东频道,#genre#
 广东卫视,http:///rtp/239.20.0.131:2060 
 广东卫视,http://eastscreen.tv/ooooo.php?id=gdwshd 
@@ -177,7 +177,7 @@ CHC高清电影,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc
 1905环球经典,http://php.jdshipin.com/1905.php?id=1905dy2 
 广州南国都市,http://php.jdshipin.com/gztv.php?id=shenghuo 
 美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya 
-美亚电影台,p3p://108.181.32.169:47294/642525310003ad3cea72ca2155c734c3 
+美亚电影台,p3p://108.181.32.169:52167/642525310003ad3cea72ca2155c734c3 
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali 
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe 
 HOY-TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv 
@@ -187,7 +187,7 @@ Astro-AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 天映频道,https://iptv.vip-tptv.xyz/tv.php?id=2 
 纬来电影台,https://iptv.vip-tptv.xyz/tv.php?id=3 
 东森电影台,https://iptv.vip-tptv.xyz/tv.php?id=4 
-东森电影台,p3p://108.181.32.169:47294/64253899000a078deabe99ff587050b0 
+东森电影台,p3p://108.181.32.169:52167/64253899000a078deabe99ff587050b0 
 东森洋片台,https://iptv.vip-tptv.xyz/tv.php?id=5 
 纬来日本台,https://iptv.vip-tptv.xyz/tv.php?id=6 
 纬来体育台,https://iptv.vip-tptv.xyz/tv.php?id=7 
@@ -1731,11 +1731,11 @@ KIX,http://aktv_stream1.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
 NHK World-Japan,http://aktv_stream1.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8 
 NHK東京総合,http://aktv_stream1.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8 
 Nick Jr,http://aktv_stream1.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8 
-Nick Jr,p3p://108.181.32.169:47294/642d449d000ac1ec0a2d5151582b3dea 
+Nick Jr,p3p://108.181.32.169:52167/642d449d000ac1ec0a2d5151582b3dea 
 Nickelodeon,http://aktv_stream1.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8 
-Nickelodeon,p3p://108.181.32.169:47294/642d44b90006faed0a2dbdba7c9816e4 
+Nickelodeon,p3p://108.181.32.169:52167/642d44b90006faed0a2dbdba7c9816e4 
 Thrill,http://aktv_stream1.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8 
-Thrill,p3p://108.181.32.169:47294/644a0879000272f67a89b6687af342ae 
+Thrill,p3p://108.181.32.169:52167/644a0879000272f67a89b6687af342ae 
 ZooMoo,http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8 
 亞洲新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8 
 東方衛視國際頻道,http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8 
@@ -1849,7 +1849,7 @@ YY電影-歐美動作電影,http://43.136.119.99:35455/yy/1382745089
 吃米滴虫(粤语）,http://43.136.119.99:35455/douyu/5033502 
 粤语电影,http://43.136.119.99:35455/douyu/1226741#http://43.136.119.99:35455/douyu/1226741 
 神乐电影（粤语）,http://43.136.119.99:35455/douyu/6566671 
-粤语极清电影,https://pullhw.zhaoyangyang.cn/live/8769450.flv?auth_info=r4ZfFp66jBmKShh0oEe%2BqBHILmlOPJf0eEgPrqyTy9s%3D.4d494f6c78797a587173656b35693947 
+粤语极清电影,https://pullhw.zhaoyangyang.cn/live/8770046.flv?auth_info=D9J1XK0uF4P%2F0Hl6IcI1%2FUeYeggJgbyF2jAtUJtOpO4%3D.31327943685a51715447635243507964 
 周星驰电影,http://43.136.119.99:35455/douyu/3637778 
 麓山迷踪㊣版,http://43.136.119.99:35455/douyu/4505431 
 瑶瑶恐怖㊣版,http://43.136.119.99:35455/douyu/2935323 
