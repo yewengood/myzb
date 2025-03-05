@@ -691,7 +691,6 @@ i-HOT爱院线,#://c7wen.wicp.net:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
 
 
 香港频道,#genre#
-自定义,#genre#
 
 28 AI 智慧賽馬,#://aktv_stream1.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
 Channel 5 HD,#://aktv_stream1.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
