@@ -6,9 +6,9 @@ source_urls = [
     "https://raw.githubusercontent.com/yewengood/-/main/888.txt",
      "https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt",
     "https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt",
-   # "http://aktv.space/live.m3u",
+    "http://54.180.121.219/aaa.txt",
     "http://我不是.摸鱼儿.com/live.php",
-    "http://103.45.68.47:668/gy/m3u-txt.php?url=http://aktv.space/live.m3u",
+   # "http://103.45.68.47:668/gy/m3u-txt.php?url=http://aktv.space/live.m3u",
     #"https://raw.githubusercontent.com/yewengood/iptv1/refs/heads/main/speedtest/live.txt",
     "http://rihou.cc:555",
    "http://rihou.cc:567/gggg.nzk"
