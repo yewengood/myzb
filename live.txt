@@ -10,7 +10,6 @@
 广东卫视,http://114.254.90.48:8888/rtp/239.3.1.142:8048 
 广东卫视,http://114.252.238.87:8000/rtp/239.3.1.142:8048 
 广东卫视,http://124.64.238.14:7070/rtp/239.3.1.142:8048 
-广东卫视,https://video.mytvsuper.xyz/live/6cb9ec6db593dab823bd99e6f89ea6741f7591bfca76cf99cccd44d6cff51ade.m3u8?token=549293861890468 
 广东卫视高清,http:///rtp/239.20.0.101:2000 
 广东卫视高清,http://113.64.197.124:6633/udp/239.77.1.19:5146 
 广东卫视高清,http://113.64.197.124:6633/udp/239.77.1.152:5146 
@@ -52,8 +51,6 @@
 广东珠江_ITV,http://107.173.199.222:35455/itv/2000000003000000033.m3u8?cdn=hnbblive 
 广东珠江抖,http://43.136.119.99:35455/douyin/gdtvzjpd 
 广东体育,http:///rtp/239.20.0.114:2026 
-广东体育,https://video.mytvsuper.xyz/live/7c67e185582e1bee64f7068a4072351df24a5df26ba63e5cf1b17f2881d89c7f.php?token=549293861890468 
-广东体育,https://video.mytvsuper.xyz/live/907a6023e766d0bce76520d0ecfef51692200af2f26dd1bc454c4fbbcbea1f86.m3u8?token=549293861890468 
 广东体育高清,http:///rtp/239.20.0.103:2004 
 广东体育高清,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111 
 广东体育高清,http://119.32.12.17:2901/udp/224.1.100.34:11111 
@@ -70,7 +67,6 @@
 大湾区卫视,http:///rtp/239.20.0.125:2048 
 大湾区卫视,http://goo.bkpcp.top/mg/dwqws 
 大湾区卫视,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=dwqws 
-大湾区卫视,https://video.mytvsuper.xyz/live/c12ec543ceb53074b578e86065cbdac41df38488780cedc7e63aef907ac9fa66.m3u8?token=549293861890468 
 大湾区卫视高清,http:///rtp/239.21.0.84:3676 
 大湾区卫视高清,http://113.64.197.124:6633/udp/239.77.0.215:5146 
 大湾区卫视高清,http://113.90.247.241:4000/udp/239.77.0.215:5146 
@@ -169,9 +165,7 @@
 凤凰中文,http://118.113.179.230:4022/udp/239.93.1.9:2192 
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk 
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct 
-翡翠台,https://video.mytvsuper.xyz/live/1fafdfab85bf627ac499a76603234b706cbc3dda06d3bfd010c17657a01b329f.m3u8?token=549293861890468 
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt 
-明珠台,https://video.mytvsuper.xyz/live/61ea51c90fc0c71dab94749f05bb3c9209114e3aad97f551100bd3a133dc5608.m3u8?token=549293861890468 
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz 
 CHC动作电影,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8?E=&U=&A=&K=&P=&S= 
 CHC家庭影院,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E=&U=&A=&K=&P=&S= 
@@ -181,7 +175,6 @@ CHC高清电影,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc
 1905环球经典,http://php.jdshipin.com/1905.php?id=1905dy2 
 广州南国都市,http://php.jdshipin.com/gztv.php?id=shenghuo 
 美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya 
-美亚电影台,https://video.mytvsuper.xyz/live/72f203785d9baf225b0c3abfc768cf3a2a0b3a87962a338e2ca55bbaf66a4793.php?token=549293861890468 
 美亚电影台,p3p://108.181.32.169:47294/642525310003ad3cea72ca2155c734c3 
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali 
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe 
@@ -190,47 +183,27 @@ HOY-TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 Astro-AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod 
 美亚电影台(台),https://iptv.vip-tptv.xyz/tv.php?id=1 
 天映频道,https://iptv.vip-tptv.xyz/tv.php?id=2 
-天映频道,https://video.mytvsuper.xyz/live/054afb3169bde5df48c8ca55af5fbf0bcb0b5af6cf38d2a38e4822d003870c4b.php?token=549293861890468 
 纬来电影台,https://iptv.vip-tptv.xyz/tv.php?id=3 
-纬来电影台,https://video.mytvsuper.xyz/live/b358ad668bb86ec7cfecf9996ac2f1ba3b6b3e5a3f39fb19d079344115f0a5e9.php?token=549293861890468 
 东森电影台,https://iptv.vip-tptv.xyz/tv.php?id=4 
-东森电影台,https://video.mytvsuper.xyz/live/3873bf0de7a1bc1573881151e401689f16f83005e1c8d0c568c6dc1c32937bf8.php?token=549293861890468 
 东森电影台,p3p://108.181.32.169:47294/64253899000a078deabe99ff587050b0 
 东森洋片台,https://iptv.vip-tptv.xyz/tv.php?id=5 
-东森洋片台,https://video.mytvsuper.xyz/live/ae2e773257c5eeda8dc623956837e0a1ce21abf16bde8a78b638c79a042051fe.php?token=549293861890468 
 纬来日本台,https://iptv.vip-tptv.xyz/tv.php?id=6 
-纬来日本台,https://video.mytvsuper.xyz/live/a65b3292fb5c0087722a9dbda5f6bdb0bd19fa0f233fdd489aa865195a63a8f8.php?token=549293861890468 
 纬来体育台,https://iptv.vip-tptv.xyz/tv.php?id=7 
-纬来体育台,https://video.mytvsuper.xyz/live/fccceef3ad1dde707c15ed4633367b27a1d8eb8c4929ebfd1cff0ae5e759b6f5.php?token=549293861890468 
-纬来体育台,https://video.mytvsuper.xyz/live/d26a8202500e21cd76b79ba9c711767965b26c80090397222c5157a6d7d74516.m3u8?token=549293861890468 
 东森幼幼台,https://iptv.vip-tptv.xyz/tv.php?id=8 
-东森幼幼台,https://video.mytvsuper.xyz/live/b604ed854d08c3fed135ceb2711bd19fa6e9271d3c7360e3eb1ddc545c6972bc.php?token=549293861890468 
 爱尔达影剧台,https://iptv.vip-tptv.xyz/tv.php?id=9 
-爱尔达影剧台,https://video.mytvsuper.xyz/live/add5a7bc8d0cd90e75e893fa078ade1d56855377727b9e7e81e5493a4113ef09.php?token=549293861890468 
 i-Fun 動漫台,https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv15 
-i-Fun 動漫台,https://video.mytvsuper.xyz/live/28088ba2bbcb7759813659c75a7e19adc6fd8ff1f792e19b63c0751bd24f864c.php?token=549293861890468 
-i-Fun 動漫台,https://video.mytvsuper.xyz/live/b956262a1a9203ab69fd1315a9a1e3081762c90c575b04f1bb96b7d1bbca7cb8.m3u8?token=549293861890468 
 Astro QJ,https://iptv.vip-tptv.xyz/tv.php?id=12 
-Astro QJ,https://video.mytvsuper.xyz/live/bff4a84170c5ad33b9e013b51e996fdb28800ce5eca8a4f1152ac2e7e75687c4.php?token=549293861890468 
 Astro AEC,https://iptv.vip-tptv.xyz/tv.php?id=17 
-Astro AEC,https://video.mytvsuper.xyz/live/69107d94a06cd28a376aef4929b0a915e8168019440fd2631da20f9fbc2c2304.php?token=549293861890468 
 Astro AOD 511 SG,https://iptv.vip-tptv.xyz/tv.php?id=22 
 Astro AOD HD SG,https://iptv.vip-tptv.xyz/tv.php?id=23 
-Astro AOD HD SG,https://video.mytvsuper.xyz/live/b5bad8a44adbd10548bd38b2a29da2609c1313e7cf5c6fcaead82f5bb441d520.php?token=549293861890468 
 Astro Supersports 1,https://iptv.vip-tptv.xyz/tv.php?id=25 
-Astro Supersports 1,https://video.mytvsuper.xyz/live/111ae314ad2fe4c4be186370c38742f9440fc8b84ac648d155adc3e2cf85f913.php?token=549293861890468 
 Astro Supersports 2,https://iptv.vip-tptv.xyz/tv.php?id=26 
-Astro Supersports 2,https://video.mytvsuper.xyz/live/f160e90ded92b074409cd1dafbd196291ce02082a1dbcc0f92cf1a3737201efc.php?token=549293861890468 
 Astro Supersports 3,https://iptv.vip-tptv.xyz/tv.php?id=27 
-Astro Supersports 3,https://video.mytvsuper.xyz/live/70d27dabd126677e9475e7ee3538a8e77a465cbd0d8e59ef66c6b2e2b74c1550.php?token=549293861890468 
 Astro Supersports 4,https://iptv.vip-tptv.xyz/tv.php?id=28 
-Astro Supersports 4,https://video.mytvsuper.xyz/live/61d88a415cdedc2ef02a96c7355d424f5fad2b07516bc9272e02f61e8fba780d.php?token=549293861890468 
 Astro Supersports 5,https://iptv.vip-tptv.xyz/tv.php?id=29 
-Astro Supersports 5,https://video.mytvsuper.xyz/live/ff829f52f95c76ca07950382c4dea90e16b5cd07e596b71240bac14f8a27dbec.php?token=549293861890468 
 One SG,https://iptv.vip-tptv.xyz/tv.php?id=18 
 天映频道SG,https://iptv.vip-tptv.xyz/tv.php?id=11 
 TVB星河台 L-HL,https://iptv.vip-tptv.xyz/tv.php?id=14 
-TVB星河台 L-HL,https://video.mytvsuper.xyz/live/84f43c2413ed5a093155965109fb69bb06ae3e6ae730c073e1d13a04f2961239.php?token=549293861890468 
 TVB星河台 HK-HL,https://iptv.vip-tptv.xyz/tv.php?id=21 
 重温经典,http://tv.dlwmkj.com/php2021/bfy.php?id=635 
 重温经典,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CWJD_4000.m3u8?E=&U=&A=&K=&P=&S= 
@@ -832,7 +805,6 @@ CGTN,http://47.106.175.162:9292/udp/239.77.1.27:5146
 东方卫视,http://114.254.90.48:8888/rtp/239.3.1.136:8032 
 东方卫视,http://114.252.238.87:8000/rtp/239.3.1.136:8032 
 东方卫视,http://124.64.238.14:7070/rtp/239.3.1.136:8032 
-东方卫视,https://video.mytvsuper.xyz/live/7c49344c84c91ca85d5429232d8482422c2f7d06b021c9a4c3f621bc8427b913.m3u8?token=549293861890468 
 北京卫视,http://113.64.197.124:6633/udp/239.77.0.51:5146 
 北京卫视,http://113.64.197.124:6633/udp/239.77.1.14:5146 
 北京卫视,http://113.64.197.124:6633/udp/239.77.1.4:5146 
@@ -880,7 +852,6 @@ CGTN,http://47.106.175.162:9292/udp/239.77.1.27:5146
 江苏卫视,http://114.254.90.48:8888/rtp/239.3.1.135:8028 
 江苏卫视,http://114.252.238.87:8000/rtp/239.3.1.135:8028 
 江苏卫视,http://124.64.238.14:7070/rtp/239.3.1.135:8028 
-江苏卫视,https://video.mytvsuper.xyz/live/486b0c1d19a605ee34220ab88d702e24138128c85b3b071658480d3a0e161184.m3u8?token=549293861890468 
 江西卫视,http://113.64.197.124:6633/udp/239.77.0.54:5146 
 江西卫视,http://113.64.197.124:6633/udp/239.77.1.73:5146 
 江西卫视,http://113.64.197.124:6633/udp/239.77.1.219:5146 
@@ -903,7 +874,6 @@ CGTN,http://47.106.175.162:9292/udp/239.77.1.27:5146
 江西卫视,http://114.254.90.48:8888/rtp/239.3.1.123:8164 
 江西卫视,http://114.252.238.87:8000/rtp/239.3.1.123:8164 
 江西卫视,http://124.64.238.14:7070/rtp/239.3.1.123:8164 
-江西卫视,https://video.mytvsuper.xyz/live/1882af6519c680cb6696385e7f69a442d7adf01ed0dc187498d6ef1a28f99c49.m3u8?token=549293861890468 
 安徽卫视,http://113.64.197.124:6633/udp/239.77.0.50:5146 
 安徽卫视,http://113.64.197.124:6633/udp/239.77.1.13:5146 
 安徽卫视,http://113.64.197.124:6633/udp/239.77.1.92:5146 
@@ -992,7 +962,6 @@ CGTN,http://47.106.175.162:9292/udp/239.77.1.27:5146
 东南卫视,http://114.254.90.48:8888/rtp/239.3.1.156:8148 
 东南卫视,http://114.252.238.87:8000/rtp/239.3.1.156:8148 
 东南卫视,http://124.64.238.14:7070/rtp/239.3.1.156:8148 
-东南卫视,https://video.mytvsuper.xyz/live/e011e366236058aeaaa330cb495b6b10b7467bc862231e07f83ab4e5d4c1b2cc.m3u8?token=549293861890468 
 深圳卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/szwsH265_4000.m3u8?E=&U=&A=&K=&P=&S= 
 深圳卫视,http://114.254.90.48:8888/rtp/239.3.1.134:8020 
 深圳卫视,http://114.252.238.87:8000/rtp/239.3.1.134:8020 
@@ -1070,7 +1039,6 @@ CGTN,http://47.106.175.162:9292/udp/239.77.1.27:5146
 河南卫视,http://114.254.90.48:8888/rtp/239.3.1.27:8128 
 河南卫视,http://114.252.238.87:8000/rtp/239.3.1.27:8128 
 河南卫视,http://124.64.238.14:7070/rtp/239.3.1.27:8128 
-河南卫视,https://video.mytvsuper.xyz/live/ed94ea55a3c0842846214ee6243c5b32eaf0298db80ca30c6e8359ea7418b4c5.m3u8?token=549293861890468 
 黑龙江卫视,http://113.64.197.124:6633/udp/239.77.0.58:5146 
 黑龙江卫视,http://113.64.197.124:6633/udp/239.77.1.71:5146 
 黑龙江卫视,http://113.64.197.124:6633/udp/239.77.1.6:5146 
@@ -1121,14 +1089,12 @@ CGTN,http://47.106.175.162:9292/udp/239.77.1.27:5146
 湖北卫视,http://114.254.90.48:8888/rtp/239.3.1.138:8044 
 湖北卫视,http://114.252.238.87:8000/rtp/239.3.1.138:8044 
 湖北卫视,http://124.64.238.14:7070/rtp/239.3.1.138:8044 
-湖北卫视,https://video.mytvsuper.xyz/live/6b439d12e02357771099abf9682199b2990f921288a239317b178d85d9ad3fdc.m3u8?token=549293861890468 
 吉林卫视,http://goo.bkpcp.top/mg/jlws 
 吉林卫视,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=jlws 
 吉林卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jlwsH265_4000.m3u8?E=&U=&A=&K=&P=&S= 
 吉林卫视,http://114.254.90.48:8888/rtp/239.3.1.240:8172 
 吉林卫视,http://114.252.238.87:8000/rtp/239.3.1.240:8172 
 吉林卫视,http://124.64.238.14:7070/rtp/239.3.1.240:8172 
-吉林卫视,https://video.mytvsuper.xyz/live/6fda6916fe67d8350f6fb438716a7d1b26182e7b959ebeb9cb821161a1c641cc.m3u8?token=549293861890468 
 内蒙古卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/nmgws_4000.m3u8?E=&U=&A=&K=&P=&S= 
 内蒙古卫视,http://114.254.90.48:8888/rtp/239.3.1.43:8176 
 内蒙古卫视,http://114.252.238.87:8000/rtp/239.3.1.43:8176 
@@ -1161,7 +1127,6 @@ CGTN,http://47.106.175.162:9292/udp/239.77.1.27:5146
 青海卫视,http://114.254.90.48:8888/rtp/239.3.1.44:8184 
 青海卫视,http://114.252.238.87:8000/rtp/239.3.1.44:8184 
 青海卫视,http://124.64.238.14:7070/rtp/239.3.1.44:8184 
-青海卫视,https://video.mytvsuper.xyz/live/0a2af1d2d9e0f795469f30339b2a9c9db8bb79b2e52761cdd71938339b86c07e.m3u8?token=549293861890468 
 山东卫视,http://113.64.197.124:6633/udp/239.77.0.53:5146 
 山东卫视,http://113.64.197.124:6633/udp/239.77.1.66:5146 
 山东卫视,http://113.64.197.124:6633/udp/239.77.1.142:5146 
@@ -1216,7 +1181,6 @@ CGTN,http://47.106.175.162:9292/udp/239.77.1.27:5146
 海南卫视,http://114.254.90.48:8888/rtp/239.3.1.45:8304 
 海南卫视,http://114.252.238.87:8000/rtp/239.3.1.45:8304 
 海南卫视,http://124.64.238.14:7070/rtp/239.3.1.45:8304 
-海南卫视,https://video.mytvsuper.xyz/live/3081640249b8c982fdc79869b01c0d4cb8e455271571f3a7cb1dc8c45a3b40b4.m3u8?token=549293861890468 
 新疆卫视,http://114.254.90.48:8888/rtp/239.3.1.48:8160 
 新疆卫视,http://114.252.238.87:8000/rtp/239.3.1.48:8160 
 新疆卫视,http://124.64.238.14:7070/rtp/239.3.1.48:8160 
@@ -1244,7 +1208,6 @@ CGTN,http://47.106.175.162:9292/udp/239.77.1.27:5146
 西藏卫视,http://114.254.90.48:8888/rtp/239.3.1.47:8164 
 西藏卫视,http://114.252.238.87:8000/rtp/239.3.1.47:8164 
 西藏卫视,http://124.64.238.14:7070/rtp/239.3.1.47:8164 
-海峡卫视,https://video.mytvsuper.xyz/live/05133245d3e68a987d477c4143102cffcf9e77ff767f927f2b8ad7f0204be3eb.m3u8?token=549293861890468 
 兵团卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/btws_4000.m3u8?E=&U=&A=&K=&P=&S= 
 兵团卫视,http://114.254.90.48:8888/rtp/239.3.1.144:4120 
 兵团卫视,http://114.252.238.87:8000/rtp/239.3.1.144:4120 
@@ -1732,57 +1695,9 @@ i-HOT爱幼教,http://107.173.199.222:35455/itv/6000000006000180630.m3u8?cdn=was
 i-HOT爱院线,http://146.56.144.114:50001/TVOD/6000000006000030630/wasusyt/index.m3u8 
 i-HOT爱院线,http://107.173.199.222:35455/itv/6000000006000030630.m3u8?cdn=wasusyt 
 香港频道,#genre#
-自定义,#genre#
-28 AI 智慧賽馬,https://video.mytvsuper.xyz/live/be1edf42d2b5841ef0f65b699c0776e7d9aecddbd814a482166c07db48a03a16.m3u8?token=549293861890468 
-Channel 5 HD,https://video.mytvsuper.xyz/live/bc56f3e50937dc8a2ab51170ba955eae9bc4af608dd6f7c31354fdda818b4658.m3u8?token=549293861890468 
-Channel 8 HD,https://video.mytvsuper.xyz/live/292458b6b11b80192392fb552ade075ba4a08d7f5bde8cbac2c26a73260919e2.m3u8?token=549293861890468 
-Channel U HD,https://video.mytvsuper.xyz/live/562cea074addf671a572a7c7dc7cdcfe10fc1959b67e29384cbff64c29b57504.m3u8?token=549293861890468 
-myTV SUPER 18台,https://video.mytvsuper.xyz/live/0390ced1f6ae8eae3a34cf7133c984dab82c1ee425f7da92f4a9e800e06e8552.m3u8?token=549293861890468 
-PopC,https://video.mytvsuper.xyz/live/4eb466fc76cdb9b8f8e0676e954c55df313bd0d2077e7cf6529014e07ff1f59a.m3u8?token=549293861890468 
-ROCK Action,https://video.mytvsuper.xyz/live/ec72ef2176feae9bd3c8273ce3b8a8e25ad6110e200d561773bc0154b7240f85.m3u8?token=549293861890468 
-TVB Plus,https://video.mytvsuper.xyz/live/1517e06b57598d4bb26eb0f6ad682d9fe2aabf3ca5e4cd85b5e81c6b9c3ae96a.m3u8?token=549293861890468 
-TVBS-新聞台,https://video.mytvsuper.xyz/live/06a9c3fe3eae06e9ee9f5af9ed9c8d65212c24cdd2b1b156b0735e5e0e9d9d3d.m3u8?token=549293861890468 
-tvN,https://video.mytvsuper.xyz/live/a28c7b09f9b6228f74daac0fe5c548908a7806b225a906f13a55b6dec0ded835.m3u8?token=549293861890468 
-中天新聞台,https://video.mytvsuper.xyz/live/26227f1b8486df59c02c4793b9ca78ea96ddca6014f334c386a138129bebd2f8.m3u8?token=549293861890468 
-中天新聞台,https://video.mytvsuper.xyz/live/1bc2d1580009ff57f1816cfa076e0e0d7ff7e43b0521d7dc6c4cd8bee6724c7f.m3u8?token=549293861890468 
-中天新聞台,https://video.mytvsuper.xyz/live/ede0c5fece8b58798df44417adfb3df984f518ef4590c7f447c7aeb22e97c00f.php?token=549293861890468 
-千禧經典台(HK),https://video.mytvsuper.xyz/live/81fab61173cff692fb7b6643450c5eb72b748166e9c391ca238245fd59a83457.m3u8?token=549293861890468 
-娛樂新聞台(HK),https://video.mytvsuper.xyz/live/258287d51f3d4f81ad035a85aa2d51309fa726e4cb66871406c55a25d5dc220e.m3u8?token=549293861890468 
-寰宇新聞台,https://video.mytvsuper.xyz/live/869e31a251874380da3a5fde9a9cf0b57395c6045ab7df02a11501cf4e13d93f.m3u8?token=549293861890468 
-寰宇新聞台,https://video.mytvsuper.xyz/live/0951a00b6e23551317d83a1d245e5a71249ed059a043ae16928ec38f40bdd8bc.m3u8?token=549293861890468 
-寰宇新聞台,https://video.mytvsuper.xyz/live/d247a6982be21f66246db8b40565043cdf40b8e6626810a61bd54b7fbe7e2213.php?token=549293861890468 
-明珠剧集台(北美),https://video.mytvsuper.xyz/live/a0f03df059a3d33d12f48224560d99536ec05784e9928e0af59c04e250738737.m3u8?token=549293861890468 
-無線新聞台,https://video.mytvsuper.xyz/live/894bc6a339a18f0c0e9a4aff57bcb2bd680d9a9a0c8a810dd83cae5ae7fbea6d.m3u8?token=549293861890468 
-美亞電影台(HK),https://video.mytvsuper.xyz/live/3e126407f2aa457bb9f860ecde7167bc6d8470a79a4ffade6bb7c0bac717d795.m3u8?token=549293861890468 
-翡翠剧集台(北美),https://video.mytvsuper.xyz/live/37d3e820a7d56e161977e8945d930a69a34c0d063422e465be6cdc300a9b4ea2.m3u8?token=549293861890468 
-翡翠综合台(北美),https://video.mytvsuper.xyz/live/dfbd5309303c21d71e9525a0ed15cb1666a42d90baddd9dabcbd72c0dc9a28d1.m3u8?token=549293861890468 
-鳳凰中文,https://video.mytvsuper.xyz/live/48970c86c5b580aab917180879fb8c33400ca7a2bd9a5f9f9bac1661176c84e3.m3u8?token=549293861890468 
-鳳凰資訊,https://video.mytvsuper.xyz/live/4a664c6a7f58d7c0a5a14c5feb00ac3413c8506895ea50e1a7170008bb66fa46.m3u8?token=549293861890468 
-鳳凰香港,https://video.mytvsuper.xyz/live/2751948f1b3f27a1ca64d2020ab49bb7fca7dfbc40586c7e87b6f94267873440.m3u8?token=549293861890468 
-黃金翡翠台,https://video.mytvsuper.xyz/live/f04bc83119f5799e0233237cd0d19353d7e826a710bfd087e3e341d607f088c4.m3u8?token=549293861890468 
-AXN,https://video.mytvsuper.xyz/live/4bd07062108868b7a70484212368fedf50e7b879bbc4e389dfc55b2237c33c95.m3u8?token=549293861890468 
-Love Nature HD,https://video.mytvsuper.xyz/live/006a6e6ca5c58c38c175f446db9578491a299dbc709a887ab86182c42ce4cde4.m3u8?token=549293861890468 
-无线新闻台(北美),https://video.mytvsuper.xyz/live/3aa9c3b1745eea090ccf14d3ad1a95d47eca1ac06220aa4472b6d1f25046e7a3.m3u8?token=549293861890468 
-東森新聞,https://video.mytvsuper.xyz/live/ea634b58e636bc085eb5c95aad79be50df45d54a74869d6e3f14fde6571c3d2d.m3u8?token=549293861890468 
-東森新聞,https://video.mytvsuper.xyz/live/74664ce5d3109d39f998c2593bf2017c73ea14fb534c203c706d61e82c97715e.m3u8?token=549293861890468 
-東森新聞,https://video.mytvsuper.xyz/live/923ce9a676f7b9cc1247ff60c1fce451ce8f4958653305f848fffbd15360e416.php?token=549293861890468 
-東森新聞,https://video.mytvsuper.xyz/live/6b46811e1d8dc826eb7553bb0cf664aedb233fd7bf3106b0c62d073f012b5f5a.php?token=549293861890468 
-Animax(HK),https://video.mytvsuper.xyz/live/df8e6a1546b8c50c71bde46077f451e7db42edf45c72bf2f7081e99ac192b594.m3u8?token=549293861890468 
-DW,https://video.mytvsuper.xyz/live/bb565040fcf52da6661657c34042312a50921db42340ab0feb39986d9e7b92f4.m3u8?token=549293861890468 
-France 24,https://video.mytvsuper.xyz/live/4fd15058c3e71bf2bccf75218b3c317d0e1022f9c0a1b82b25d51bdb664a1678.m3u8?token=549293861890468 
-KIX,https://video.mytvsuper.xyz/live/99be2a368153909c8647a0a679c9e3522c0ae4928c5032271bc434205f96a854.m3u8?token=549293861890468 
-NHK World-Japan,https://video.mytvsuper.xyz/live/74631c09ec36d8f1a5839d801b09e7cebe7c6f66f19f3fd6090003b6db277399.m3u8?token=549293861890468 
-NHK東京総合,https://video.mytvsuper.xyz/live/07885bf8a3948be2e3c64c849b84162d9dafd9fff710e71227f8d1e465f544ac.m3u8?token=549293861890468 
-Nick Jr,https://video.mytvsuper.xyz/live/ab4e7f1b77ce5669a25724b4dab5131f20dd604e7c34704bab4d704b91f8b08c.m3u8?token=549293861890468 
 Nick Jr,p3p://108.181.32.169:47294/642d449d000ac1ec0a2d5151582b3dea 
-Nickelodeon,https://video.mytvsuper.xyz/live/4bf1c3946330aee022d72a57a2b3a8aaca48d1aa0ce3ac138410ccc845f0f8e4.m3u8?token=549293861890468 
 Nickelodeon,p3p://108.181.32.169:47294/642d44b90006faed0a2dbdba7c9816e4 
-Thrill,https://video.mytvsuper.xyz/live/ce95b9a5844b169ac30bf45f5d28e9a13d4f825a9a57c4729be289bdc463ba6f.m3u8?token=549293861890468 
 Thrill,p3p://108.181.32.169:47294/644a0879000272f67a89b6687af342ae 
-ZooMoo,https://video.mytvsuper.xyz/live/c23e1d6d35c32c84f6367ab7e790579f70fa53f0a5f91e8793534f160377ee13.m3u8?token=549293861890468 
-亞洲新聞台,https://video.mytvsuper.xyz/live/fcb1cca3780200d62ac36cdaf90694570c0ad1e9824507b138c2e525abb62158.m3u8?token=549293861890468 
-東方衛視國際頻道,https://video.mytvsuper.xyz/live/1ad2a23672a46b9bf4c6e1484cbf92d148277bdbcca8221d5345ee4c662380ca.m3u8?token=549293861890468 
-無線衛星新聞台,https://video.mytvsuper.xyz/live/ac15c16dc273b5b0f861748dd3d614fd77dc13c8e0c6921df8d6f01f8c0fe465.m3u8?token=549293861890468 
 粤港频道,#genre#
 凤凰中文频标,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv 
 凤凰资讯频标,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv 

@@ -1,16 +1,14 @@
-2025-03-05 17:28:28,516 - INFO - url: https://raw.githubusercontent.com/yewengood/yahu/refs/heads/main/speedtest/gddx_fofa.txt 获取成功，判断为txt格式
-2025-03-05 17:28:28,516 - INFO - url: https://raw.githubusercontent.com/yewengood/yahu/refs/heads/main/speedtest/gddx_fofa.txt 爬取成功✅，包含频道分类: 📡  电信广电
-2025-03-05 17:28:28,649 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 获取成功，判断为txt格式
-2025-03-05 17:28:28,652 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 爬取成功✅，包含频道分类: 不失效源, 央卫, 广东频道, 🐼IPV6专区, 台湾频道, NewTV频道, 4GTV, YY精选, 斗鱼精选, 虎牙-精选, 四川电信, 咪咕
-2025-03-05 17:28:28,769 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 获取成功，判断为txt格式
-2025-03-05 17:28:28,770 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 爬取成功✅，包含频道分类: 📡  电信频道
-2025-03-05 17:28:28,907 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt 获取成功，判断为txt格式
-2025-03-05 17:28:28,910 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt 爬取成功✅，包含频道分类: 📡  电信广电, 📡  四川频道, 📡  北京联通
-2025-03-05 17:28:29,142 - INFO - url: http://aktv.space/live.m3u 获取成功，判断为m3u格式
-2025-03-05 17:28:40,522 - ERROR - url: http://我不是.摸鱼儿.com/live.php 爬取失败❌, Error: 504 Server Error: Gateway Time-out for url: http://xn--ihqu10cn4c.xn--v4q818bf34b.com/live.php
-2025-03-05 17:28:41,874 - INFO - url: http://103.45.68.47:668/gy/m3u-txt.php?url=https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=549293861890468 获取成功，判断为txt格式
-2025-03-05 17:28:41,879 - INFO - url: http://103.45.68.47:668/gy/m3u-txt.php?url=https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=549293861890468 爬取成功✅，包含频道分类: Judy「自用」, Astro「限安卓」, 体育视频「源」, AKTV「限美国」, 欧美视频「源」, 咪咕视频「源」, 台湾频道², 台湾频道「➌」, YouTube「➊」, Sports
-2025-03-05 17:28:45,776 - INFO - url: http://rihou.cc:555 获取成功，判断为txt格式
-2025-03-05 17:28:45,794 - INFO - url: http://rihou.cc:555 爬取成功✅，包含频道分类: 篮球粤评, 足球粤评, 赛事咪咕, 欣赏频道, 港粤频道, 港波测试, 哪吒修复, 新剧追更, 央视高码, 央卫甘肃, 央卫咪咕, 央视频道, 央卫--iTV, Newtv-itv, SiTV-ITV, IHOT-iTV, 央卫斯特, 特区斯特, 闽南斯特, 广东宽频, 粤港澳闽, 央卫频陆, 特区频陆, 闽南频陆, 童年频道, 抖音电台, 广东频道, 大时代粤, 流星花园, 还珠格格, 大地恩情, 粤经典剧, 射雕英雄, 神雕侠侣, 视觉效果, 动感舞曲, 红歌音乐, 蛇年电影, 梅州移动, 北京联通, 北京电信, 山东移动, 山东联通, 天津联通, 绍兴联通, 重庆联通, 上海电信, 浙江电信, 广西电信, 四川电信, 新闻频陆, 跑马频陆, 体育频陆, 电影频陆, 儿童频陆, 知识频陆, 新坡频陆, 马亚频陆, 印度频陆, 加大频陆, 日本频陆, 韩国频陆, 美国频陆
-2025-03-05 17:28:49,167 - INFO - url: http://rihou.cc:567/gggg.nzk 获取成功，判断为txt格式
-2025-03-05 17:28:49,180 - INFO - url: http://rihou.cc:567/gggg.nzk 爬取成功✅，包含频道分类: 篮球粤评, 足球粤评, 赛事咪咕, 欣赏频道, 港粤频道, 港波测试, 哪吒修复, 新剧追更, 央视高码, 央卫甘肃, 央卫咪咕, 央视频道, 央卫--iTV, Newtv-itv, SiTV-ITV, IHOT-iTV, 央卫斯特, 特区斯特, 闽南斯特, 广东宽频, 粤港澳闽, 央卫频陆, 特区频陆, 闽南频陆, 童年频道, 抖音电台, 广东频道, 大时代粤, 流星花园, 还珠格格, 大地恩情, 粤经典剧, 射雕英雄, 神雕侠侣, 视觉效果, 动感舞曲, 红歌音乐, 蛇年电影, 梅州移动, 北京联通, 北京电信, 山东移动, 山东联通, 天津联通, 绍兴联通, 重庆联通, 上海电信, 浙江电信, 广西电信, 四川电信, 新闻频陆, 跑马频陆, 体育频陆, 电影频陆, 儿童频陆, 知识频陆, 新坡频陆, 马亚频陆, 印度频陆, 加大频陆, 日本频陆, 韩国频陆, 美国频陆
+2025-03-05 17:38:18,337 - INFO - url: https://raw.githubusercontent.com/yewengood/yahu/refs/heads/main/speedtest/gddx_fofa.txt 获取成功，判断为txt格式
+2025-03-05 17:38:18,338 - INFO - url: https://raw.githubusercontent.com/yewengood/yahu/refs/heads/main/speedtest/gddx_fofa.txt 爬取成功✅，包含频道分类: 📡  电信广电
+2025-03-05 17:38:18,607 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 获取成功，判断为txt格式
+2025-03-05 17:38:18,613 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 爬取成功✅，包含频道分类: 不失效源, 央卫, 广东频道, 🐼IPV6专区, 台湾频道, NewTV频道, 4GTV, YY精选, 斗鱼精选, 虎牙-精选, 四川电信, 咪咕
+2025-03-05 17:38:18,693 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 获取成功，判断为txt格式
+2025-03-05 17:38:18,695 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 爬取成功✅，包含频道分类: 📡  电信频道
+2025-03-05 17:38:18,797 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt 获取成功，判断为txt格式
+2025-03-05 17:38:18,800 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt 爬取成功✅，包含频道分类: 📡  电信广电, 📡  四川频道, 📡  北京联通
+2025-03-05 17:38:29,281 - ERROR - url: http://我不是.摸鱼儿.com/live.php 爬取失败❌, Error: 504 Server Error: Gateway Time-out for url: http://xn--ihqu10cn4c.xn--v4q818bf34b.com/live.php
+2025-03-05 17:38:30,109 - INFO - url: http://103.45.68.47:668/gy/m3u-txt.php?url=http://aktv.space/live.m3u 获取成功，判断为txt格式
+2025-03-05 17:38:33,749 - INFO - url: http://rihou.cc:555 获取成功，判断为txt格式
+2025-03-05 17:38:33,773 - INFO - url: http://rihou.cc:555 爬取成功✅，包含频道分类: 篮球粤评, 足球粤评, 赛事咪咕, 欣赏频道, 港粤频道, 港波测试, 哪吒修复, 新剧追更, 央视高码, 央卫甘肃, 央卫咪咕, 央视频道, 央卫--iTV, Newtv-itv, SiTV-ITV, IHOT-iTV, 央卫斯特, 特区斯特, 闽南斯特, 广东宽频, 粤港澳闽, 央卫频陆, 特区频陆, 闽南频陆, 童年频道, 抖音电台, 广东频道, 大时代粤, 流星花园, 还珠格格, 大地恩情, 粤经典剧, 射雕英雄, 神雕侠侣, 视觉效果, 动感舞曲, 红歌音乐, 蛇年电影, 梅州移动, 北京联通, 北京电信, 山东移动, 山东联通, 天津联通, 绍兴联通, 重庆联通, 上海电信, 浙江电信, 广西电信, 四川电信, 新闻频陆, 跑马频陆, 体育频陆, 电影频陆, 儿童频陆, 知识频陆, 新坡频陆, 马亚频陆, 印度频陆, 加大频陆, 日本频陆, 韩国频陆, 美国频陆
+2025-03-05 17:38:36,498 - INFO - url: http://rihou.cc:567/gggg.nzk 获取成功，判断为txt格式
+2025-03-05 17:38:36,510 - INFO - url: http://rihou.cc:567/gggg.nzk 爬取成功✅，包含频道分类: 篮球粤评, 足球粤评, 赛事咪咕, 欣赏频道, 港粤频道, 港波测试, 哪吒修复, 新剧追更, 央视高码, 央卫甘肃, 央卫咪咕, 央视频道, 央卫--iTV, Newtv-itv, SiTV-ITV, IHOT-iTV, 央卫斯特, 特区斯特, 闽南斯特, 广东宽频, 粤港澳闽, 央卫频陆, 特区频陆, 闽南频陆, 童年频道, 抖音电台, 广东频道, 大时代粤, 流星花园, 还珠格格, 大地恩情, 粤经典剧, 射雕英雄, 神雕侠侣, 视觉效果, 动感舞曲, 红歌音乐, 蛇年电影, 梅州移动, 北京联通, 北京电信, 山东移动, 山东联通, 天津联通, 绍兴联通, 重庆联通, 上海电信, 浙江电信, 广西电信, 四川电信, 新闻频陆, 跑马频陆, 体育频陆, 电影频陆, 儿童频陆, 知识频陆, 新坡频陆, 马亚频陆, 印度频陆, 加大频陆, 日本频陆, 韩国频陆, 美国频陆
