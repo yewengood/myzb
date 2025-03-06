@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://43.136.119.99:4567/epg"
 #EXTINF:-1 tvg-id="1" tvg-name="更新日期" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",更新日期
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-id="1" tvg-name="2025-03-06" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",2025-03-06
+#EXTINF:-1 tvg-id="1" tvg-name="2025-03-07" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",2025-03-07
 https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="广东卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/广东卫视.png" group-title="广东频道",广东卫视
 http:///rtp/239.20.0.131:2060 
@@ -3303,6 +3303,8 @@ http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
 https://tv.bfsu.edu.cn/hls/fhzx.m3u8 
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰香港频标" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/凤凰香港频标.png" group-title="粤港频道",凤凰香港频标
 http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv 
+#EXTINF:-1 tvg-id="1" tvg-name="中天新闻频标" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/中天新闻频标.png" group-title="粤港频道",中天新闻频标
+http://iptv.diyp.site/公众号【DIYP】.php?key=gat2&id=19 
 #EXTINF:-1 tvg-id="1" tvg-name="无线新闻频标" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/无线新闻频标.png" group-title="粤港频道",无线新闻频标
 http://go1.bkpcp.top/tl/null-11 
 #EXTINF:-1 tvg-id="1" tvg-name="TVBJ1综合高" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/Live/main/tv/TVBJ1综合高.png" group-title="粤港频道",TVBJ1综合高

@@ -1,6 +1,6 @@
 公告,#genre#
 更新日期,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-2025-03-06,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
+2025-03-07,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 广东频道,#genre#
 广东卫视,http:///rtp/239.20.0.131:2060 
 广东卫视,http://eastscreen.tv/ooooo.php?id=gdwshd 
@@ -1664,6 +1664,7 @@ ZooMoo,http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 凤凰资讯频标,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv 
 凤凰资讯频标,https://tv.bfsu.edu.cn/hls/fhzx.m3u8 
 凤凰香港频标,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv 
+中天新闻频标,http://iptv.diyp.site/公众号【DIYP】.php?key=gat2&id=19 
 无线新闻频标,http://go1.bkpcp.top/tl/null-11 
 TVBJ1综合高,http://cdn5.1678520.xyz/live/?id=j1 
 无线翡翠频标,http://php.jdshipin.com/smt.php?id=jade_twn 
