@@ -139,29 +139,6 @@
 南国都市4K,http://47.106.175.162:9292/udp/239.253.43.99:5146 
 阳江-1,https://live.yjtvw.com:8081/live/yjtv1.m3u8 
 阳江-2,https://live.yjtvw.com:8081/live/yjtv2.m3u8 
-凤凰资讯,http://eastscreen.tv/ooooo.php?id=fhzx 
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx 
-凤凰资讯,http://211.72.65.236:8576/.m3u8 
-凤凰资讯,http://iptv.nanomi.cn:4000/udp/239.93.0.118:2191 
-凤凰资讯,http://iptv.nanomi.cn:4000/udp/239.93.1.4:2191 
-凤凰资讯,http://118.112.48.96:8178/udp/239.93.0.118:2191 
-凤凰资讯,http://118.112.48.96:8178/udp/239.93.1.4:2191 
-凤凰资讯,http://182.150.185.210:9999/udp/239.93.0.118:2191 
-凤凰资讯,http://182.150.185.210:9999/udp/239.93.1.4:2191 
-凤凰中文,http://eastscreen.tv/ooooo.php?id=fhws 
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw 
-凤凰中文,http://211.72.65.236:8577/.m3u8 
-凤凰中文,http://iptv.nanomi.cn:4000/udp/239.93.0.162:2192 
-凤凰中文,http://iptv.nanomi.cn:4000/udp/239.93.1.9:2192 
-凤凰中文,http://118.112.48.96:8178/udp/239.93.0.162:2192 
-凤凰中文,http://118.112.48.96:8178/udp/239.93.1.9:2192 
-凤凰中文,http://182.150.185.210:9999/udp/239.93.0.162:2192 
-凤凰中文,http://182.150.185.210:9999/udp/239.93.1.9:2192 
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk 
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct 
-翡翠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8 
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt 
-明珠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8 
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz 
 CHC动作电影,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8?E=&U=&A=&K=&P=&S= 
 CHC家庭影院,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E=&U=&A=&K=&P=&S= 
@@ -170,45 +147,10 @@ CHC高清电影,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc
 1905极限反转,http://php.jdshipin.com/1905.php?id=1905dy 
 1905环球经典,http://php.jdshipin.com/1905.php?id=1905dy2 
 广州南国都市,http://php.jdshipin.com/gztv.php?id=shenghuo 
-美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya 
-美亚电影台,p3p://108.181.32.169:38948/642525310003ad3cea72ca2155c734c3 
-华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali 
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe 
-HOY-TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv 
-千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc 
-Astro-AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod 
-美亚电影台(台),https://iptv.vip-tptv.xyz/tv.php?id=1 
-天映频道,https://iptv.vip-tptv.xyz/tv.php?id=2 
-纬来电影台,https://iptv.vip-tptv.xyz/tv.php?id=3 
-东森电影台,https://iptv.vip-tptv.xyz/tv.php?id=4 
-东森电影台,p3p://108.181.32.169:38948/64253899000a078deabe99ff587050b0 
-东森洋片台,https://iptv.vip-tptv.xyz/tv.php?id=5 
-纬来日本台,https://iptv.vip-tptv.xyz/tv.php?id=6 
-纬来体育台,https://iptv.vip-tptv.xyz/tv.php?id=7 
-东森幼幼台,https://iptv.vip-tptv.xyz/tv.php?id=8 
-爱尔达影剧台,https://iptv.vip-tptv.xyz/tv.php?id=9 
-i-Fun 動漫台,https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv15 
-Astro QJ,https://iptv.vip-tptv.xyz/tv.php?id=12 
-Astro AEC,https://iptv.vip-tptv.xyz/tv.php?id=17 
-Astro AOD 511 SG,https://iptv.vip-tptv.xyz/tv.php?id=22 
-Astro AOD HD SG,https://iptv.vip-tptv.xyz/tv.php?id=23 
-Astro Supersports 1,https://iptv.vip-tptv.xyz/tv.php?id=25 
-Astro Supersports 2,https://iptv.vip-tptv.xyz/tv.php?id=26 
-Astro Supersports 3,https://iptv.vip-tptv.xyz/tv.php?id=27 
-Astro Supersports 4,https://iptv.vip-tptv.xyz/tv.php?id=28 
-Astro Supersports 5,https://iptv.vip-tptv.xyz/tv.php?id=29 
-One SG,https://iptv.vip-tptv.xyz/tv.php?id=18 
-天映频道SG,https://iptv.vip-tptv.xyz/tv.php?id=11 
-TVB星河台 L-HL,https://iptv.vip-tptv.xyz/tv.php?id=14 
-TVB星河台 HK-HL,https://iptv.vip-tptv.xyz/tv.php?id=21 
 重温经典,http://tv.dlwmkj.com/php2021/bfy.php?id=635 
 重温经典,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CWJD_4000.m3u8?E=&U=&A=&K=&P=&S= 
-星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv 
+星光综合频视,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv 
 熊猫功夫频视,http://data.3g.yy.com/live/hls/1507716299/1507716299 
-周星驰,https://live.metshop.top/huya/11342412 
-周星驰,http://43.136.119.99:35455/douyu/122402 
-刘德华,https://live.metshop.top/huya/11342424 
-刘德华,http://43.136.119.99:35455/douyu/2516864 
 广东地方台,#genre#
 深圳卫视高清,http://113.64.197.172:6633/udp/239.77.1.3:5146 
 深圳卫视高清,http://113.64.197.172:6633/udp/239.77.1.148:5146 
@@ -1562,13 +1504,19 @@ TVB Plus,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 TVBS-新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbs-1/AKTV.m3u8 
 tvN,http://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8 
 中天新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8 
+中天新聞台,http://54.180.121.219:50103/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=true 
 千禧經典台(HK),http://aktv_stream1.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8 
 娛樂新聞台(HK),http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8 
 寰宇新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8 
+寰宇新聞台,http://54.180.121.219:50103/index.m3u8?pid=litv-longturn14&sd=1080&proxy=true 
 明珠剧集台(北美),http://aktv_stream1.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8 
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt 
+明珠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8 
 無線新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8 
 美亞電影台(HK),http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8 
 翡翠剧集台(北美),http://aktv_stream1.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8 
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct 
+翡翠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8 
 翡翠综合台(北美),http://aktv_stream1.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8 
 鳳凰中文,http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8 
 鳳凰資訊,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8 
@@ -1585,34 +1533,40 @@ KIX,http://aktv_stream1.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
 NHK World-Japan,http://aktv_stream1.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8 
 NHK東京総合,http://aktv_stream1.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8 
 Nick Jr,http://aktv_stream1.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8 
-Nick Jr,p3p://108.181.32.169:38948/642d449d000ac1ec0a2d5151582b3dea 
+Nick Jr,p3p://108.181.32.169:44171/642d449d000ac1ec0a2d5151582b3dea 
 Nickelodeon,http://aktv_stream1.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8 
-Nickelodeon,p3p://108.181.32.169:38948/642d44b90006faed0a2dbdba7c9816e4 
+Nickelodeon,p3p://108.181.32.169:44171/642d44b90006faed0a2dbdba7c9816e4 
 Thrill,http://aktv_stream1.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8 
-Thrill,p3p://108.181.32.169:38948/644a0879000272f67a89b6687af342ae 
+Thrill,p3p://108.181.32.169:44171/644a0879000272f67a89b6687af342ae 
 ZooMoo,http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8 
 亞洲新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8 
 東方衛視國際頻道,http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8 
 無線衛星新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8 
-粤港频道,#genre#
-凤凰中文频标,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv 
-凤凰资讯频标,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv 
-凤凰香港频标,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv 
-无线新闻频标,http://go1.bkpcp.top/tl/null-11 
-无线翡翠频标,http://php.jdshipin.com/smt.php?id=jade_twn 
-无线娱乐频标,http://php.jdshipin.com/smt.php?id=Tvbentertainment 
-无线娱乐频标,http://go1.bkpcp.top/tl/null-14 
-无线星河频道,http://php.jdshipin.com/smt.php?id=Xinhe 
-无线星河频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe 
-无线综合频道,http://go1.bkpcp.top/tl/null-3 
-无线粤片频道,http://go1.bkpcp.top/tl/null-10 
-无线华剧频道,http://go1.bkpcp.top/tl/null-4 
-黄金翡翠频道,http://go1.bkpcp.top/tl/null-2 
-黄金华剧频道,http://go1.bkpcp.top/tl/null-9 
-天映经典频道,http://go1.bkpcp.top/tl/null-1 
-中国电影频道,http://go1.bkpcp.top/tl/null-6 
-中天新闻斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews 
-有线新闻斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=hoycaijing_twn 
+4GTV频道,#genre#
+台視,http://54.180.121.219:50103/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=true 
+中視,http://54.180.121.219:50103/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=true 
+華視,http://54.180.121.219:50103/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=true 
+好消息,http://211.72.65.236:8508/.m3u8 
+好消息,http://54.180.121.219:50103/index.m3u8?pid=litv-ftv16&sd=1080&proxy=true 
+哆啦Ａ夢台,http://54.180.121.219:50103/index.m3u8?pid=ofiii22&sd=1080&proxy=true 
+亞洲旅遊台,http://54.180.121.219:50103/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=true 
+龍華戲劇台,http://54.180.121.219:50103/index.m3u8?pid=litv-longturn18&sd=1080&proxy=true 
+台灣戲劇台,http://54.180.121.219:50103/index.m3u8?pid=litv-longturn22&sd=1080&proxy=true 
+東森購物1台,http://54.180.121.219:50103/index.m3u8?pid=4gtv-4gtv102&sd=1080&proxy=true 
+龍華偶像台,http://54.180.121.219:50103/index.m3u8?pid=litv-longturn12&sd=1080&proxy=true 
+龍華日韓台,http://54.180.121.219:50103/index.m3u8?pid=litv-longturn11&sd=1080&proxy=true 
+華視新聞,http://54.180.121.219:50103/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=true 
+三立新聞iNEWS,http://54.180.121.219:50103/index.m3u8?pid=iNEWS&sd=1080&proxy=true 
+寰宇財經台,http://54.180.121.219:50103/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=true 
+台視新聞,http://54.180.121.219:50103/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=true 
+中視新聞,http://54.180.121.219:50103/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=true 
+寰宇新聞台灣台,http://54.180.121.219:50103/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=true 
+龍華經典台,http://54.180.121.219:50103/index.m3u8?pid=litv-longturn21&sd=1080&proxy=true 
+龍華電影台,http://54.180.121.219:50103/index.m3u8?pid=litv-longturn03&sd=1080&proxy=true 
+Golden 強片台,http://54.180.121.219:50103/index.m3u8?pid=ofiii70&sd=1080&proxy=true 
+周星馳台,http://54.180.121.219:50103/index.m3u8?pid=ofiii73&sd=1080&proxy=true 
+歐飛電影台,http://54.180.121.219:50103/index.m3u8?pid=ofiii74&sd=1080&proxy=true 
+歐飛喜劇電影台,http://54.180.121.219:50103/index.m3u8?pid=ofiii75&sd=1080&proxy=true 
 YY精选,#genre#
 老广的味道,http://43.136.119.99:35455/yy/1382735565 
 探秘中华美食,http://43.136.119.99:35455/yy/1354930954 
@@ -1702,7 +1656,7 @@ YY電影-歐美動作電影,http://43.136.119.99:35455/yy/1382745089
 吃米滴虫(粤语）,http://43.136.119.99:35455/douyu/5033502 
 粤语电影,http://43.136.119.99:35455/douyu/1226741#http://43.136.119.99:35455/douyu/1226741 
 神乐电影（粤语）,http://43.136.119.99:35455/douyu/6566671 
-粤语极清电影,https://pullhw.zhaoyangyang.cn/live/8770046.flv?auth_info=KBIDUmpAAhlq8XyzCboxay7VIQuLwSnqdFikPFYJY%2B4%3D.345a384a6e4b5a41687441746a437a79 
+粤语极清电影,https://pullhw.zhaoyangyang.cn/live/8771746.flv?auth_info=cUb9LyqUg25q%2FQJ2%2FPrAHBjQAl7PnnS3skynyomVUac%3D.74566b6255454a77686c6e746d633864 
 周星驰电影,http://43.136.119.99:35455/douyu/3637778 
 麓山迷踪㊣版,http://43.136.119.99:35455/douyu/4505431 
 瑶瑶恐怖㊣版,http://43.136.119.99:35455/douyu/2935323 
@@ -1714,6 +1668,7 @@ YY電影-歐美動作電影,http://43.136.119.99:35455/yy/1382745089
 吃米滴虫代,http://43.136.119.99:35455/douyu/315457 
 冰冰经典代,http://43.136.119.99:35455/douyu/74374 
 星爷影院代,http://43.136.119.99:35455/douyu/508118 
+神乐影院✔原,http://43.136.119.99:35455/douyu/122402 
 可乐影院✔原,http://43.136.119.99:35455/douyu/20415 
 小宇60帧✔原,http://43.136.119.99:35455/douyu/323876 
 恐怖惊悚✔原,http://43.136.119.99:35455/douyu/96577 
@@ -1735,6 +1690,9 @@ YY電影-歐美動作電影,http://43.136.119.99:35455/yy/1382745089
 贝爷影厅✔原,http://43.136.119.99:35455/douyu/252802 
 邵氏影院代,http://43.136.119.99:35455/douyu/4246519 
 4k影院画质,http://43.136.119.99:35455/douyu/9249162 
+周星驰,https://live.metshop.top/huya/11342412 
+刘德华,https://live.metshop.top/huya/11342424 
+刘德华,http://43.136.119.99:35455/douyu/2516864 
 林正英,http://43.136.119.99:35455/douyu/7356023 
 好先生,http://43.136.119.99:35455/douyu/9650792 
 庆余年,http://43.136.119.99:35455/douyu/5908256 
