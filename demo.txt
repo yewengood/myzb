@@ -659,7 +659,6 @@ myTV SUPER 18台,#://aktv_stream1.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
 PopC,#://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 ROCK Action,#://aktv_stream1.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
 TVB Plus,#://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
-TVBS-新聞台,#://aktv_stream1.m16tv.cfd/stream/aktv/tvbs-1/AKTV.m3u8
 tvN,#://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
 中天新聞台,#://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 千禧經典台(HK),#://aktv_stream1.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
@@ -678,6 +677,7 @@ tvN,#://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
 黃金翡翠台,#://aktv_stream1.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 AXN,#://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 Love Nature HD,#://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
+Love_The_Planet,#://aktv_stream1.m16tv.cfd/stream/aktv2/lovetheplanet/AKTV.m3u8
 无线新闻台(北美),#://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 東森新聞,#://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 Animax(HK),#://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
@@ -689,10 +689,49 @@ NHK東京総合,#://aktv_stream1.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
 Nick Jr,#://aktv_stream1.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
 Nickelodeon,#://aktv_stream1.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
 Thrill,#://aktv_stream1.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
+Xite_Hits,#://aktv_stream1.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
 ZooMoo,#://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 亞洲新聞台,#://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
 東方衛視國際頻道,#://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
 無線衛星新聞台,#://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
+Channel 5,#://aktv_stream1.m16tv.cfd/stream/astro_a1/ch1/AKTV.m3u8
+Channel 8,#://aktv_stream1.m16tv.cfd/stream/astro_a1/ch2/AKTV.m3u8
+Channel U,#://aktv_stream1.m16tv.cfd/stream/astro_a1/ch3/AKTV.m3u8
+CINEMAWORLD,#://aktv_stream1.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
+FIGHT SPORTS,#://aktv_stream1.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
+KIX,#://aktv_stream1.m16tv.cfd/stream/astro_a1/ch38/AKTV.m3u8
+NBA TV,#://aktv_stream1.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
+Sukan,#://aktv_stream1.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
+Sukan[备用],#://aktv_stream1.m16tv.cfd/stream/astro_a1/ch90/AKTV.m3u8
+TV9,#://aktv_stream1.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
+Unifi Sport,#://aktv_stream1.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
+曼聯電視頻道,#://aktv_stream1.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
+amc電影台,#://aktv_stream1.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
+HITS頻道,#://aktv_stream1.m16tv.cfd/stream/taiwan/hits/AKTV.m3u8
+TVBS精采台,#://aktv_stream1.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
+三立綜合台,#://aktv_stream1.m16tv.cfd/stream/taiwan/null-6/AKTV.m3u8
+中視,#://aktv_stream1.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
+中視新聞,#://aktv_stream1.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
+台視,#://aktv_stream1.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
+台視新聞,#://aktv_stream1.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
+寰宇新聞台,#://aktv_stream1.m16tv.cfd/stream/taiwan/null-14/AKTV.m3u8
+愛爾達娛樂台,#://aktv_stream1.m16tv.cfd/stream/taiwan/null-11/AKTV.m3u8
+東森新聞台,#://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8
+民視,#://aktv_stream1.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
+民視台灣台,#://aktv_stream1.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
+民視新聞台,#://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
+民視第一台,#://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
+民視綜藝台,#://aktv_stream1.m16tv.cfd/stream/taiwan/null-16/AKTV.m3u8
+華視,#://aktv_stream1.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
+龍華偶像台,#://aktv_stream1.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
+龍華日韓台,#://aktv_stream1.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
+龍華電影台,#://aktv_stream1.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
+Astro IQIYI,#://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
+Love Nature 4K,#://aktv_stream1.m16tv.cfd/stream/tuntun/lovenature4k/AKTV.m3u8
+Red Bull Sports,#://aktv_stream1.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
+緯來體育,#://aktv_stream1.m16tv.cfd/stream/tuntun/null/AKTV.m3u8
+NTV NEWS 24,#://aktv_stream1.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
+viuTV,#://aktv_stream1.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
 4GTV频道,#genre#
 台視,#://54.180.121.219:50103/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=true
