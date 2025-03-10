@@ -33,57 +33,16 @@
 南国都市4K,
 阳江-1,
 阳江-2,
-凤凰资讯,
-凤凰中文,
-凤凰香港,
-翡翠台,
-明珠台,
-高清翡翠台,
-高清明珠台,
-凤凰中文台,
-澳亚卫视,
-星空卫视,
 CHC动作电影,
 CHC家庭影院,
 CHC高清电影,
 1905极限反转,
 1905环球经典,
 广州南国都市,
-美亚电影台,
-华丽翡翠台,
-TVB星河,
-HOY-TV,
-千禧经典台,
-Astro-AOD,
-美亚电影台(台),#1
-天映频道,#2
-纬来电影台,#3
-东森电影台,#4
-东森洋片台,#5
-纬来日本台,#6
-纬来体育台,#7
-东森幼幼台,#8
-爱尔达影剧台,#9
-i-Fun 動漫台,
-Astro QJ,#12
-Astro AEC,#17
-Astro AOD 511 SG,#22
-Astro AOD HD SG,#23
-Astro Supersports 1,#25
-Astro Supersports 2,#26
-Astro Supersports 3,#27
-Astro Supersports 4,#28
-Astro Supersports 5,#29
-One SG,#18
-天映频道SG,#11
-TVB星河台 L-HL,#14
-TVB星河台 HK-HL,#21
 重温经典,
-星光视界,
 星光综合频视,#://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 熊猫功夫频视,#://data.3g.yy.com/live/hls/1507716299/150771629
-周星驰,
-刘德华,
+
 
 
 广东地方台,#genre#
@@ -735,77 +694,35 @@ ZooMoo,#://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 東方衛視國際頻道,#://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
 無線衛星新聞台,#://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 
-粤港频道,#genre#
-凤凰中文频标,#://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰资讯频标,#://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
-凤凰香港频标,#://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv
-中天新闻频标,#://tlive24.uk/live#play?channel_id=20163
-有线新闻频标,#://live4play.uk/live#play?channel_id=20191
-无线新闻频标,#://vallest.uk/live#play?channel_id=20123
-Now新闻频标,#://live4play.uk/live#play?channel_id=20041
-Now爆谷频标,#://hkenlive.uk/live#play?channel_id=13002
-Now星影频标,#://hkenlive.uk/live#play?channel_id=13003
-Now英超粤语,#://hkenlive.uk/live#play?channel_id=13007
-Now英超直壹,#://hkenlive.uk/live#play?channel_id=13011
-Now英超直贰,#://hkenlive.uk/live#play?channel_id=13012
-Now英超直叁,#://hkenlive.uk/live#play?channel_id=13008
-Now英超直肆,#://hkenlive.uk/live#play?channel_id=13009
-Now英超体壹,#://hkenlive.uk/live#play?channel_id=13010
-Now英超体贰,#://hkenlive.uk/live#play?channel_id=13025
-TVBJ1综合高,#://cdn5.1678520.xyz/live/?id=j1
-RTHK-31频标,#://vallest.uk/live#play?channel_id=30066
-RTHK-32频标,#://vallest.uk/live#play?channel_id=30067
-Ftv1时代频标,#://tlive24.uk/live#play?channel_id=50208
-Ftv2时代频标,#://tlive24.uk/live#play?channel_id=50318
-黄金翡翠频标,#://hkenlive.uk/live#play?channel_id=13027
-无线翡翠频标,#://vallest.uk/live#play?channel_id=30025
-无线娱乐频标,#://hkenlive.uk/live#play?channel_id=13006
-无线戏曲频标,#://hkenlive.uk/live#play?channel_id=13026
-无线粤片频标,#://hkenlive.uk/live#play?channel_id=13021
-无线功夫频标,#://hkenlive.uk/live#play?channel_id=13024
-无线华剧频标,#://hkenlive.uk/live#play?channel_id=13023
-无线亚剧频标,#://hkenlive.uk/live#play?channel_id=13022
-无线亚综频标,#://hkenlive.uk/live#play?channel_id=13020
-无线赛马频标,#://hkenlive.uk/live#play?channel_id=13005
-无线星河频道,#://go1.bkpcp.top/tl/null-7 
-无线综合频道,#://go1.bkpcp.top/tl/null-3
-无线粤片频道,#://go1.bkpcp.top/tl/null-10
-无线华剧频道,#://go1.bkpcp.top/tl/null-4 
-黄金翡翠频道,#://go1.bkpcp.top/tl/null-2 
-黄金华剧频道,#://go1.bkpcp.top/tl/null-9
-天映经典频道,#://go1.bkpcp.top/tl/null-1  
-美亚电影频道,#://go1.bkpcp.top/tl/null-5
-东森电影频道,#://go1.bkpcp.top/tl/null-11 
-中国电影频道,#://go1.bkpcp.top/tl/null-6
-凤凰资讯频限,#s://ali.hlspull.yximgs.com/live/qq491695550-fh.flv
-中视闽南频限,#://ali.hlspull.yximgs.com/live/huanqiuhktvqphfwnmfjcqfxcvhqqwqfbfqjyuqqnmfcbsfqeqtyhsjqs.flv
-华视闽南频限,#://ali.hlspull.yximgs.com/live/huanqiuhktvpjymvcqnqqqcvbcvbqtyqqqffcfqvqftoqqbvcqfejnhs.flv
-台视闽南频限,#://ali.hlspull.yximgs.com/live/huanqiuhktvpteqfsxlvcqjewqqqpsqfvvxcqqqpfossvbxcfqqtqvxqhlts.flv
-东森戏剧频限,#://ali.hlspull.yximgs.com/live/huanqiuhktvqowjxnqltjqhecvxcqqeqqeqyhqjyjuoquomjfqhqqqjqsqy.flv
-东森洋片频限,#://ali.hlspull.yximgs.com/live/huanqiuhktvqmqptjqqxfqwetqvbqstqqqsutyhjqhflqqfhfhyqwqsyp.flv
-龙祥时代频限,#://ali.hlspull.yximgs.com/live/huanqiuhktvmqloehqbqqqpvboyjetqewsqhthqyuqfqwetyqqqhflxsq.flv
-龙华洋片频限,#://ali.hlspull.yximgs.com/live/huanqiuhktvqeqcxlvofbqbvbqqqfqvqhslcfvxcvxsqbcvqfjvsfcbqbnqtyxty.flv
-龙华戏剧频限,#://ali.hlspull.yximgs.com/live/huanqiuhktvqeqcxlvofbqbvnqqsfqvbhslcfvxcvqsqbcvqfjvqsfcbqbnqtyqj.flv
-ELta影剧频限,#://ali.hlspull.yximgs.com/live/huanqiuhktvsfbxcvqsfqjhnfcvbsxqjnqsvmvbsqqqfjhyuqmqbvnqslhxj.flv
-AXN电影频限,#://ali.hlspull.yximgs.com/live/huanqiuhktvqeqcxlvofbqbvbqqqfqvqhslcfybqssxsqbcqcfjvsfcbqbnqtyqxn.flv
-HBO电影频限,#://ali.hlspull.yximgs.com/live/huanqiuhktvmqqlqpwqjctjfhjvqjqjuqlvcbeyweqweefshqfhhqsqqcxhbo.flv
-HBO强档频限,#://ali.hlspull.yximgs.com/live/huanqiuhktvtqcvsqgcqyhpvobqxclmvhqogjqbojbsqhlelevenjhbosignature.flv
-天映经典频限,#://ali.hlspull.yximgs.com:80/live/huanqiuhktvvcnyjsqfqsetqqfcvbcjtsqqfvxcvsqnmbnlqqhqqnmyhsqqftyjq.flv
-龙祥时代频限,#://ali.hlspull.yximgs.com:80/live/huanqiuhktvmqloehqbqqqpvboyjetqewsqhthqyuqfqwetyqqqhflxsq.flv
-龙华洋片频限,#://ali.hlspull.yximgs.com:80/live/huanqiuhktvqeqcxlvofbqbvbqqqfqvqhslcfvxcvxsqbcvqfjvsfcbqbnqtyxty.flv
-中天新闻斯特,#s://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
-中天新闻斯特,#://iptv.huohuo.live/Smart.php?id=ctinews
-有线新闻斯特,#s://haoyunlai.serv00.net/Smartv-1.php?id=hoycaijing_twn
-有线新闻斯特,#://iptv.huohuo.live/Smart.php?id=hoycaijing_twn
-粤语戏曲'EXO,#://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477553.m3u8
-粤语长片'EXO,#://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476225.m3u8
-中天新闻'EXO,#://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477695.m3u8
-中天新闻'EXO,#://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/489006.m3u8
-有线新闻'EXO,#://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476957.m3u8
-广东珠江'EXO,#://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476221.m3u8
-广东体育'EXO,#://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476951.m3u8
-广东湾区'EXO,#://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476989.m3u8
-
+4GTV频道,#genre#
+台視,#://54.180.121.219:50103/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=true
+中視,#://54.180.121.219:50103/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=true
+華視,#://54.180.121.219:50103/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=true
+好消息,#://54.180.121.219:50103/index.m3u8?pid=litv-ftv16&sd=1080&proxy=true
+哆啦Ａ夢台,#://54.180.121.219:50103/index.m3u8?pid=ofiii22&sd=1080&proxy=true
+亞洲旅遊台,#://54.180.121.219:50103/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=true
+龍華戲劇台,#://54.180.121.219:50103/index.m3u8?pid=litv-longturn18&sd=1080&proxy=true
+台灣戲劇台,#://54.180.121.219:50103/index.m3u8?pid=litv-longturn22&sd=1080&proxy=true
+東森購物1台,#://54.180.121.219:50103/index.m3u8?pid=4gtv-4gtv102&sd=1080&proxy=true
+龍華偶像台,#://54.180.121.219:50103/index.m3u8?pid=litv-longturn12&sd=1080&proxy=true
+龍華日韓台,#://54.180.121.219:50103/index.m3u8?pid=litv-longturn11&sd=1080&proxy=true
+華視新聞,#://54.180.121.219:50103/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=true
+三立新聞iNEWS,#://54.180.121.219:50103/index.m3u8?pid=iNEWS&sd=1080&proxy=true
+寰宇財經台,#://54.180.121.219:50103/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=true
+台視新聞,#://54.180.121.219:50103/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=true
+中視新聞,#://54.180.121.219:50103/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=true
+中天新聞台,#://54.180.121.219:50103/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=true
+寰宇新聞台灣台,#://54.180.121.219:50103/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=true
+寰宇新聞台,#://54.180.121.219:50103/index.m3u8?pid=litv-longturn14&sd=1080&proxy=true
+龍華經典台,#://54.180.121.219:50103/index.m3u8?pid=litv-longturn21&sd=1080&proxy=true
+龍華電影台,#://54.180.121.219:50103/index.m3u8?pid=litv-longturn03&sd=1080&proxy=true
+哆啦Ａ夢台,#://54.180.121.219:50103/index.m3u8?pid=ofiii22&sd=1080&proxy=true
+龍華經典台,#://54.180.121.219:50103/index.m3u8?pid=litv-longturn21&sd=1080&proxy=true
+Golden 強片台,#://54.180.121.219:50103/index.m3u8?pid=ofiii70&sd=1080&proxy=true
+龍華電影台,#://54.180.121.219:50103/index.m3u8?pid=litv-longturn03&sd=1080&proxy=true
+周星馳台,#://54.180.121.219:50103/index.m3u8?pid=ofiii73&sd=1080&proxy=true
+歐飛電影台,#://54.180.121.219:50103/index.m3u8?pid=ofiii74&sd=1080&proxy=true
+歐飛喜劇電影台,#://54.180.121.219:50103/index.m3u8?pid=ofiii75&sd=1080&proxy=true
 YY精选,#genre#
 老广的味道,#43.136.119.99/yy.php?id=1382735565
 探秘中华美食,#43.136.119.99/yy.php?id=1354930954
