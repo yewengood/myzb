@@ -1589,10 +1589,16 @@ TVBS精采台,http://aktv_stream1.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
 龍華日韓台,http://54.180.121.219:50103/index.m3u8?pid=litv-longturn11&sd=1080&proxy=true 
 龍華電影台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8 
 龍華電影台,http://54.180.121.219:50103/index.m3u8?pid=litv-longturn03&sd=1080&proxy=true 
+Astro Football,http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8 
 Astro IQIYI,http://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8 
+Disney Channel,http://aktv_stream1.m16tv.cfd/stream/tuntun/disneychannel/AKTV.m3u8 
+Disney Channel,p3p://108.181.32.169:24075/642d446e0000b7480a2c972727bb7b01 
+Disney Channel,p3p://108.181.32.169:24075/6413851900016945a599dd79676c38 
+Disney Channel,p3p://108.181.32.169:24075/6413851900016945a599dd79676c389c 
+Disney XD,http://aktv_stream1.m16tv.cfd/stream/tuntun/disneyxd/AKTV.m3u8 
 Love Nature 4K,http://aktv_stream1.m16tv.cfd/stream/tuntun/lovenature4k/AKTV.m3u8 
 Red Bull Sports,http://aktv_stream1.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8 
-緯來體育,http://aktv_stream1.m16tv.cfd/stream/tuntun/null/AKTV.m3u8 
+翡翠台 4K,http://aktv_stream1.m16tv.cfd/stream/tuntun/4k/AKTV.m3u8 
 NTV NEWS 24,http://aktv_stream1.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8 
 viuTV,http://aktv_stream1.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8 
 港新频限,#genre#
@@ -1635,8 +1641,10 @@ tvb星河频国标,http://iptv.diyp.site/公众号【DIYP】.php?key=gat10&id=2
 纬来电影频标,http://iptv.diyp.site/公众号【DIYP】.php?key=gat10&id=32 
 东森电影频标,http://iptv.diyp.site/公众号【DIYP】.php?key=gat10&id=24 
 粤语戏曲频标,http://go1.bkpcp.top/tl/null-15 
+粤语戏曲频标,http://103.38.82.107:28888/stream/tvb/null-8/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85 
 粤语长片频标,http://go1.bkpcp.top/tl/null-10 
 pₒₚc电影频标,http://go1.bkpcp.top/tl/popc 
+pₒₚc电影频标,http://103.38.82.107:28888/stream/tvb/popc/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85 
 无线新闻频标,http://go1.bkpcp.top/tl/null-11 
 无线明珠粤标,http://go1.bkpcp.top/tl/null-12 
 无线星河频标,http://go1.bkpcp.top/tl/null-7 
