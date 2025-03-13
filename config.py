@@ -7,7 +7,7 @@ source_urls = [
      "https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt",
     "https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt",
     "http://54.180.121.219/aaa.txt",
-    #"http://我不是.摸鱼儿.com/live.php",
+    "http://54.180.121.219:35456/txt/2",
    "http://54.180.121.219/M3U%E8%BD%ACTXT%E6%A0%BC%E5%BC%8F(%E9%93%BE%E6%8E%A5%E7%89%88).php?url=http://54.180.121.219/qq.php",
     "http://54.180.121.219:50103/Sub?type=txt&sd=1080&proxy=true",
     "http://rihou.cc:555",
