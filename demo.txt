@@ -726,12 +726,16 @@ TVBS精采台,#://aktv_stream1.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
 龍華偶像台,#://aktv_stream1.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
 龍華日韓台,#://aktv_stream1.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
 龍華電影台,#://aktv_stream1.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
+Astro Football,#://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
 Astro IQIYI,#://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
+Disney Channel,#://aktv_stream1.m16tv.cfd/stream/tuntun/disneychannel/AKTV.m3u8
+Disney XD,#://aktv_stream1.m16tv.cfd/stream/tuntun/disneyxd/AKTV.m3u8
 Love Nature 4K,#://aktv_stream1.m16tv.cfd/stream/tuntun/lovenature4k/AKTV.m3u8
 Red Bull Sports,#://aktv_stream1.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
-緯來體育,#://aktv_stream1.m16tv.cfd/stream/tuntun/null/AKTV.m3u8
+翡翠台 4K,#://aktv_stream1.m16tv.cfd/stream/tuntun/4k/AKTV.m3u8
 NTV NEWS 24,#://aktv_stream1.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
 viuTV,#://aktv_stream1.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
+
 港新频限,#genre#
 NOW新闻频标,#://iptv.diyp.site/公众号【DIYP】.php?key=gat4&id=16
 NOW华剧频标,#://iptv.diyp.site/公众号【DIYP】.php?key=gat4&id=9
