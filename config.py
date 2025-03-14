@@ -1,7 +1,7 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-      # "https://raw.githubusercontent.com/yewengood/yahu/refs/heads/main/speedtest/gddx_fofa.txt",
+      "http://54.180.121.219:50001/Sub?type=txt",
       "https://raw.githubusercontent.com/yewengood/yahu/refs/heads/main/speedtest/gddx_fofa.txt",
     "https://raw.githubusercontent.com/yewengood/-/main/888.txt",
      "https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt",
