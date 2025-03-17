@@ -11,8 +11,8 @@ source_urls = [
    "http://54.180.121.219/M3U%E8%BD%ACTXT%E6%A0%BC%E5%BC%8F(%E9%93%BE%E6%8E%A5%E7%89%88).php?url=http://54.180.121.219/qq.php",
     "http://54.180.121.219:50103/Sub?type=txt&sd=1080&proxy=true",
     "http://rihou.cc:555",
-   "http://rihou.cc:567/gggg.nzk"
-   "http://54.180.121.219/M3U%E8%BD%ACTXT%E6%A0%BC%E5%BC%8F(%E9%93%BE%E6%8E%A5%E7%89%88).php?url=http://54.180.121.219:8123/tv.m3u?token=ABCD",
+   "http://rihou.cc:567/gggg.nzk",
+   "http://54.180.121.219/M3U%E8%BD%ACTXT%E6%A0%BC%E5%BC%8F(%E9%93%BE%E6%8E%A5%E7%89%88).php?url=http://54.180.121.219:8123/tv.m3u?token=ABCD"
    #"http://b.zgjok.com:35455/tv.m3u"
    # "https://raw.githubusercontent.com/Guovin/TV/gd/result.txt",
    # "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt",
