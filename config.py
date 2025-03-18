@@ -1,18 +1,7 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-      "http://54.180.121.219:50001/Sub?type=txt",
-      "https://raw.githubusercontent.com/yewengood/yahu/refs/heads/main/speedtest/gddx_fofa.txt",
-    "https://raw.githubusercontent.com/yewengood/-/main/888.txt",
-     "https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt",
-    "https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt",
-    "http://54.180.121.219/aaa.txt",
-    "http://54.180.121.219:35456/txt/3",
-   "http://54.180.121.219/M3U%E8%BD%ACTXT%E6%A0%BC%E5%BC%8F(%E9%93%BE%E6%8E%A5%E7%89%88).php?url=http://54.180.121.219/qq.php",
-    "http://54.180.121.219:50103/Sub?type=txt&sd=1080&proxy=true",
-    "http://rihou.cc:555",
-   "http://rihou.cc:567/gggg.nzk",
-   "http://54.180.121.219/M3U%E8%BD%ACTXT%E6%A0%BC%E5%BC%8F(%E9%93%BE%E6%8E%A5%E7%89%88).php?url=http://54.180.121.219:8123/tv.m3u?token=ABCD"
+     
    #"http://b.zgjok.com:35455/tv.m3u"
    # "https://raw.githubusercontent.com/Guovin/TV/gd/result.txt",
    # "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt",
